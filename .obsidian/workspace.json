@@ -181,11 +181,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "46afdc0f5a321e78",
+  "active": "10d0cf3d9b143ac2",
   "lastOpenFiles": [
-    "index.md",
-    "test.md",
     "git/123.md",
+    "test.md",
+    "index.md",
+    "2024-05-08.md",
     "git",
     "Welcome.md"
   ]
