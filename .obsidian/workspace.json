@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "939106b7ceecfd18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46afdc0f5a321e78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "10d0cf3d9b143ac2",
+  "active": "46afdc0f5a321e78",
   "lastOpenFiles": [
     "index.md",
     "test.md",
