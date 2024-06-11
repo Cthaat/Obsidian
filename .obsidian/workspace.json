@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc648c85adfea8e",
+        "id": "898cf052c8de86fb",
         "type": "tabs",
         "children": [
           {
-            "id": "3fd33c6b5106818c",
+            "id": "10d0cf3d9b143ac2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,33 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "test.md"
+              }
+            }
+          },
+          {
+            "id": "ca10050432dcd8aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e98eb4ace4725ae7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3fd33c6b5106818c",
+  "active": "ca10050432dcd8aa",
   "lastOpenFiles": [
     "index.md",
     "test.md",
