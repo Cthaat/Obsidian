@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "61af8188c9a319e4",
+        "id": "5bc648c85adfea8e",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d54fb2aaff1eec",
+            "id": "3fd33c6b5106818c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "982d10fb2fa82f1a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e58f4f80dc4623d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,10 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a4d54fb2aaff1eec",
+  "active": "3fd33c6b5106818c",
   "lastOpenFiles": [
     "index.md",
-    "index.md",
+    "test.md",
+    "git/123.md",
     "git",
     "Welcome.md"
   ]
