@@ -1,0 +1,6 @@
+---
+tags:
+- blog
+- Obsidian
+- Dataview
+---
