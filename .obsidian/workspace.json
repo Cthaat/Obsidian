@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "11ed7ac4a0270ad0",
+        "id": "141a62a9e8045567",
         "type": "tabs",
         "children": [
           {
-            "id": "37cb2ac96bb7833c",
+            "id": "5acc153c79e2af4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Maven.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a17e481a6aeae828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9969d9241afd178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maven.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#数据库",
+                "query": "tag:#Maven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,12 +181,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37cb2ac96bb7833c",
+  "active": "f9969d9241afd178",
   "lastOpenFiles": [
+    "pic/Pasted image 20240612202745.png",
     "Maven.md",
-    "虚拟机运行docker中运行redis.md",
-    "Maven.md",
+    "pic",
+    "pic/Pasted image 20240612202754.png",
+    "pic/Pasted image 20240612215433.png",
+    "pic/Pasted image 20240612214635.png",
+    "pic/Pasted image 20240612211543.png",
+    "pic/Pasted image 20240612203936.png",
+    "pic/Pasted image 20240612203920.png",
+    "pic/Pasted image 20240612203748.png",
+    "pic/Pasted image 20240612203323.png",
+    "pic/Pasted image 20240612203321.png",
     "index.md",
+    "虚拟机运行docker中运行redis.md",
     "未命名.canvas",
     "test.md",
     "git/123.md",
