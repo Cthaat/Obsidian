@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e5f2140c5c5c2035",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c723aff42276f255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "虚拟机运行docker中运行redis.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "11ed7ac4a0270ad0",
         "type": "tabs",
         "children": [
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#数据库",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,12 +163,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c723aff42276f255",
+  "active": "5a12808f8762b51c",
   "lastOpenFiles": [
+    "index.md",
+    "未命名.canvas",
     "虚拟机运行docker中运行redis.md",
     "test.md",
     "git/123.md",
-    "index.md",
     "2024-05-08.md",
     "git",
     "Welcome.md"
