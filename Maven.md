@@ -105,7 +105,8 @@ tags: Maven , IDEA
 - ![[Pasted image 20240613123515.png]]
 - 配置项目，运行，这样可以进行断点调试
 - ![[Pasted image 20240613123455.png]]
-- 
+- 注意如果要配置运行javaweb项目一定要打包为war包
+- ![[Pasted image 20240613144512.png]]
 
 ---
 
