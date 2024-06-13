@@ -94,3 +94,10 @@ tags: Maven , IDEA
 
 ---
 
+## 打包web项目
+
+- 创建webapp文件，注意必须在main文件夹下
+- ![[Pasted image 20240613120325.png]]
+- 补全WEB_INF和web.xml
+- ![[Pasted image 20240613120357.png]]
+- 在设置中的模板寻找web.xml 的模板
