@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "141a62a9e8045567",
+        "id": "a17e481a6aeae828",
         "type": "tabs",
         "children": [
           {
-            "id": "5acc153c79e2af4a",
+            "id": "f9969d9241afd178",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "a17e481a6aeae828",
+        "id": "5ec81421ec8399ae",
         "type": "tabs",
         "children": [
           {
-            "id": "f9969d9241afd178",
+            "id": "7dcea5f4cda28303",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,23 +181,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5acc153c79e2af4a",
+  "active": "f9969d9241afd178",
   "lastOpenFiles": [
-    "Pasted image 20240613120357.png",
-    "Pasted image 20240613120325.png",
-    "pic/Pasted image 20240612224622.png",
+    "虚拟机运行docker中运行redis.md",
     "Maven.md",
+    "pic/Pasted image 20240613124332.png",
+    "pic/Pasted image 20240613120325.png",
+    "pic/Pasted image 20240613123515.png",
+    "pic/Pasted image 20240613123455.png",
+    "pic/Pasted image 20240613120357.png",
+    "pic/Pasted image 20240612224622.png",
     "pic/Pasted image 20240612224707.png",
     "pic/Pasted image 20240612202745.png",
     "pic",
     "pic/Pasted image 20240612202754.png",
     "pic/Pasted image 20240612215433.png",
-    "pic/Pasted image 20240612214635.png",
-    "pic/Pasted image 20240612211543.png",
-    "pic/Pasted image 20240612203936.png",
-    "pic/Pasted image 20240612203920.png",
     "index.md",
-    "虚拟机运行docker中运行redis.md",
     "未命名.canvas",
     "test.md",
     "git/123.md",
