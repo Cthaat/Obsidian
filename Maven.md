@@ -83,3 +83,14 @@ tags: Maven , IDEA
  - ![[Pasted image 20240612215433.png]]
  - 通过坐标可以确定唯一的一个jar包
 
+---
+
+## 编译插件
+
+- alt+ins 插入插件模板
+- ![[Pasted image 20240612224622.png]]
+- 配置参数 jdk版本
+- ![[Pasted image 20240612224707.png]]
+
+---
+
