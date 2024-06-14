@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven.md",
+                "file": "虚拟机运行docker中运行redis.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bfc3cf239e9ac1c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "远程连接redistributionb.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5ec81421ec8399ae",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven.md",
+                "file": "远程连接redistributionb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven.md",
+                "file": "远程连接redistributionb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maven.md"
+                "file": "远程连接redistributionb.md"
               }
             }
           },
@@ -181,11 +194,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f9969d9241afd178",
+  "active": "bfc3cf239e9ac1c1",
   "lastOpenFiles": [
-    "pic/Pasted image 20240613144512.png",
-    "Maven.md",
     "虚拟机运行docker中运行redis.md",
+    "远程连接redistributionb.md",
+    "Maven.md",
+    "pic/Pasted image 20240613144512.png",
     "pic/Pasted image 20240613124332.png",
     "pic/Pasted image 20240613120325.png",
     "pic/Pasted image 20240613123515.png",
