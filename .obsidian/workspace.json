@@ -4,50 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a17e481a6aeae828",
+        "id": "ed3c06b0a2c5ffa3",
         "type": "tabs",
         "children": [
           {
-            "id": "f9969d9241afd178",
+            "id": "aa0fdd1f1e76fd36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "虚拟机运行docker中运行redis.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bfc3cf239e9ac1c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "远程连接redistributionb.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5ec81421ec8399ae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7dcea5f4cda28303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maven.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -116,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "远程连接redistributionb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "远程连接redistributionb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "远程连接redistributionb.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,10 +155,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bfc3cf239e9ac1c1",
+  "active": "aa0fdd1f1e76fd36",
   "lastOpenFiles": [
+    "远程连接redis报错.md",
+    "pic/Pasted image 20240614133832.png",
     "虚拟机运行docker中运行redis.md",
-    "远程连接redistributionb.md",
+    "index.md",
+    "pic/Pasted image 20240614133413.png",
+    "pic/Pasted image 20240614132807.png",
     "Maven.md",
     "pic/Pasted image 20240613144512.png",
     "pic/Pasted image 20240613124332.png",
@@ -206,11 +171,7 @@
     "pic/Pasted image 20240613123455.png",
     "pic/Pasted image 20240613120357.png",
     "pic/Pasted image 20240612224622.png",
-    "pic/Pasted image 20240612224707.png",
-    "pic/Pasted image 20240612202745.png",
     "pic",
-    "pic/Pasted image 20240612202754.png",
-    "index.md",
     "未命名.canvas",
     "test.md",
     "git/123.md",
