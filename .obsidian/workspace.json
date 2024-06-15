@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "远程连接redis报错.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "远程连接redis报错.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "远程连接redis报错.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "远程连接redis报错.md"
+                "file": "index.md"
               }
             }
           },
@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +162,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aa0fdd1f1e76fd36",
+  "active": "ca10050432dcd8aa",
   "lastOpenFiles": [
-    "虚拟机运行docker中运行redis.md",
     "远程连接redis报错.md",
+    "虚拟机运行docker中运行redis.md",
     "pic/Pasted image 20240614133832.png",
     "index.md",
     "pic/Pasted image 20240614133413.png",
