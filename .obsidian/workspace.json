@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "768cb777a639bfde",
+        "id": "9f0e1e3a678a965f",
         "type": "tabs",
         "children": [
           {
-            "id": "00d848a2f945a499",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pic/Pasted image 20240615161725.png"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4870aa7050910714",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee1eae6c16b99b30",
+            "id": "c4dbba5995dbd717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven打包构建运行jar包时候报错.md",
-                "mode": "preview",
+                "file": "Maven.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pic/Pasted image 20240615161725.png",
+                "file": "Maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pic/Pasted image 20240615161725.png",
+                "file": "Maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pic/Pasted image 20240615161725.png"
+                "file": "Maven.md"
               }
             }
           },
@@ -179,15 +163,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "00d848a2f945a499",
+  "active": "c4dbba5995dbd717",
   "lastOpenFiles": [
-    "Maven打包构建运行jar包时候报错.md",
-    "pic/Pasted image 20240615162051.png",
-    "pic/Pasted image 20240615161725.png",
-    "远程连接redis报错.md",
-    "Maven.md",
     "index.md",
+    "Maven.md",
+    "远程连接redis报错.md",
+    "Maven打包构建运行jar包时候报错.md",
     "虚拟机运行docker中运行redis.md",
+    "pic/Pasted image 20240615161725.png",
+    "pic/Pasted image 20240615162051.png",
     "pic/Pasted image 20240614133832.png",
     "pic/Pasted image 20240614133413.png",
     "pic/Pasted image 20240614132807.png",
