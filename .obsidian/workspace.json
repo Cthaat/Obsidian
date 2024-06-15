@@ -4,17 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "ed3c06b0a2c5ffa3",
+        "id": "768cb777a639bfde",
         "type": "tabs",
         "children": [
           {
-            "id": "aa0fdd1f1e76fd36",
+            "id": "00d848a2f945a499",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pic/Pasted image 20240615161725.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4870aa7050910714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee1eae6c16b99b30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "Maven打包构建运行jar包时候报错.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "pic/Pasted image 20240615161725.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "pic/Pasted image 20240615161725.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "pic/Pasted image 20240615161725.png"
               }
             }
           },
@@ -150,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,22 +179,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ca10050432dcd8aa",
+  "active": "00d848a2f945a499",
   "lastOpenFiles": [
+    "Maven打包构建运行jar包时候报错.md",
+    "pic/Pasted image 20240615162051.png",
+    "pic/Pasted image 20240615161725.png",
     "远程连接redis报错.md",
+    "Maven.md",
+    "index.md",
     "虚拟机运行docker中运行redis.md",
     "pic/Pasted image 20240614133832.png",
-    "index.md",
     "pic/Pasted image 20240614133413.png",
     "pic/Pasted image 20240614132807.png",
-    "Maven.md",
     "pic/Pasted image 20240613144512.png",
     "pic/Pasted image 20240613124332.png",
     "pic/Pasted image 20240613120325.png",
     "pic/Pasted image 20240613123515.png",
     "pic/Pasted image 20240613123455.png",
-    "pic/Pasted image 20240613120357.png",
-    "pic/Pasted image 20240612224622.png",
     "pic",
     "未命名.canvas",
     "test.md",
