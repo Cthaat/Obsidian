@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0e1e3a678a965f",
+        "id": "27e6129ae56b6acd",
         "type": "tabs",
         "children": [
           {
-            "id": "c4dbba5995dbd717",
+            "id": "5afe5f29d3f77dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven.md",
+                "file": "index.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "db4b7ac0c5519d34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1557602591fe085c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Maven",
+                "query": "tag:#尚未解决",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maven.md"
+                "file": "index.md"
               }
             }
           },
@@ -163,13 +181,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c4dbba5995dbd717",
+  "active": "8be9253b71f2bc59",
   "lastOpenFiles": [
-    "index.md",
-    "Maven.md",
-    "远程连接redis报错.md",
-    "Maven打包构建运行jar包时候报错.md",
     "虚拟机运行docker中运行redis.md",
+    "index.md",
+    "远程连接redis报错.md",
+    "Maven.md",
+    "Maven打包构建运行jar包时候报错.md",
     "pic/Pasted image 20240615161725.png",
     "pic/Pasted image 20240615162051.png",
     "pic/Pasted image 20240614133832.png",
