@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-html-tags-autocomplete",
   "dataview",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "mermaid-tools"
 ]
