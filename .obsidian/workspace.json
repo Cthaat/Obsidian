@@ -154,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +171,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8de488e105768dab",
+  "active": "ca10050432dcd8aa",
   "lastOpenFiles": [
     "流程.md",
     "流程图.md",
