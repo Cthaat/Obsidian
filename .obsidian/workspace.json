@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "流程图.md",
+                "file": "虚拟机运行docker中运行redis.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "流程图.md",
+                "file": "虚拟机运行docker中运行redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "流程图.md",
+                "file": "虚拟机运行docker中运行redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "流程图.md"
+                "file": "虚拟机运行docker中运行redis.md"
               }
             }
           },
@@ -171,10 +171,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ca10050432dcd8aa",
+  "active": "8de488e105768dab",
   "lastOpenFiles": [
-    "流程.md",
+    "pic/Pasted image 20240612202745.png",
+    "未命名.md",
     "流程图.md",
+    "流程.md",
     "未命名",
     "index.md",
     "未命名 1",
