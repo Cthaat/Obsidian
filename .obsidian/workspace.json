@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "27e6129ae56b6acd",
+        "id": "8cca33293806761b",
         "type": "tabs",
         "children": [
           {
-            "id": "8de488e105768dab",
+            "id": "d2e570c2ffbe2605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/来源.md",
+                "file": "概念.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc697846ecf44766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d8bf0d25213fbcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "概念.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/来源.md",
+                "file": "概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/来源.md",
+                "file": "概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/来源.md"
+                "file": "概念.md"
               }
             }
           },
@@ -172,21 +190,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8de488e105768dab",
+  "active": "d2e570c2ffbe2605",
   "lastOpenFiles": [
-    "虚拟机运行docker中运行redis.md",
+    "Pasted image 20240627143118.png",
+    "Pasted image 20240627142448.png",
+    "日记/虚拟机运行docker中运行redis.md",
+    "概念.md",
+    "pic/Pasted image 20240627142044.png",
     "Vue/来源.md",
-    "未命名.md",
-    "未命名",
+    "AJAX/来源.md",
+    "AJAX",
+    "日记",
+    "未命名 1.md",
     "Vue",
     "pic/Pasted image 20240612202745.png",
-    "流程图.md",
+    "日记/流程图.md",
     "流程.md",
-    "index.md",
+    "日记/index.md",
     "未命名 1",
-    "远程连接redis报错.md",
-    "Maven.md",
-    "Maven打包构建运行jar包时候报错.md",
+    "日记/远程连接redis报错.md",
+    "日记/Maven.md",
+    "日记/Maven打包构建运行jar包时候报错.md",
     "pic/Pasted image 20240615161725.png",
     "pic/Pasted image 20240615162051.png",
     "pic/Pasted image 20240614133832.png",
@@ -194,8 +218,6 @@
     "pic/Pasted image 20240614132807.png",
     "pic/Pasted image 20240613144512.png",
     "pic/Pasted image 20240613124332.png",
-    "pic/Pasted image 20240613120325.png",
-    "pic/Pasted image 20240613123515.png",
     "pic",
     "未命名.canvas",
     "test.md",
