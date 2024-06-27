@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "9345bc428193410f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "dc697846ecf44766",
@@ -201,7 +190,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9345bc428193410f",
+  "active": "d2e570c2ffbe2605",
   "lastOpenFiles": [
     "pic/Pasted image 20240627145505.png",
     "Pasted image 20240627145450.png",
