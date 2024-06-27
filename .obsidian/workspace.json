@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "虚拟机运行docker中运行redis.md",
+                "file": "Vue/来源.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "虚拟机运行docker中运行redis.md",
+                "file": "Vue/来源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "虚拟机运行docker中运行redis.md",
+                "file": "Vue/来源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "虚拟机运行docker中运行redis.md"
+                "file": "Vue/来源.md"
               }
             }
           },
@@ -174,14 +174,16 @@
   },
   "active": "8de488e105768dab",
   "lastOpenFiles": [
-    "pic/Pasted image 20240612202745.png",
+    "虚拟机运行docker中运行redis.md",
+    "Vue/来源.md",
     "未命名.md",
+    "未命名",
+    "Vue",
+    "pic/Pasted image 20240612202745.png",
     "流程图.md",
     "流程.md",
-    "未命名",
     "index.md",
     "未命名 1",
-    "虚拟机运行docker中运行redis.md",
     "远程连接redis报错.md",
     "Maven.md",
     "Maven打包构建运行jar包时候报错.md",
@@ -194,7 +196,6 @@
     "pic/Pasted image 20240613124332.png",
     "pic/Pasted image 20240613120325.png",
     "pic/Pasted image 20240613123515.png",
-    "pic/Pasted image 20240613123455.png",
     "pic",
     "未命名.canvas",
     "test.md",
