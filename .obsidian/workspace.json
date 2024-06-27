@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9345bc428193410f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "dc697846ecf44766",
@@ -176,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +201,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ca10050432dcd8aa",
+  "active": "9345bc428193410f",
   "lastOpenFiles": [
     "pic/Pasted image 20240627145505.png",
     "Pasted image 20240627145450.png",
