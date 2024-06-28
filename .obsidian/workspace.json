@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28cf2b2d950f8901",
+            "id": "647554662ec4f328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AJAX/提交数据.md",
+                "file": "AJAX/form-serialize.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "2ae2461722b16874",
+        "id": "5c5e1f493d3ee4e4",
         "type": "tabs",
         "children": [
           {
-            "id": "677d83f7e3a4448c",
+            "id": "5375510bb39bc880",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AJAX/提交数据.md",
+                "file": "AJAX/form-serialize.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AJAX/提交数据.md",
+                "file": "AJAX/form-serialize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AJAX/提交数据.md",
+                "file": "AJAX/form-serialize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AJAX/提交数据.md"
+                "file": "AJAX/form-serialize.md"
               }
             }
           },
@@ -190,23 +190,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "28cf2b2d950f8901",
+  "active": "647554662ec4f328",
   "lastOpenFiles": [
-    "Pasted image 20240627222930.png",
-    "Pasted image 20240627222621.png",
-    "pic/Pasted image 20240627181439.png",
     "AJAX/提交数据.md",
-    "pic/Pasted image 20240627215557.png",
-    "AJAX/来源.md",
-    "pic/Pasted image 20240627215419.png",
-    "pic/Pasted image 20240627215254.png",
-    "pic/Pasted image 20240627215019.png",
-    "pic/Pasted image 20240627214947.png",
-    "pic/Pasted image 20240627214923.png",
-    "pic/Pasted image 20240627181528.png",
-    "pic/Pasted image 20240627180755.png",
-    "未命名",
+    "AJAX/form-serialize.md",
+    "pic/Pasted image 20240628220006.png",
+    "pic/Pasted image 20240628220255.png",
+    "pic/Pasted image 20240628220242.png",
+    "pic/Pasted image 20240628220216.png",
+    "pic/Pasted image 20240628220113.png",
+    "pic/Pasted image 20240627222621.png",
+    "pic/Pasted image 20240628215657.png",
+    "pic/Pasted image 20240628215632.png",
     "AJAX/概念.md",
+    "pic/Pasted image 20240627222930.png",
+    "pic/Pasted image 20240627181439.png",
+    "AJAX/来源.md",
+    "未命名",
     "日记/虚拟机运行docker中运行redis.md",
     "Vue/来源.md",
     "AJAX",

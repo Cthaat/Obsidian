@@ -1,0 +1,15 @@
+---
+tags: 插件,前端
+---
+---
+ - 快速收集表单元素
+ - ![[Pasted image 20240628215632.png]]
+ - 引入插件
+ - `<script src="./lib/form-serialize.js"></script>`
+ - 收集结果
+ - ![[Pasted image 20240628215657.png]]
+ - ![[Pasted image 20240628220006.png]]
+ - 表单的name属性就是获取时候的key
+ - ![[Pasted image 20240628220113.png]]
+ - 配置参数
+ - ![[Pasted image 20240628220255.png]]
