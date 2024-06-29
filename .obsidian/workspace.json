@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AJAX/form-serialize.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5c5e1f493d3ee4e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5375510bb39bc880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AJAX/form-serialize.md",
+                "file": "AJAX/提交数据.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AJAX/form-serialize.md",
+                "file": "AJAX/提交数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AJAX/form-serialize.md",
+                "file": "AJAX/提交数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AJAX/form-serialize.md"
+                "file": "AJAX/提交数据.md"
               }
             }
           },
@@ -192,8 +174,8 @@
   },
   "active": "647554662ec4f328",
   "lastOpenFiles": [
-    "AJAX/提交数据.md",
     "AJAX/form-serialize.md",
+    "AJAX/提交数据.md",
     "pic/Pasted image 20240628220006.png",
     "pic/Pasted image 20240628220255.png",
     "pic/Pasted image 20240628220242.png",
