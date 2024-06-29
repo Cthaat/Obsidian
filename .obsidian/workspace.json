@@ -18,6 +18,37 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d5bc956e0758adfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node.js/模块.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "75d658895120bc58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f50c412713a69e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node.js/模块.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/来源.md",
+                "file": "Node.js/模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/来源.md",
+                "file": "Node.js/模块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/来源.md"
+                "file": "Node.js/模块.md"
               }
             }
           },
@@ -172,9 +203,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "09d30bfd5adf3edb",
+  "active": "d5bc956e0758adfc",
   "lastOpenFiles": [
+    "Pasted image 20240630070449.png",
     "Node.js/来源.md",
+    "Node.js/模块.md",
     "pic/Pasted image 20240629205459.png",
     "Node.js",
     "AJAX/事件.md",
