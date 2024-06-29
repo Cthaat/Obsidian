@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AJAX/提交数据.md",
+                "file": "AJAX/form-serialize.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AJAX/提交数据.md",
+                "file": "AJAX/form-serialize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AJAX/提交数据.md",
+                "file": "AJAX/form-serialize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AJAX/提交数据.md"
+                "file": "AJAX/form-serialize.md"
               }
             }
           },
@@ -172,10 +172,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "647554662ec4f328",
+  "active": "8be9253b71f2bc59",
   "lastOpenFiles": [
-    "AJAX/form-serialize.md",
     "AJAX/提交数据.md",
+    "AJAX/form-serialize.md",
     "pic/Pasted image 20240628220006.png",
     "pic/Pasted image 20240628220255.png",
     "pic/Pasted image 20240628220242.png",
