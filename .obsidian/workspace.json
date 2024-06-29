@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8cca33293806761b",
+        "id": "33cc21c10b0ca894",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac7ec6b31d69acf",
+            "id": "09d30bfd5adf3edb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AJAX/原理.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "efd2fc7005de9e8c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e64c429ae314d85c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AJAX/原理.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "8152dfa0b47c7034",
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AJAX/原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AJAX/原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AJAX/原理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,24 +163,26 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4ac7ec6b31d69acf",
+  "active": "09d30bfd5adf3edb",
   "lastOpenFiles": [
-    "pic/Pasted image 20240629191006.png",
+    "Node.js/来源.md",
+    "pic/Pasted image 20240629205459.png",
+    "Node.js",
+    "AJAX/事件.md",
+    "pic/Pasted image 20240629211116.png",
     "AJAX/原理.md",
+    "pic/Pasted image 20240629205934.png",
+    "pic/Pasted image 20240629205905.png",
+    "Pasted image 20240629205445.png",
+    "pic/Pasted image 20240629204923.png",
+    "pic/Pasted image 20240629204925.png",
+    "pic/Pasted image 20240629191006.png",
     "pic/Pasted image 20240629201305.png",
     "pic/Pasted image 20240629201021.png",
-    "pic/Pasted image 20240629184006.png",
-    "pic/Pasted image 20240629190121.png",
-    "pic/Pasted image 20240629185559.png",
-    "pic/Pasted image 20240629184118.png",
     "AJAX/form-serialize.md",
     "AJAX/提交数据.md",
-    "pic/Pasted image 20240628220006.png",
-    "pic/Pasted image 20240628220255.png",
-    "pic/Pasted image 20240628220242.png",
     "AJAX/概念.md",
     "AJAX/来源.md",
-    "未命名",
     "日记/虚拟机运行docker中运行redis.md",
     "Vue/来源.md",
     "AJAX",
