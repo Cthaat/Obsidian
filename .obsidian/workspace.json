@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/包.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7c489a6284429628",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2750a3e33e7f5f2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/包.md",
+                "file": "Vue/来源.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/包.md",
+                "file": "Vue/来源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/包.md",
+                "file": "Vue/来源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/包.md"
+                "file": "Vue/来源.md"
               }
             }
           },
@@ -192,22 +174,22 @@
   },
   "active": "9bfc859097e6c37f",
   "lastOpenFiles": [
-    "Pasted image 20240630191815.png",
-    "Node.js/模块.md",
-    "Node.js/包.md",
+    "未命名.md",
+    "Vue/来源.md",
     "Node.js/来源.md",
-    "Pasted image 20240630190647.png",
-    "Pasted image 20240630190515.png",
-    "Pasted image 20240630184148.png",
+    "Node.js/包.md",
+    "Node.js/模块.md",
+    "pic/Pasted image 20240630184148.png",
+    "pic/Pasted image 20240630191815.png",
+    "pic/Pasted image 20240630190647.png",
+    "pic/Pasted image 20240630190515.png",
     "pic/Pasted image 20240630164252.png",
     "pic/Pasted image 20240630174518.png",
     "pic/Pasted image 20240630174354.png",
     "pic/Pasted image 20240630165124.png",
     "pic/Pasted image 20240630164647.png",
     "pic/Pasted image 20240630164325.png",
-    "pic/Pasted image 20240630164143.png",
     "AJAX/来源.md",
-    "Vue/来源.md",
     "Node.js",
     "AJAX/事件.md",
     "AJAX/原理.md",
