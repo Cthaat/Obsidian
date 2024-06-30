@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36a5d820dc02a380",
+        "id": "d92bb4a3682bf437",
         "type": "tabs",
         "children": [
           {
-            "id": "e0d253a8883ac047",
+            "id": "9bfc859097e6c37f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "e5dede7fc69a7fb5",
+        "id": "7c489a6284429628",
         "type": "tabs",
         "children": [
           {
-            "id": "874e16a76b258b50",
+            "id": "2750a3e33e7f5f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,23 +190,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e0d253a8883ac047",
+  "active": "9bfc859097e6c37f",
   "lastOpenFiles": [
+    "Pasted image 20240630191815.png",
+    "Node.js/模块.md",
+    "Node.js/包.md",
+    "Node.js/来源.md",
+    "Pasted image 20240630190647.png",
+    "Pasted image 20240630190515.png",
     "Pasted image 20240630184148.png",
     "pic/Pasted image 20240630164252.png",
-    "Node.js/包.md",
     "pic/Pasted image 20240630174518.png",
     "pic/Pasted image 20240630174354.png",
     "pic/Pasted image 20240630165124.png",
     "pic/Pasted image 20240630164647.png",
     "pic/Pasted image 20240630164325.png",
     "pic/Pasted image 20240630164143.png",
-    "pic/Pasted image 20240630162850.png",
-    "Node.js/模块.md",
-    "pic/Pasted image 20240630163013.png",
-    "pic/Pasted image 20240630161920.png",
     "AJAX/来源.md",
-    "Node.js/来源.md",
     "Vue/来源.md",
     "Node.js",
     "AJAX/事件.md",
