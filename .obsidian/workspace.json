@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b37bf84e5964eb31",
+        "id": "aa990c2e5467406c",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0332625f083f0f",
+            "id": "39c5d6b7e59f5667",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bc0332625f083f0f",
+  "active": "8be9253b71f2bc59",
   "lastOpenFiles": [
+    "Vue/Vuetify设置背景.md",
     "SSM/来源.md",
     "GO/来源.md",
     "GO",
