@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f0d0dec976c2ccf9",
+        "id": "7dd8711230b231f2",
         "type": "tabs",
         "children": [
           {
-            "id": "bb9ab14bebcd2b22",
+            "id": "c875e0d7c9b8ee73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SSM/配置Bean.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fec4989d6e20046e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d83a325122beaa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSM/配置Bean.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SSM/配置Bean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SSM/配置Bean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SSM/配置Bean.md"
+              }
             }
           },
           {
@@ -164,28 +190,31 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bb9ab14bebcd2b22",
+  "active": "c875e0d7c9b8ee73",
   "lastOpenFiles": [
+    "Pasted image 20240706165316.png",
+    "Pasted image 20240706164925.png",
+    "SSM/配置Ioc.md",
+    "SSM/配置Bean.md",
+    "pic/Pasted image 20240706164549.png",
+    "pic/Pasted image 20240706164644.png",
+    "pic/Pasted image 20240706164637.png",
+    "pic/Pasted image 20240706164631.png",
     "Vue/Vuetify设置背景.md",
+    "Node.js/模块.md",
+    "Node.js/来源.md",
     "SSM/来源.md",
     "GO/来源.md",
     "GO",
     "Vue/来源.md",
     "S.md",
     "SSM",
-    "Node.js/来源.md",
     "Node.js/包.md",
-    "Node.js/模块.md",
     "pic/Pasted image 20240630184148.png",
     "pic/Pasted image 20240630191815.png",
     "pic/Pasted image 20240630190647.png",
     "pic/Pasted image 20240630190515.png",
     "pic/Pasted image 20240630164252.png",
-    "pic/Pasted image 20240630174518.png",
-    "pic/Pasted image 20240630174354.png",
-    "pic/Pasted image 20240630165124.png",
-    "pic/Pasted image 20240630164647.png",
-    "pic/Pasted image 20240630164325.png",
     "AJAX/来源.md",
     "Node.js",
     "AJAX/事件.md",
@@ -208,9 +237,6 @@
     "pic",
     "未命名.canvas",
     "test.md",
-    "git/123.md",
-    "2024-05-08.md",
-    "git",
-    "Welcome.md"
+    "git"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-tags:vue,vuetify
+tags: vue,vuetify
 ---
 
 ---
