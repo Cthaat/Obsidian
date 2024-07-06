@@ -7,6 +7,7 @@ tags:vue,vuetify
 ## 背景设置
 
  - 直接设置body样式，可以更改整个页面
+ - 
 ```css
 body {
 
