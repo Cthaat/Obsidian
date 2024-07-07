@@ -36,3 +36,10 @@ tags:
  - ![[Pasted image 20240707212900.png]]
  - 上边是工厂，下边是生产出来的实例
  - ![[Pasted image 20240707212934.png]]
+ - ![[Pasted image 20240707221356.png]]
+ - 创建单例对象
+ - ![[Pasted image 20240707221814.png]]
+ - ![[Pasted image 20240707221824.png]]
+
+---
+
