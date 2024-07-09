@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +190,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "16a05390ada00fcb",
+  "active": "ca10050432dcd8aa",
   "lastOpenFiles": [
     "pic/Pasted image 20240708224323.png",
     "OneNote/来源.md",
