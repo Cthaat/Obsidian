@@ -190,10 +190,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5abe3b7ec3897cb2",
+  "active": "6ad8e23019898653",
   "lastOpenFiles": [
-    "SSM/容器.md",
+    "pic/Pasted image 20240710200847.png",
     "SSM/注解.md",
+    "pic/Pasted image 20240710200912.png",
+    "SSM/容器.md",
     "pic/Pasted image 20240710194149.png",
     "pic/Pasted image 20240710194713.png",
     "pic/Pasted image 20240710194627.png",
@@ -205,9 +207,7 @@
     "SSM/依赖注入.md",
     "pic/Pasted image 20240708224647.png",
     "pic/Pasted image 20240708224618.png",
-    "pic/Pasted image 20240708224514.png",
     "SSM/来源.md",
-    "pic/Pasted image 20240708131517.png",
     "SSM/配置Bean.md",
     "SSM/配置Ioc.md",
     "Vue/Vuetify设置背景.md",
@@ -235,7 +235,6 @@
     "流程.md",
     "日记/index.md",
     "未命名 1",
-    "日记/远程连接redis报错.md",
     "pic",
     "未命名.canvas",
     "git"
