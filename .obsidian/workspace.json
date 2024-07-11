@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/注解.md",
+                "file": "SSM/MyBatis.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "05a83735754a6e9d",
+        "id": "616e71556284ef0b",
         "type": "tabs",
         "children": [
           {
-            "id": "3f4f105ef682cb96",
+            "id": "6a7c5dd8e9302c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/注解.md",
+                "file": "SSM/MyBatis.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSM/注解.md",
+                "file": "SSM/MyBatis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSM/注解.md",
+                "file": "SSM/MyBatis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSM/注解.md"
+                "file": "SSM/MyBatis.md"
               }
             }
           },
@@ -192,6 +192,9 @@
   },
   "active": "756ae2811544e013",
   "lastOpenFiles": [
+    "SSM/来源.md",
+    "SSM/MyBatis.md",
+    "SSM/注解.md",
     "Pasted image 20240711220127.png",
     "日记/包冲突报错.md",
     "pic/Pasted image 20240711120048.png",
@@ -200,7 +203,6 @@
     "pic/Pasted image 20240711121211.png",
     "pic/Pasted image 20240711121058.png",
     "pic/Pasted image 20240711121043.png",
-    "SSM/注解.md",
     "pic/Pasted image 20240711120416.png",
     "pic/Pasted image 20240711120400.png",
     "pic/Pasted image 20240711120103.png",
@@ -208,10 +210,8 @@
     "pic/Pasted image 20240710200847.png",
     "pic/Pasted image 20240710200912.png",
     "SSM/容器.md",
-    "pic/Pasted image 20240710194149.png",
     "OneNote/来源.md",
     "OneNote",
-    "SSM/来源.md",
     "SSM/配置Bean.md",
     "SSM/配置Ioc.md",
     "Vue/Vuetify设置背景.md",
