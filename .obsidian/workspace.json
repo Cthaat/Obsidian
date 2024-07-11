@@ -11,8 +11,30 @@
             "id": "8ffcb74af0012268",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SSM/注解.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9b5a7ced3b16053c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "756ae2811544e013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSM/注解.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/来源.md",
+                "file": "SSM/注解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/来源.md",
+                "file": "SSM/注解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GO/来源.md"
+                "file": "SSM/注解.md"
               }
             }
           },
@@ -168,8 +190,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8be9253b71f2bc59",
+  "active": "8ffcb74af0012268",
   "lastOpenFiles": [
+    "Pasted image 20240711120416.png",
+    "Pasted image 20240711120400.png",
+    "Pasted image 20240711120103.png",
+    "Pasted image 20240711120048.png",
+    "GO/来源.md",
     "SSM/注解.md",
     "pic/Pasted image 20240710200847.png",
     "pic/Pasted image 20240710200912.png",
@@ -181,17 +208,13 @@
     "OneNote/来源.md",
     "pic/Pasted image 20240708224323.png",
     "OneNote",
-    "pic/Pasted image 20240708224437.png",
     "SSM/依赖注入.md",
-    "pic/Pasted image 20240708224647.png",
-    "pic/Pasted image 20240708224618.png",
     "SSM/来源.md",
     "SSM/配置Bean.md",
     "SSM/配置Ioc.md",
     "Vue/Vuetify设置背景.md",
     "Node.js/模块.md",
     "Node.js/来源.md",
-    "GO/来源.md",
     "GO",
     "Vue/来源.md",
     "S.md",
