@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5dc11bbcc1a9fcea",
+        "id": "9b5a7ced3b16053c",
         "type": "tabs",
         "children": [
           {
-            "id": "8ffcb74af0012268",
+            "id": "756ae2811544e013",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "9b5a7ced3b16053c",
+        "id": "05a83735754a6e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "756ae2811544e013",
+            "id": "3f4f105ef682cb96",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,25 +190,26 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8ffcb74af0012268",
+  "active": "756ae2811544e013",
   "lastOpenFiles": [
-    "Pasted image 20240711120416.png",
-    "Pasted image 20240711120400.png",
-    "Pasted image 20240711120103.png",
-    "Pasted image 20240711120048.png",
-    "GO/来源.md",
+    "日记/包冲突报错.md",
+    "pic/Pasted image 20240711120048.png",
+    "未命名",
+    "SSM/依赖注入.md",
+    "pic/Pasted image 20240711121211.png",
+    "pic/Pasted image 20240711121058.png",
+    "pic/Pasted image 20240711121043.png",
     "SSM/注解.md",
+    "pic/Pasted image 20240711120416.png",
+    "pic/Pasted image 20240711120400.png",
+    "pic/Pasted image 20240711120103.png",
+    "GO/来源.md",
     "pic/Pasted image 20240710200847.png",
     "pic/Pasted image 20240710200912.png",
     "SSM/容器.md",
     "pic/Pasted image 20240710194149.png",
-    "pic/Pasted image 20240710194713.png",
-    "pic/Pasted image 20240710194627.png",
-    "pic/Pasted image 20240710194159.png",
     "OneNote/来源.md",
-    "pic/Pasted image 20240708224323.png",
     "OneNote",
-    "SSM/依赖注入.md",
     "SSM/来源.md",
     "SSM/配置Bean.md",
     "SSM/配置Ioc.md",
@@ -234,10 +235,8 @@
     "Vue",
     "日记/流程图.md",
     "流程.md",
-    "日记/index.md",
     "未命名 1",
     "pic",
-    "未命名.canvas",
-    "git"
+    "未命名.canvas"
   ]
 }
