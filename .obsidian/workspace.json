@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7dd8711230b231f2",
+        "id": "5dc11bbcc1a9fcea",
         "type": "tabs",
         "children": [
           {
-            "id": "6ad8e23019898653",
+            "id": "8ffcb74af0012268",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GO/来源.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a3eaee0ba4114a6b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5abe3b7ec3897cb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSM/注解.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -190,7 +168,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6ad8e23019898653",
+  "active": "8be9253b71f2bc59",
   "lastOpenFiles": [
     "SSM/注解.md",
     "pic/Pasted image 20240710200847.png",
