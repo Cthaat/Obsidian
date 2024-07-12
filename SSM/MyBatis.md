@@ -34,3 +34,6 @@ tags: Spring,Sql
  - Java为驼峰命名法
  - sql中为下划线名法
  - ![[Pasted image 20240712165403.png]]
+
+---
+
