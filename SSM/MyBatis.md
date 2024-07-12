@@ -26,3 +26,11 @@ tags: Spring,Sql
  - typeAliases
 	 - 可以设置类型别名和包名称
 	 - ![[Pasted image 20240712163403.png]]
+
+---
+
+## 驼峰命名法和下划线命名转换
+
+ - Java为驼峰命名法
+ - sql中为下划线名法
+ - ![[Pasted image 20240712165403.png]]
