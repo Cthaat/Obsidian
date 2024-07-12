@@ -44,3 +44,19 @@ tags: Spring,Sql
 ---
 
 ## 动态条件查询
+
+ - if语句
+```xml
+select *  
+from test  
+<where>  
+    <if test="id!= null">  
+        and id = #{id}  
+    </if>  
+    <if test="name!= null">  
+        and name = #{name}  
+    </if>  
+</where>
+```
+
+ - choose
