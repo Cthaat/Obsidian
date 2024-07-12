@@ -60,6 +60,22 @@ from test
 ```
 
  - choose
+ - 注意Java中int类型默认不是null而是0
 ```xml
-
+<select id="select" resultType="org.example.user.user">  
+    select *  
+    from test    where    <choose>  
+        <when test="name != null and name != ''">  
+            name = #{name}  
+        </when>  
+        <when test="id != 0">  
+            id = #{id}  
+        </when>  
+        <otherwise>  
+            1 = 1  
+        </otherwise>  
+    </choose>  
+    ;  
+</select>
 ```
+
