@@ -19,3 +19,10 @@ tags: Spring,Sql
 
 ## 核心配置文件
 
+
+ - environments
+	 - default可以切换不同的环境
+	 - ![[Pasted image 20240712162856.png]]
+ - typeAliases
+	 - 可以设置类型别名和包名称
+	 - ![[Pasted image 20240712163403.png]]
