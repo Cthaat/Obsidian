@@ -11,8 +11,30 @@
             "id": "4ca245f111b26951",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vue/vue3事件.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9709af93c8d8073d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a33e14530d7f0a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/vue3事件.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vue/vue3事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vue/vue3事件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vue/vue3事件.md"
+              }
             }
           },
           {
@@ -150,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +192,16 @@
   },
   "active": "4ca245f111b26951",
   "lastOpenFiles": [
+    "Pasted image 20240721222029.png",
+    "Pasted image 20240721221906.png",
+    "Pasted image 20240721221854.png",
+    "Pasted image 20240721221616.png",
+    "Pasted image 20240721221256.png",
+    "Vue/来源.md",
+    "Vue/vue3事件.md",
+    "Vue/Vuetify设置背景.md",
     "未命名.canvas",
     "pic/Pasted image 20240712163403.png",
-    "Vue/Vuetify设置背景.md",
-    "Vue/来源.md",
     "SSM/来源.md",
     "SSM/MyBatis.md",
     "日记/clash 无法连接.md",
@@ -177,12 +210,8 @@
     "pic/Pasted image 20240711220127.png",
     "pic/Pasted image 20240712162856.png",
     "pic/Pasted image 20240712160237.png",
-    "pic/Pasted image 20240712160221.png",
-    "pic/Pasted image 20240712160200.png",
-    "pic/Pasted image 20240712160117.png",
     "SSM/注解.md",
     "日记/包冲突报错.md",
-    "pic/Pasted image 20240711120048.png",
     "未命名",
     "SSM/依赖注入.md",
     "GO/来源.md",
@@ -207,7 +236,6 @@
     "日记/虚拟机运行docker中运行redis.md",
     "AJAX",
     "日记",
-    "未命名 1.md",
     "Vue",
     "未命名 1",
     "pic"
