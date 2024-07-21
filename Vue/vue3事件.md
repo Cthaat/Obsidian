@@ -16,7 +16,7 @@ tags: vue
 
  - 代码风格检查
  - 配置代码风格
-
+<br/>
  - 安装插件
  - ![[Pasted image 20240721221616.png]]
 
@@ -100,7 +100,7 @@ module.exports = {
  - Esline是检查代码
  - 这个是更改代码
  - 将代码自动格式化
-
+<br/>
 ```javascript
 {
 
@@ -126,12 +126,12 @@ module.exports = {
  - 在代码提交前对代码进行检查
  - 是git的hook
  - 对代码进行错误检查，如果有错就无法提交
-
+<br/>
  - 安装
  - ![[Pasted image 20240721221854.png]]
  - 将文件修改为对应的包管理器
  - ![[Pasted image 20240721221906.png]]
-
+<br/>
  - 使用line-staged
  - 这个插件是只是检查自己最新写的代码
  - ![[Pasted image 20240721222029.png]]
@@ -149,7 +149,7 @@ module.exports = {
 
  - 全局状态管理库
  - 管理用户个人信息等
-
+<br/>
 ```javascript
 import { defineStore } from 'pinia'
 
@@ -200,7 +200,7 @@ export const useUserStore = defineStore(
 
   - pinia持久化插件
   - [官方](https://prazdevs.github.io/pinia-plugin-persistedstate/zh/)有导入方式
-
+<br/>
  - pinia单独管理
 ```javascript
 import { createPinia } from 'pinia'
