@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9b5a7ced3b16053c",
+        "id": "be3029d6840e0b6c",
         "type": "tabs",
         "children": [
           {
-            "id": "756ae2811544e013",
+            "id": "2bf65546c06b98ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/clash 无法连接.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/clash 无法连接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/clash 无法连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/clash 无法连接.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "756ae2811544e013",
+  "active": "2bf65546c06b98ae",
   "lastOpenFiles": [
+    "SSM/来源.md",
     "SSM/MyBatis.md",
     "日记/clash 无法连接.md",
     "Pasted image 20240712214218.png",
@@ -185,7 +178,6 @@
     "pic/Pasted image 20240712160221.png",
     "pic/Pasted image 20240712160200.png",
     "pic/Pasted image 20240712160117.png",
-    "SSM/来源.md",
     "SSM/注解.md",
     "日记/包冲突报错.md",
     "pic/Pasted image 20240711120048.png",
