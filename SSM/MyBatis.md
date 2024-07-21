@@ -89,4 +89,11 @@ from test
  - 创建sqlSession的时候可以传入true参数打开自动提交
 <br/>
  - 主键返回
- - 
+ - 有的主键是自动生成的
+ - 需要获取自动生成的主键的时候
+
+```xml
+<insert id="add" useGeneratedKeys="true" keyProperty="id">  
+    insert into test (workno, name)  
+    values (#{workno}, #{name});</insert>
+```
