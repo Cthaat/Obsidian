@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +190,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4e53d4e57d82881b",
+  "active": "ca10050432dcd8aa",
   "lastOpenFiles": [
     "Vue/vue3事件.md",
     "SSM/MyBatis.md",
