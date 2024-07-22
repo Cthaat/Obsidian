@@ -412,3 +412,157 @@ routes: [
 
   ]
 ```
+
+---
+
+## 表单校验
+
+ - 表单需要绑定数据和校验规则
+ - 表单元素需要绑定具体数据和对应规则
+ - ![[Pasted image 20240722184312.png]]
+
+``` javascript
+const formModel = ref({
+
+  username: '',
+
+  password: '',
+
+  repassword: ''
+
+})
+
+const rules = ref({
+
+  username: [
+
+    {
+
+      required: true,
+
+      message: '请输入用户名',
+
+      trigger: 'blur'
+
+    },
+
+    {
+
+      min: 1,
+
+      max: 10,
+
+      message: '用户名长度在 1 到 10 个字符',
+
+      trigger: 'blur'
+
+    }
+
+  ],
+
+  password: [
+
+    {
+
+      required: true,
+
+      message: '请输入密码',
+
+      trigger: 'blur'
+
+    },
+
+    {
+
+      patton: /^\S{6,15}$/,
+
+      message: '密码长度在 6 到 15 个非空字符',
+
+      trigger: 'blur'
+
+    }
+
+  ],
+
+  repassword: [
+
+    {
+
+      required: true,
+
+      message: '请再次输入密码',
+
+      trigger: 'blur'
+
+    },
+
+    {
+
+      patton: /^\S{6,15}$/,
+
+      message: '密码长度在 6 到 15 个非空字符',
+
+      trigger: 'blur'
+
+    },
+
+    {
+
+      validator: (rule, value, callback) => {
+
+        if (value !== formModel.value.password) {
+
+          callback(new Error('两次输入的密码不一致!'))
+
+        } else {
+
+          callback()
+
+        }
+
+      },
+
+      trigger: 'blur'
+
+    }
+
+  ]
+
+})
+```
+
+---
+
+## api 封装
+
+ - 对后端提供的api进行使用
+ - 使用[[#axios]]写好的拦截器进行使用
+
+``` javascript
+import request from '../utils/request'
+
+  
+
+export const userRegisterService = ({
+
+  username,
+
+  password,
+
+  repassword
+
+}) => {
+
+  return request.post('/api/reg', { username, password, repassword })
+
+}
+
+  
+
+export const userLoginService = ({ username, password }) => {
+
+  return request.post('/api/login', { username, password })
+
+}
+```
+
