@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "be3029d6840e0b6c",
+        "id": "fce9a4ca5ec4ccc2",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf65546c06b98ae",
+            "id": "75e4b055c7b8bb05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Vuetify设置背景.md",
+                "file": "日记/npx安装nuxt的esline错误.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "a543f3bb09e56ddd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240722184312.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240722184312.png",
+                "file": "日记/npx安装nuxt的esline错误.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240722184312.png",
+                "file": "日记/npx安装nuxt的esline错误.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240722184312.png"
+                "file": "日记/npx安装nuxt的esline错误.md"
               }
             }
           },
@@ -183,17 +172,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a543f3bb09e56ddd",
+  "active": "75e4b055c7b8bb05",
   "lastOpenFiles": [
+    "pic/Pasted image 20240722184312.png",
+    "日记/npx安装nuxt的esline错误.md",
+    "Vue/vue3事件.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20240722184312.png",
     "Vue/Vuetify设置背景.md",
     "pic/Pasted image 20240721222029.png",
     "pic/Pasted image 20240721221906.png",
     "pic/Pasted image 20240721221854.png",
     "pic/Pasted image 20240721221616.png",
     "pic/Pasted image 20240721221256.png",
-    "Vue/vue3事件.md",
     "pic/Pasted image 20240712214218.png",
     "pic/Pasted image 20240712165403.png",
     "pic/Pasted image 20240712163403.png",
@@ -224,7 +214,6 @@
     "AJAX/原理.md",
     "AJAX/form-serialize.md",
     "AJAX/提交数据.md",
-    "AJAX/概念.md",
     "AJAX",
     "日记",
     "Vue",
