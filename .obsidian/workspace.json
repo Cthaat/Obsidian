@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a543f3bb09e56ddd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240722184312.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/Vuetify设置背景.md",
+                "file": "Pasted image 20240722184312.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Vuetify设置背景.md",
+                "file": "Pasted image 20240722184312.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/Vuetify设置背景.md"
+                "file": "Pasted image 20240722184312.png"
               }
             }
           },
@@ -172,8 +183,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2bf65546c06b98ae",
+  "active": "a543f3bb09e56ddd",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20240722184312.png",
+    "Vue/Vuetify设置背景.md",
+    "pic/Pasted image 20240721222029.png",
+    "pic/Pasted image 20240721221906.png",
+    "pic/Pasted image 20240721221854.png",
+    "pic/Pasted image 20240721221616.png",
+    "pic/Pasted image 20240721221256.png",
+    "Vue/vue3事件.md",
     "pic/Pasted image 20240712214218.png",
     "pic/Pasted image 20240712165403.png",
     "pic/Pasted image 20240712163403.png",
@@ -182,13 +202,6 @@
     "SSM/MyBatis.md",
     "日记/clash 无法连接.md",
     "Pasted image 20240712214218.png",
-    "Pasted image 20240712165403.png",
-    "Pasted image 20240712163403.png",
-    "pic/Pasted image 20240711220127.png",
-    "pic/Pasted image 20240712162856.png",
-    "pic/Pasted image 20240712160237.png",
-    "pic/Pasted image 20240712160221.png",
-    "pic/Pasted image 20240712160200.png",
     "SSM/注解.md",
     "日记/包冲突报错.md",
     "未命名",
@@ -199,7 +212,6 @@
     "OneNote",
     "SSM/配置Bean.md",
     "SSM/配置Ioc.md",
-    "Vue/Vuetify设置背景.md",
     "Node.js/模块.md",
     "Node.js/来源.md",
     "GO",
@@ -213,10 +225,8 @@
     "AJAX/form-serialize.md",
     "AJAX/提交数据.md",
     "AJAX/概念.md",
-    "日记/虚拟机运行docker中运行redis.md",
     "AJAX",
     "日记",
-    "未命名 1.md",
     "Vue",
     "未命名 1",
     "pic",
