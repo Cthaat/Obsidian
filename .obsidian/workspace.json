@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "be73fb074805727b",
+        "id": "be3029d6840e0b6c",
         "type": "tabs",
         "children": [
           {
-            "id": "4ca245f111b26951",
+            "id": "2bf65546c06b98ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vue/Vuetify设置背景.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vue/Vuetify设置背景.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vue/Vuetify设置背景.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vue/Vuetify设置背景.md"
+              }
             }
           },
           {
@@ -150,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,26 +172,25 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4ca245f111b26951",
+  "active": "2bf65546c06b98ae",
   "lastOpenFiles": [
-    "未命名.canvas",
+    "pic/Pasted image 20240712214218.png",
+    "pic/Pasted image 20240712165403.png",
     "pic/Pasted image 20240712163403.png",
-    "Vue/Vuetify设置背景.md",
     "Vue/来源.md",
     "SSM/来源.md",
     "SSM/MyBatis.md",
     "日记/clash 无法连接.md",
-    "pic/Pasted image 20240712214218.png",
-    "pic/Pasted image 20240712165403.png",
+    "Pasted image 20240712214218.png",
+    "Pasted image 20240712165403.png",
+    "Pasted image 20240712163403.png",
     "pic/Pasted image 20240711220127.png",
     "pic/Pasted image 20240712162856.png",
     "pic/Pasted image 20240712160237.png",
     "pic/Pasted image 20240712160221.png",
     "pic/Pasted image 20240712160200.png",
-    "pic/Pasted image 20240712160117.png",
     "SSM/注解.md",
     "日记/包冲突报错.md",
-    "pic/Pasted image 20240711120048.png",
     "未命名",
     "SSM/依赖注入.md",
     "GO/来源.md",
@@ -191,6 +199,7 @@
     "OneNote",
     "SSM/配置Bean.md",
     "SSM/配置Ioc.md",
+    "Vue/Vuetify设置背景.md",
     "Node.js/模块.md",
     "Node.js/来源.md",
     "GO",
@@ -210,6 +219,7 @@
     "未命名 1.md",
     "Vue",
     "未命名 1",
-    "pic"
+    "pic",
+    "未命名.canvas"
   ]
 }
