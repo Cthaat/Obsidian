@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/npx安装nuxt的esline错误.md",
+                "file": "日记/fetch获取数据.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/npx安装nuxt的esline错误.md",
+                "file": "日记/fetch获取数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/npx安装nuxt的esline错误.md",
+                "file": "日记/fetch获取数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/npx安装nuxt的esline错误.md"
+                "file": "日记/fetch获取数据.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "75e4b055c7b8bb05",
   "lastOpenFiles": [
-    "pic/Pasted image 20240722184312.png",
     "日记/npx安装nuxt的esline错误.md",
+    "日记/fetch获取数据.md",
+    "pic/Pasted image 20240722184312.png",
     "Vue/vue3事件.md",
     "conflict-files-obsidian-git.md",
     "Vue/Vuetify设置背景.md",
