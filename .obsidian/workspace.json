@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/fetch获取数据.md",
+                "file": "日记/nuxt3获取图片资源.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/fetch获取数据.md",
+                "file": "日记/nuxt3获取图片资源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/fetch获取数据.md",
+                "file": "日记/nuxt3获取图片资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/fetch获取数据.md"
+                "file": "日记/nuxt3获取图片资源.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "75e4b055c7b8bb05",
   "lastOpenFiles": [
-    "日记/npx安装nuxt的esline错误.md",
     "日记/fetch获取数据.md",
+    "日记/nuxt3获取图片资源.md",
+    "日记/npx安装nuxt的esline错误.md",
     "pic/Pasted image 20240722184312.png",
     "Vue/vue3事件.md",
     "conflict-files-obsidian-git.md",
@@ -214,7 +215,6 @@
     "AJAX/事件.md",
     "AJAX/原理.md",
     "AJAX/form-serialize.md",
-    "AJAX/提交数据.md",
     "AJAX",
     "日记",
     "Vue",
