@@ -14,24 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "SSM/MyBatis.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "17d151e85a768051",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9cbb40ddb56920b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSM/MyBatis.md",
                 "mode": "preview",
                 "source": true
               }
@@ -168,12 +150,16 @@
   },
   "active": "c44b768da410f2af",
   "lastOpenFiles": [
-    "Pasted image 20240731161819.png",
-    "Pasted image 20240731161725.png",
-    "Pasted image 20240731161659.png",
-    "Pasted image 20240731161104.png",
-    "Pasted image 20240731161030.png",
+    "SSM/依赖注入.md",
+    "SSM/注解.md",
+    "SSM/配置Bean.md",
+    "SSM/来源.md",
     "SSM/MyBatis.md",
+    "pic/Pasted image 20240731161030.png",
+    "pic/Pasted image 20240731161819.png",
+    "pic/Pasted image 20240731161725.png",
+    "pic/Pasted image 20240731161659.png",
+    "pic/Pasted image 20240731161104.png",
     "日记/nuxt3获取图片资源.md"
   ]
 }
