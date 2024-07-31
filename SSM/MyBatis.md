@@ -97,3 +97,7 @@ from test
     insert into test (workno, name)  
     values (#{workno}, #{name});</insert>
 ```
+<br />
+ - 动态修改字段
+
+![[Pasted image 20240731161104.png]]
