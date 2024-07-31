@@ -4,17 +4,30 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "19cbd715456dba39",
         "type": "tabs",
         "children": [
           {
             "id": "2d1572047f17e9f3",
+=======
+        "id": "fce9a4ca5ec4ccc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75e4b055c7b8bb05",
+>>>>>>> f9100ebe6a26ea39b8c6add0e2e1a97a43f41d4d
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Vue/vue3事件.md",
                 "mode": "preview",
+=======
+                "file": "日记/nuxt3获取图片资源.md",
+                "mode": "source",
+>>>>>>> f9100ebe6a26ea39b8c6add0e2e1a97a43f41d4d
                 "source": true
               }
             }
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/vue3事件.md",
+                "file": "日记/nuxt3获取图片资源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/vue3事件.md",
+                "file": "日记/nuxt3获取图片资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/vue3事件.md"
+                "file": "日记/nuxt3获取图片资源.md"
               }
             }
           },
@@ -172,26 +185,32 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
+<<<<<<< HEAD
   "active": "2d1572047f17e9f3",
+=======
+  "active": "75e4b055c7b8bb05",
+>>>>>>> f9100ebe6a26ea39b8c6add0e2e1a97a43f41d4d
   "lastOpenFiles": [
-    "Pasted image 20240722184312.png",
-    "SSM/MyBatis.md",
+    "日记/fetch获取数据.md",
+    "日记/nuxt3获取图片资源.md",
+    "日记/npx安装nuxt的esline错误.md",
+    "pic/Pasted image 20240722184312.png",
     "Vue/vue3事件.md",
-    "SSM/来源.md",
-    "pic/Pasted image 20240721221256.png",
+    "conflict-files-obsidian-git.md",
+    "Vue/Vuetify设置背景.md",
     "pic/Pasted image 20240721222029.png",
     "pic/Pasted image 20240721221906.png",
     "pic/Pasted image 20240721221854.png",
     "pic/Pasted image 20240721221616.png",
-    "Vue/来源.md",
-    "Vue/Vuetify设置背景.md",
-    "未命名.canvas",
-    "pic/Pasted image 20240712163403.png",
-    "日记/clash 无法连接.md",
+    "pic/Pasted image 20240721221256.png",
     "pic/Pasted image 20240712214218.png",
     "pic/Pasted image 20240712165403.png",
-    "pic/Pasted image 20240711220127.png",
-    "pic/Pasted image 20240712162856.png",
+    "pic/Pasted image 20240712163403.png",
+    "Vue/来源.md",
+    "SSM/来源.md",
+    "SSM/MyBatis.md",
+    "日记/clash 无法连接.md",
+    "Pasted image 20240712214218.png",
     "SSM/注解.md",
     "日记/包冲突报错.md",
     "未命名",
@@ -213,13 +232,11 @@
     "AJAX/事件.md",
     "AJAX/原理.md",
     "AJAX/form-serialize.md",
-    "AJAX/提交数据.md",
-    "AJAX/概念.md",
-    "日记/虚拟机运行docker中运行redis.md",
     "AJAX",
     "日记",
     "Vue",
     "未命名 1",
-    "pic"
+    "pic",
+    "未命名.canvas"
   ]
 }
