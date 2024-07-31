@@ -1,33 +1,20 @@
 {
   "main": {
-    "id": "ea8897305d3ba594",
+    "id": "e5d1eb4abe54d1bd",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "19cbd715456dba39",
+        "id": "1e622ef0aaceed88",
         "type": "tabs",
         "children": [
           {
-            "id": "2d1572047f17e9f3",
-=======
-        "id": "fce9a4ca5ec4ccc2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "75e4b055c7b8bb05",
->>>>>>> f9100ebe6a26ea39b8c6add0e2e1a97a43f41d4d
+            "id": "c44b768da410f2af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Vue/vue3事件.md",
-                "mode": "preview",
-=======
                 "file": "日记/nuxt3获取图片资源.md",
                 "mode": "source",
->>>>>>> f9100ebe6a26ea39b8c6add0e2e1a97a43f41d4d
                 "source": true
               }
             }
@@ -38,30 +25,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b88eae727452702c",
+    "id": "5cc97b4e18502a90",
     "type": "split",
     "children": [
       {
-        "id": "f9e17be0324e7d3e",
+        "id": "9a681c915517e0f6",
         "type": "tabs",
         "children": [
           {
-            "id": "8be9253b71f2bc59",
+            "id": "c000d874f5944a9e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "a9d03c58c08b4031",
+            "id": "8eda769f99e614d6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#尚未解决",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "d4df0c2383a2ef3c",
+            "id": "fd7fbd8ff8a612dc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 300
   },
   "right": {
-    "id": "8152dfa0b47c7034",
+    "id": "48ffd45215388867",
     "type": "split",
     "children": [
       {
-        "id": "6584cc282d6cc7e3",
+        "id": "8758c29d083a585b",
         "type": "tabs",
         "children": [
           {
-            "id": "dc421201201e65a3",
+            "id": "74c8462b74981178",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,7 +97,7 @@
             }
           },
           {
-            "id": "8b85c85414a127fe",
+            "id": "289d2bdfd0a6e51c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +109,7 @@
             }
           },
           {
-            "id": "0f5cde45b86dd7e2",
+            "id": "a225796caa2746dc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +120,7 @@
             }
           },
           {
-            "id": "f15c22b152722e9f",
+            "id": "c7eeddc03d1b0e25",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -141,102 +128,25 @@
                 "file": "日记/nuxt3获取图片资源.md"
               }
             }
-          },
-          {
-            "id": "ca10050432dcd8aa",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "e98eb4ace4725ae7",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "63abb1e7a046725f",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "command-palette:打开命令面板": false
     }
   },
-<<<<<<< HEAD
-  "active": "2d1572047f17e9f3",
-=======
-  "active": "75e4b055c7b8bb05",
->>>>>>> f9100ebe6a26ea39b8c6add0e2e1a97a43f41d4d
-  "lastOpenFiles": [
-    "日记/fetch获取数据.md",
-    "日记/nuxt3获取图片资源.md",
-    "日记/npx安装nuxt的esline错误.md",
-    "pic/Pasted image 20240722184312.png",
-    "Vue/vue3事件.md",
-    "conflict-files-obsidian-git.md",
-    "Vue/Vuetify设置背景.md",
-    "pic/Pasted image 20240721222029.png",
-    "pic/Pasted image 20240721221906.png",
-    "pic/Pasted image 20240721221854.png",
-    "pic/Pasted image 20240721221616.png",
-    "pic/Pasted image 20240721221256.png",
-    "pic/Pasted image 20240712214218.png",
-    "pic/Pasted image 20240712165403.png",
-    "pic/Pasted image 20240712163403.png",
-    "Vue/来源.md",
-    "SSM/来源.md",
-    "SSM/MyBatis.md",
-    "日记/clash 无法连接.md",
-    "Pasted image 20240712214218.png",
-    "SSM/注解.md",
-    "日记/包冲突报错.md",
-    "未命名",
-    "SSM/依赖注入.md",
-    "GO/来源.md",
-    "SSM/容器.md",
-    "OneNote/来源.md",
-    "OneNote",
-    "SSM/配置Bean.md",
-    "SSM/配置Ioc.md",
-    "Node.js/模块.md",
-    "Node.js/来源.md",
-    "GO",
-    "S.md",
-    "SSM",
-    "Node.js/包.md",
-    "AJAX/来源.md",
-    "Node.js",
-    "AJAX/事件.md",
-    "AJAX/原理.md",
-    "AJAX/form-serialize.md",
-    "AJAX",
-    "日记",
-    "Vue",
-    "未命名 1",
-    "pic",
-    "未命名.canvas"
-  ]
+  "active": "c7eeddc03d1b0e25",
+  "lastOpenFiles": []
 }
