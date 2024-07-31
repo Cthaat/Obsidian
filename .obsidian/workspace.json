@@ -11,11 +11,9 @@
             "id": "c44b768da410f2af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SSM/AOP.md",
-                "mode": "source",
-                "source": true
+                "file": "pic/Pasted image 20240731213007.png"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSM/AOP.md",
+                "file": "pic/Pasted image 20240731213007.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSM/AOP.md",
+                "file": "pic/Pasted image 20240731213007.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSM/AOP.md"
+                "file": "pic/Pasted image 20240731213007.png"
               }
             }
           }
@@ -166,17 +164,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c44b768da410f2af",
+  "active": "c000d874f5944a9e",
   "lastOpenFiles": [
-    "Pasted image 20240731213110.png",
-    "Pasted image 20240731213104.png",
-    "Pasted image 20240731213048.png",
-    "Pasted image 20240731213038.png",
-    "Pasted image 20240731213028.png",
-    "Pasted image 20240731213021.png",
-    "Pasted image 20240731213007.png",
-    "SSM/来源.md",
     "SSM/AOP.md",
+    "pic/Pasted image 20240731213711.png",
+    "pic/Pasted image 20240731213110.png",
+    "pic/Pasted image 20240731213104.png",
+    "pic/Pasted image 20240731213048.png",
+    "pic/Pasted image 20240731213038.png",
+    "pic/Pasted image 20240731213028.png",
+    "pic/Pasted image 20240731213021.png",
+    "pic/Pasted image 20240731213007.png",
+    "SSM/来源.md",
     "SSM/注解.md",
     "SSM/依赖注入.md",
     "SSM/容器.md",
@@ -185,8 +184,6 @@
     "SSM/MyBatis.md",
     "pic/Pasted image 20240731161030.png",
     "pic/Pasted image 20240731161819.png",
-    "pic/Pasted image 20240731161725.png",
-    "pic/Pasted image 20240731161659.png",
     "日记/nuxt3获取图片资源.md"
   ]
 }

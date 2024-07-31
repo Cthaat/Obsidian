@@ -13,3 +13,8 @@ tags:java , Spring
  - ![[Pasted image 20240731213048.png]]
  - ![[Pasted image 20240731213104.png]]
  - ![[Pasted image 20240731213110.png]]
+
+<br />
+
+ - 切入点表达式
+ - ![[Pasted image 20240731213711.png]]
