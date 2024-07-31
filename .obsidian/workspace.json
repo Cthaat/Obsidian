@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f0e03c371839e31d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e53d4e57d82881b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vue/vue3事件.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "19cbd715456dba39",
         "type": "tabs",
         "children": [
@@ -190,7 +172,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4e53d4e57d82881b",
+  "active": "2d1572047f17e9f3",
   "lastOpenFiles": [
     "Pasted image 20240722184312.png",
     "SSM/MyBatis.md",
