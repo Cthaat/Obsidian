@@ -35,3 +35,7 @@ tags:java , Spring
  - 让操作同步进行
  - ![[Pasted image 20240801220233.png]]
  - ![[Pasted image 20240801220250.png]]
+ - ![[Pasted image 20240801221038.png]]
+ - 事务配置
+ - ![[Pasted image 20240801221339.png]]
+ - 
