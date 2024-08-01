@@ -38,4 +38,6 @@ tags:java , Spring
  - ![[Pasted image 20240801221038.png]]
  - 事务配置
  - ![[Pasted image 20240801221339.png]]
- - 
+ - 开启新事务
+ - ![[Pasted image 20240801222917.png]]
+ - ![[Pasted image 20240801222928.png]]
