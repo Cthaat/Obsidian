@@ -18,3 +18,20 @@ tags:java , Spring
 
  - 切入点表达式
  - ![[Pasted image 20240731213711.png]]
+ - ![[Pasted image 20240731214957.png]]
+ - ![[Pasted image 20240731215357.png]]
+
+---
+
+## AOP类型
+
+ - ![[Pasted image 20240731215450.png]]
+
+
+---
+
+## AOP事务
+
+ - 让操作同步进行
+ - ![[Pasted image 20240801220233.png]]
+ - ![[Pasted image 20240801220250.png]]
