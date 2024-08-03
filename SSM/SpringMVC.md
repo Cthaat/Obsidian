@@ -48,4 +48,7 @@ tags: spring,java
 
 ## REST风格
 
- - 
+ - 风格
+ - ![[Pasted image 20240803170551.png]]
+ - 动作行为
+ - ![[Pasted image 20240803170757.png]]
