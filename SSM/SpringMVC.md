@@ -19,3 +19,16 @@ tags: spring,java
 ---
 
 ## 简化开发
+
+ - ![[Pasted image 20240803145813.png]]
+
+---
+
+## 请求
+
+ - 设置请求路径
+ - ![[Pasted image 20240803145933.png]]
+
+<br />
+
+ - 
