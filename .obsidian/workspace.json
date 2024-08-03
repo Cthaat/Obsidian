@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/09 SSM整合.md",
+                "file": "SSM/07 MyBatis.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSM/09 SSM整合.md",
+                "file": "SSM/07 MyBatis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSM/09 SSM整合.md",
+                "file": "SSM/07 MyBatis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSM/09 SSM整合.md"
+                "file": "SSM/07 MyBatis.md"
               }
             }
           }
@@ -168,7 +168,8 @@
   },
   "active": "88a672bd4b4ce923",
   "lastOpenFiles": [
-    "Pasted image 20240803221806.png",
+    "SSM/09 SSM整合.md",
+    "pic/Pasted image 20240803221806.png",
     "SSM/08 SpringMVC.md",
     "OneNote/00 来源.md",
     "Node.js/00 来源.md",
@@ -184,7 +185,6 @@
     "Vue/02 Vuetify设置背景.md",
     "Vue/01 vue3事件.md",
     "Vue/00 来源.md",
-    "SSM/09 SSM整合.md",
     "SSM/07 MyBatis.md",
     "SSM/06 AOP.md",
     "SSM/05 注解.md",
@@ -202,7 +202,6 @@
     "pic/Pasted image 20240803170757.png",
     "pic/Pasted image 20240803170728.png",
     "pic/Pasted image 20240803165536.png",
-    "pic/Pasted image 20240803162525.png",
     "SSM/未命名",
     "日记/nuxt3获取图片资源.md"
   ]
