@@ -62,3 +62,5 @@ tags: spring,java
  - 将请求方式注解和路径注解合并
  - 将返回值注解和controller注解合并
  - ![[Pasted image 20240803175727.png]]
+ - 数据放行
+ - ![[Pasted image 20240803221357.png]]

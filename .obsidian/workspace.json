@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/SpringMVC.md",
+                "file": "SSM/09 SSM整合.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "ce51fb46cf712be4",
+        "id": "12c11e677700b8c4",
         "type": "tabs",
         "children": [
           {
-            "id": "4dcc7daa28e06835",
+            "id": "e548c34c9723d0a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/SpringMVC.md",
+                "file": "SSM/09 SSM整合.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSM/SpringMVC.md",
+                "file": "SSM/09 SSM整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSM/SpringMVC.md",
+                "file": "SSM/09 SSM整合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSM/SpringMVC.md"
+                "file": "SSM/09 SSM整合.md"
               }
             }
           }
@@ -168,9 +168,34 @@
   },
   "active": "88a672bd4b4ce923",
   "lastOpenFiles": [
-    "Pasted image 20240803175727.png",
+    "Pasted image 20240803221806.png",
+    "SSM/08 SpringMVC.md",
+    "OneNote/00 来源.md",
+    "Node.js/00 来源.md",
+    "AJAX/00 来源.md",
+    "AJAX/05 form-serialize.md",
+    "AJAX/04 事件.md",
+    "AJAX/03 提交数据.md",
+    "AJAX/02 原理.md",
+    "AJAX/01 概念.md",
+    "GO/00 来源.md",
+    "Node.js/02 模块.md",
+    "Node.js/01 包.md",
+    "Vue/02 Vuetify设置背景.md",
+    "Vue/01 vue3事件.md",
+    "Vue/00 来源.md",
+    "SSM/09 SSM整合.md",
+    "SSM/07 MyBatis.md",
+    "SSM/06 AOP.md",
+    "SSM/05 注解.md",
+    "SSM/03 依赖注入.md",
+    "SSM/04 容器.md",
+    "SSM/02 配置Ioc.md",
+    "SSM/01 配置Bean.md",
+    "SSM/00 来源.md",
+    "pic/Pasted image 20240803221357.png",
+    "pic/Pasted image 20240803175727.png",
     "pic/Pasted image 20240803173101.png",
-    "SSM/SpringMVC.md",
     "pic/Pasted image 20240803173200.png",
     "pic/Pasted image 20240803173109.png",
     "pic/Pasted image 20240803170551.png",
@@ -178,17 +203,7 @@
     "pic/Pasted image 20240803170728.png",
     "pic/Pasted image 20240803165536.png",
     "pic/Pasted image 20240803162525.png",
-    "pic/Pasted image 20240803162743.png",
-    "pic/Pasted image 20240803145813.png",
-    "SSM/AOP.md",
     "SSM/未命名",
-    "SSM/来源.md",
-    "SSM/注解.md",
-    "SSM/依赖注入.md",
-    "SSM/容器.md",
-    "SSM/配置Ioc.md",
-    "SSM/配置Bean.md",
-    "SSM/MyBatis.md",
     "日记/nuxt3获取图片资源.md"
   ]
 }
