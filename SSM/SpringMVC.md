@@ -58,4 +58,7 @@ tags: spring,java
  - ![[Pasted image 20240803173109.png]]
  - 参数格式
  - ![[Pasted image 20240803173200.png]]
- - 
+ - 简化
+ - 将请求方式注解和路径注解合并
+ - 将返回值注解和controller注解合并
+ - ![[Pasted image 20240803175727.png]]
