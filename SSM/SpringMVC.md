@@ -52,3 +52,9 @@ tags: spring,java
  - ![[Pasted image 20240803170551.png]]
  - 动作行为
  - ![[Pasted image 20240803170757.png]]
+ - 设置动作
+ - ![[Pasted image 20240803173101.png]]
+ - 设置参数
+ - ![[Pasted image 20240803173109.png]]
+ - 参数格式
+ - ![[Pasted image 20240803173200.png]]
