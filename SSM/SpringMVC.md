@@ -40,4 +40,12 @@ tags: spring,java
 
 ## 响应
 
+ - 响应注解
+ - ![[Pasted image 20240803165536.png]]
+
+
+---
+
+## REST风格
+
  - 
