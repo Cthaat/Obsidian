@@ -23,3 +23,10 @@ tags: spring, java
  - ![[Pasted image 20240804135558.png]]
  - ![[Pasted image 20240804135604.png]]
  - ![[Pasted image 20240804135624.png]]
+
+---
+
+## 异常处理
+
+ - 原因
+ - ![[Pasted image 20240804145829.png]]
