@@ -59,7 +59,12 @@ public class MyBatisConfig {
  - ![[Pasted image 20240804135558.png]]
  - ![[Pasted image 20240804135604.png]]
  - ![[Pasted image 20240804135624.png]]
-
+ - 放行处理
+ - ![[Pasted image 20240804161126.png]]
+ - 新建一个类，放行处理
+ - ![[Pasted image 20240804161156.png]]
+ - 同时在MVC中处理
+ - ![[Pasted image 20240804161213.png]]
 ---
 
 ## 异常处理
