@@ -15,6 +15,42 @@ tags: spring, java
  - ![[Pasted image 20240804135439.png]]
  - ![[Pasted image 20240804135449.png]]
  - ![[Pasted image 20240804135457.png]]
+ - 注意如果使用xml配置
+```java
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.mybatis.spring.SqlSessionFactoryBean;
+import org.mybatis.spring.mapper.MapperScannerConfigurer;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import javax.sql.DataSource;
+
+@Configuration
+public class MyBatisConfig {
+
+    @Bean
+    public SqlSessionFactory sqlSessionFactory(DataSource dataSource) throws Exception {
+        SqlSessionFactoryBean sqlSessionFactoryBean = new SqlSessionFactoryBean();
+        sqlSessionFactoryBean.setDataSource(dataSource);
+        sqlSessionFactoryBean.setTypeAliasesPackage("com.example.domain");
+
+        // 设置Mapper XML文件路径
+        Resource[] resources = new PathMatchingResourcePatternResolver().getResources("classpath*:com/example/dao/*.xml");
+        sqlSessionFactoryBean.setMapperLocations(resources);
+
+        return sqlSessionFactoryBean.getObject();
+    }
+
+    @Bean
+    public MapperScannerConfigurer mapperScannerConfigurer() {
+        MapperScannerConfigurer mapperScannerConfigurer = new MapperScannerConfigurer();
+        mapperScannerConfigurer.setBasePackage("com.example.dao");
+        return mapperScannerConfigurer;
+    }
+}
+
+```
+ - 要配置xml的路径
  - 事务处理
  - ![[Pasted image 20240804135515.png]]
 <br />
