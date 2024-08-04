@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/09 SSM整合.md",
+                "file": "SSM/08 SpringMVC.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "3b5c5f00032edf0f",
+        "id": "ac62352a8bce956a",
         "type": "tabs",
         "children": [
           {
-            "id": "663cd6a6dc339a27",
+            "id": "03a9bbd286854f10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/09 SSM整合.md",
+                "file": "SSM/08 SpringMVC.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSM/09 SSM整合.md",
+                "file": "SSM/08 SpringMVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSM/09 SSM整合.md",
+                "file": "SSM/08 SpringMVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSM/09 SSM整合.md"
+                "file": "SSM/08 SpringMVC.md"
               }
             }
           }
@@ -166,14 +166,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "977e27c95746e145",
+  "active": "03a9bbd286854f10",
   "lastOpenFiles": [
-    "Pasted image 20240804161213.png",
-    "Pasted image 20240804161156.png",
-    "Pasted image 20240804161126.png",
+    "SSM/09 SSM整合.md",
+    "pic/Pasted image 20240804161126.png",
+    "pic/Pasted image 20240804161156.png",
+    "pic/Pasted image 20240804161213.png",
     "SSM/07 MyBatis.md",
     "SSM/06 AOP.md",
-    "SSM/09 SSM整合.md",
     "pic/Pasted image 20240804145829.png",
     "pic/Pasted image 20240804153027.png",
     "pic/Pasted image 20240804153018.png",
@@ -181,7 +181,6 @@
     "pic/Pasted image 20240804152958.png",
     "pic/Pasted image 20240804152952.png",
     "pic/Pasted image 20240804152945.png",
-    "pic/Pasted image 20240804151242.png",
     "SSM/08 SpringMVC.md",
     "SSM/05 注解.md",
     "SSM/03 依赖注入.md",
