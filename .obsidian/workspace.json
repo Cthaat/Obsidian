@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/07 MyBatis.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "12c11e677700b8c4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e548c34c9723d0a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSM/09 SSM整合.md",
+                "file": "SSM/05 注解.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSM/07 MyBatis.md",
+                "file": "SSM/05 注解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSM/07 MyBatis.md",
+                "file": "SSM/05 注解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSM/07 MyBatis.md"
+                "file": "SSM/05 注解.md"
               }
             }
           }
@@ -168,6 +150,8 @@
   },
   "active": "88a672bd4b4ce923",
   "lastOpenFiles": [
+    "SSM/07 MyBatis.md",
+    "SSM/03 依赖注入.md",
     "SSM/09 SSM整合.md",
     "pic/Pasted image 20240803221806.png",
     "SSM/08 SpringMVC.md",
@@ -185,10 +169,8 @@
     "Vue/02 Vuetify设置背景.md",
     "Vue/01 vue3事件.md",
     "Vue/00 来源.md",
-    "SSM/07 MyBatis.md",
     "SSM/06 AOP.md",
     "SSM/05 注解.md",
-    "SSM/03 依赖注入.md",
     "SSM/04 容器.md",
     "SSM/02 配置Ioc.md",
     "SSM/01 配置Bean.md",
