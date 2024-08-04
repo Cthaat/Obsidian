@@ -32,3 +32,6 @@ tags: spring, java
  - ![[Pasted image 20240804145829.png]]
  - 处理器
  - ![[Pasted image 20240804150514.png]]
+ - ![[Pasted image 20240804151109.png]]
+ - 异常处理方案
+ - ![[Pasted image 20240804151242.png]]
