@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "e0f5c64a08388830",
+        "id": "69f715ab29fe5205",
         "type": "tabs",
         "children": [
           {
-            "id": "88a672bd4b4ce923",
+            "id": "977e27c95746e145",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pic/Pasted image 20240804135405.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3b5c5f00032edf0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663cd6a6dc339a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/05 注解.md",
+                "file": "SSM/09 SSM整合.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSM/05 注解.md",
+                "file": "pic/Pasted image 20240804135405.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSM/05 注解.md",
+                "file": "pic/Pasted image 20240804135405.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSM/05 注解.md"
+                "file": "pic/Pasted image 20240804135405.png"
               }
             }
           }
@@ -148,13 +164,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "88a672bd4b4ce923",
+  "active": "977e27c95746e145",
   "lastOpenFiles": [
-    "SSM/07 MyBatis.md",
-    "SSM/03 依赖注入.md",
     "SSM/09 SSM整合.md",
-    "pic/Pasted image 20240803221806.png",
+    "pic/Pasted image 20240804135624.png",
+    "pic/Pasted image 20240804135604.png",
+    "pic/Pasted image 20240804135558.png",
+    "pic/Pasted image 20240804135547.png",
+    "pic/Pasted image 20240804135515.png",
+    "pic/Pasted image 20240804135457.png",
+    "pic/Pasted image 20240804135449.png",
+    "pic/Pasted image 20240804135439.png",
+    "pic/Pasted image 20240804135431.png",
+    "pic/Pasted image 20240804135425.png",
+    "SSM/06 AOP.md",
+    "SSM/07 MyBatis.md",
     "SSM/08 SpringMVC.md",
+    "SSM/05 注解.md",
+    "SSM/03 依赖注入.md",
     "OneNote/00 来源.md",
     "Node.js/00 来源.md",
     "AJAX/00 来源.md",
@@ -169,21 +196,10 @@
     "Vue/02 Vuetify设置背景.md",
     "Vue/01 vue3事件.md",
     "Vue/00 来源.md",
-    "SSM/06 AOP.md",
-    "SSM/05 注解.md",
     "SSM/04 容器.md",
     "SSM/02 配置Ioc.md",
     "SSM/01 配置Bean.md",
     "SSM/00 来源.md",
-    "pic/Pasted image 20240803221357.png",
-    "pic/Pasted image 20240803175727.png",
-    "pic/Pasted image 20240803173101.png",
-    "pic/Pasted image 20240803173200.png",
-    "pic/Pasted image 20240803173109.png",
-    "pic/Pasted image 20240803170551.png",
-    "pic/Pasted image 20240803170757.png",
-    "pic/Pasted image 20240803170728.png",
-    "pic/Pasted image 20240803165536.png",
     "SSM/未命名",
     "日记/nuxt3获取图片资源.md"
   ]
