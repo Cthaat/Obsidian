@@ -71,4 +71,16 @@ tags: spring,java
 
  - ![[Pasted image 20240804170056.png]]
  - ![[Pasted image 20240804170211.png]]
- - 
+ - 声明
+ - ![[Pasted image 20240804215059.png]]
+ - 配置
+ - ![[Pasted image 20240804215107.png]]
+ - 访问路径
+ - ![[Pasted image 20240804215120.png]]
+ - ![[Pasted image 20240804215235.png]]
+ - ![[Pasted image 20240804220943.png]]
+ - 参数
+ - ![[Pasted image 20240804221326.png]]
+ - 执行顺序
+ - ![[Pasted image 20240804221459.png]]
+ - ![[Pasted image 20240804221536.png]]
