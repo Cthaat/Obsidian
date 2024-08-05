@@ -11,9 +11,11 @@
             "id": "f05d172b0b1686ef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pic/Pasted image 20240805100844.png"
+                "file": "SSM/10 Maven.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pic/Pasted image 20240805100844.png",
+                "file": "SSM/10 Maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pic/Pasted image 20240805100844.png",
+                "file": "SSM/10 Maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pic/Pasted image 20240805100844.png"
+                "file": "SSM/10 Maven.md"
               }
             }
           }
@@ -164,8 +166,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c000d874f5944a9e",
+  "active": "f05d172b0b1686ef",
   "lastOpenFiles": [
+    "Pasted image 20240805200840.png",
+    "Pasted image 20240805200834.png",
+    "Pasted image 20240805200701.png",
+    "pic/Pasted image 20240805100844.png",
     "SSM/10 Maven.md",
     "pic/Pasted image 20240805105838.png",
     "pic/Pasted image 20240805105352.png",
@@ -174,9 +180,6 @@
     "pic/Pasted image 20240805104836.png",
     "pic/Pasted image 20240805104831.png",
     "pic/Pasted image 20240805104825.png",
-    "pic/Pasted image 20240805104425.png",
-    "pic/Pasted image 20240805104339.png",
-    "pic/Pasted image 20240805104319.png",
     "SSM/09 SSM整合.md",
     "JavaWeb/03 Servlet.md",
     "SSM/08 SpringMVC.md",

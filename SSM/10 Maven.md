@@ -50,10 +50,14 @@ tags: Maven , Spring
 
  - ![[Pasted image 20240805105346.png]]
  - ![[Pasted image 20240805105352.png]]
+ - 文件中的引用属性
+ - ![[Pasted image 20240805200834.png]]
+ - ![[Pasted image 20240805200840.png]]
 
 ---
 
 ## 多环境开发
 
  - ![[Pasted image 20240805105838.png]]
+ - ![[Pasted image 20240805200701.png]]
  - 
