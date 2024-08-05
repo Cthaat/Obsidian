@@ -11,11 +11,9 @@
             "id": "f05d172b0b1686ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SSM/10 Maven.md",
-                "mode": "source",
-                "source": true
+                "file": "pic/Pasted image 20240805100844.png"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSM/10 Maven.md",
+                "file": "pic/Pasted image 20240805100844.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSM/10 Maven.md",
+                "file": "pic/Pasted image 20240805100844.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSM/10 Maven.md"
+                "file": "pic/Pasted image 20240805100844.png"
               }
             }
           }
@@ -166,21 +164,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f05d172b0b1686ef",
+  "active": "c000d874f5944a9e",
   "lastOpenFiles": [
-    "Pasted image 20240805105838.png",
-    "Pasted image 20240805105352.png",
-    "Pasted image 20240805105346.png",
-    "Pasted image 20240805104852.png",
-    "Pasted image 20240805104836.png",
-    "Pasted image 20240805104831.png",
-    "Pasted image 20240805104825.png",
-    "Pasted image 20240805104425.png",
-    "Pasted image 20240805104339.png",
-    "Pasted image 20240805104319.png",
-    "Pasted image 20240805104302.png",
-    "SSM/09 SSM整合.md",
     "SSM/10 Maven.md",
+    "pic/Pasted image 20240805105838.png",
+    "pic/Pasted image 20240805105352.png",
+    "pic/Pasted image 20240805105346.png",
+    "pic/Pasted image 20240805104852.png",
+    "pic/Pasted image 20240805104836.png",
+    "pic/Pasted image 20240805104831.png",
+    "pic/Pasted image 20240805104825.png",
+    "pic/Pasted image 20240805104425.png",
+    "pic/Pasted image 20240805104339.png",
+    "pic/Pasted image 20240805104319.png",
+    "SSM/09 SSM整合.md",
     "JavaWeb/03 Servlet.md",
     "SSM/08 SpringMVC.md",
     "JavaWeb/02 Tomcat.md",
