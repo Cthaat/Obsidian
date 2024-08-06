@@ -59,3 +59,9 @@ tags: Spring , java
  - ![[Pasted image 20240806171848.png]]
  - ![[Pasted image 20240806171904.png]]
  - ![[Pasted image 20240806171909.png]]
+
+---
+
+## 整合SSM
+
+ - ![[Pasted image 20240806181119.png]]
