@@ -53,3 +53,9 @@ tags: Spring , java
  - 带参数启动
  - ![[Pasted image 20240806171314.png]]
  - ![[Pasted image 20240806171326.png]]
+ - 多环境兼容
+ - ![[Pasted image 20240806171837.png]]
+ - ![[Pasted image 20240806171843.png]]
+ - ![[Pasted image 20240806171848.png]]
+ - ![[Pasted image 20240806171904.png]]
+ - ![[Pasted image 20240806171909.png]]
