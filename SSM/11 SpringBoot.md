@@ -12,3 +12,7 @@ tags: Spring , java
  - ![[Pasted image 20240805225206.png]]
  - ![[Pasted image 20240805225218.png]]
  - ![[Pasted image 20240805225227.png]]
+ - 包含的基础文件
+ - ![[Pasted image 20240806110025.png]]
+ - ![[Pasted image 20240806110040.png]]
+ - ![[Pasted image 20240806110054.png]]
