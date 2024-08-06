@@ -20,4 +20,16 @@ tags: Spring , java
  - ![[Pasted image 20240806110638.png]]
  - ![[Pasted image 20240806110644.png]]
  - ![[Pasted image 20240806110651.png]]
- - 
+ - 配置
+ - 起步依赖
+ - ![[Pasted image 20240806111225.png]]
+ - ![[Pasted image 20240806111239.png]]
+ - ![[Pasted image 20240806111305.png]]
+
+---
+
+## 启动程序
+
+ - 启动方式
+ - ![[Pasted image 20240806111514.png]]
+ - ![[Pasted image 20240806111746.png]]
