@@ -44,3 +44,9 @@ tags: Spring , java
  - ![[Pasted image 20240806164755.png]]
  - 数组
  - ![[Pasted image 20240806165043.png]]
+ - 数据读取
+ - ![[Pasted image 20240806170153.png]]
+ - 封装
+ - ![[Pasted image 20240806170205.png]]
+ - 自定义封装
+ - ![[Pasted image 20240806170222.png]]
