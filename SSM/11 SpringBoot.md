@@ -50,3 +50,6 @@ tags: Spring , java
  - ![[Pasted image 20240806170205.png]]
  - 自定义封装
  - ![[Pasted image 20240806170222.png]]
+ - 带参数启动
+ - ![[Pasted image 20240806171314.png]]
+ - ![[Pasted image 20240806171326.png]]
