@@ -35,3 +35,12 @@ tags: Spring , java
  - ![[Pasted image 20240806111746.png]]
  - 配置文件
  - ![[Pasted image 20240806115957.png]]
+
+---
+
+## yml
+
+ - ![[Pasted image 20240806164733.png]]
+ - ![[Pasted image 20240806164755.png]]
+ - 数组
+ - ![[Pasted image 20240806165043.png]]
