@@ -33,3 +33,5 @@ tags: Spring , java
  - 启动方式
  - ![[Pasted image 20240806111514.png]]
  - ![[Pasted image 20240806111746.png]]
+ - 配置文件
+ - ![[Pasted image 20240806115957.png]]
