@@ -64,4 +64,4 @@ tags: Spring , java
 
 ## 整合SSM
 
- - ![[Pasted image 20240806181119.png]]
+ - ![[Pasted image 20240806182322.png]]
