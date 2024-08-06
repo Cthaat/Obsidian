@@ -16,3 +16,8 @@ tags: Spring , java
  - ![[Pasted image 20240806110025.png]]
  - ![[Pasted image 20240806110040.png]]
  - ![[Pasted image 20240806110054.png]]
+ - 打包
+ - ![[Pasted image 20240806110638.png]]
+ - ![[Pasted image 20240806110644.png]]
+ - ![[Pasted image 20240806110651.png]]
+ - 
