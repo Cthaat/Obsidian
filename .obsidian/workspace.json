@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "aeb6b9281caec5e3",
+        "id": "0a2fb24c84554124",
         "type": "tabs",
         "children": [
           {
-            "id": "89de48ed7414f571",
+            "id": "046c30542cc59e7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PS/01 图层.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3fcc01cfb80b5fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92073db6d05e15b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PS/01 图层.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PS/01 图层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PS/01 图层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PS/01 图层.md"
+              }
             }
           }
         ],
@@ -140,8 +166,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "89de48ed7414f571",
+  "active": "046c30542cc59e7f",
   "lastOpenFiles": [
+    "PS/01 图层.md",
+    "PS/00 来源.md",
+    "PS",
     "GO/00 来源.md",
     "SSM/12 苍穹外卖.md",
     "日记/fetch获取数据.md",
@@ -177,8 +206,6 @@
     "AJAX/00 来源.md",
     "AJAX/05 form-serialize.md",
     "AJAX/04 事件.md",
-    "AJAX/03 提交数据.md",
-    "AJAX/02 原理.md",
     "SSM/未命名"
   ]
 }
