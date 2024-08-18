@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "341b5357cfbe6787",
+        "id": "aeb6b9281caec5e3",
         "type": "tabs",
         "children": [
           {
-            "id": "f05d172b0b1686ef",
+            "id": "89de48ed7414f571",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GO/00 来源.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d1f99258de98f580",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b75a8d80cf51b7cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSM/12 苍穹外卖.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/00 来源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/00 来源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GO/00 来源.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -166,8 +140,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f05d172b0b1686ef",
+  "active": "89de48ed7414f571",
   "lastOpenFiles": [
+    "GO/00 来源.md",
     "SSM/12 苍穹外卖.md",
     "日记/fetch获取数据.md",
     "日记/nuxt3获取图片资源.md",
@@ -204,7 +179,6 @@
     "AJAX/04 事件.md",
     "AJAX/03 提交数据.md",
     "AJAX/02 原理.md",
-    "AJAX/01 概念.md",
     "SSM/未命名"
   ]
 }
