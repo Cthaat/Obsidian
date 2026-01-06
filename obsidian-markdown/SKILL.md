@@ -537,7 +537,7 @@ Obsidian supports HTML within Markdown:
 
 ## Complete Example
 
-```markdown
+````markdown
 ---
 title: Project Alpha
 date: 2024-01-15
@@ -602,7 +602,7 @@ Internal notes:
 - Review with team on Friday
 - Consider alternative approaches
 %%
-```
+````
 
 ## References
 
