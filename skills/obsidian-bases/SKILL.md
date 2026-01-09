@@ -354,7 +354,7 @@ views:
 
 ### Map View
 
-Requires latitude/longitude properties and the Maps plugin.
+Requires latitude/longitude properties and the Maps community plugin.
 
 ```yaml
 views:
