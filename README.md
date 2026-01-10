@@ -2,6 +2,15 @@ Claude Skills for use with Obsidian.
 
 ## Installation
 
+### Marketplace
+
+```
+/plugin marketplace add kepano/obsidian-skills
+/plugin install obsidian@obsidian-skills
+```
+
+### Manually
+
 Add the contents of this repo to a `/.claude` folder in the root of your Obsidian vault (or whichever folder you're using with Claude Code). See more in the [official Claude Skills documentation](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview).
 
 ## Skills
