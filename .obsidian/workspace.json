@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant-wiki-notes/basic/finance/保证金_Margin.md",
+                "file": "quant-wiki-notes/基础概念/金融术语/保证金交易_Buying on Margin.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "保证金_Margin"
+              "title": "保证金交易_Buying on Margin"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "active": "5fb6a0b73642e4dc",
   "lastOpenFiles": [
+    "PR/00 来源.md",
+    "quant-wiki-notes/basic/finance/保证金_Margin.md",
     "quant-wiki-notes/量化前沿/券商研报/财通中信-逐鹿系列/目录.md",
     "quant-wiki-notes/量化前沿/券商研报/渤海-多因子系列/目录.md",
     "quant-wiki-notes/量化前沿/券商研报/海通-选股因子系列/目录.md",
@@ -218,8 +220,6 @@
     "quant-wiki-notes/行业洞察/量化大师/Jim-Simons.md",
     "quant-wiki-notes/行业洞察/概述.md",
     "quant-wiki-notes/行业洞察/卖方公司.md",
-    "quant-wiki-notes/行业洞察/买方公司.md",
-    "quant-wiki-notes/行业洞察/translated_The_Various_Types_of_Quants_and_Quant_Employers.md",
     "pic/Pasted image 20240818171429.png",
     "pic/Pasted image 20240819001038.png",
     "pic/Pasted image 20240819000710.png",
