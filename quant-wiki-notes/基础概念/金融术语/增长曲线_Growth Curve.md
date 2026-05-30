@@ -6,11 +6,8 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是增长曲线？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> 增长曲线描述变量随时间增长的模式。常见类型：线性增长、指数增长、S形增长(逻辑增长)。用于预测和趋势分析。
 增长曲线是一种图形化表示，展示某一事物随时间变化的情况。以一个国家的人口增长为例，增长曲线可能是一张显示该国人口随时间增加的图表。
 
 增长曲线在统计学中被广泛应用，用以确定某一数量随时间的增长模式——无论是线性、指数还是立方。[1] 企业利用增长曲线跟踪或预测许多因素，包括未来销售情况。
@@ -71,12 +68,3 @@ created: 2026-05-30
 [1] Curran, Patrick J., Obeidat, Khawla, and Losardo, Diane, via National Library of Medicine. "[Twelve Frequently Asked Questions About Growth Curve Modeling: Abstract](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3131138/)." Journal of Cognition and Development, vol. 11, no. 2, 2010.
 
 [2] Sigirli, Deniz and Ercan, Ilker. "[Examining Growth with Statistical Shape Analysis and Comparison of Growth Models](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1048&context=jmasm)." Journal of Modern Applied Statistical Methods, vol. 11, no. 2, November 2012, pp. 1.
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

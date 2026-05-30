@@ -6,9 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是凯恩斯主义经济学？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 凯恩斯主义经济学是一种宏观经济理论，研究经济中的总支出及其对产出、就业和通货膨胀的影响。它由英国经济学家约翰·梅纳德·凯恩斯在 20 世纪 30 年代开发，旨在应对大萧条的影响。
 
@@ -100,8 +98,7 @@ created: 2026-05-30
 
 当降低利率未能产生结果时，凯恩斯主义经济学家认为必须采用其他策略，主要是财政政策。其他干预主义政策包括直接控制劳动力供应、改变税率以间接增加或减少货币供应量、改变货币政策或控制商品和服务供应，直到就业和需求恢复。[2]
 
-> [!important]
-> 凯恩斯主义理论家认为，经济体不会很快稳定下来，需要积极的干预来促进经济中的短期需求。[8]
+凯恩斯主义理论家认为，经济体不会很快稳定下来，需要积极的干预来促进经济中的短期需求。[8]
 
 ## 凯恩斯主义经济学与 2007-08 年金融危机
 
@@ -154,12 +151,3 @@ created: 2026-05-30
 [8] International Monetary Fund. "[What Is Monetarism?](https://www.imf.org/external/pubs/ft/fandd/2014/03/basics.htm)"
 
 [9] Scholars at Harvard. "[Dealing with Monetary Paralysis at the Zero Bound](https://scholar.harvard.edu/files/rogoff/files/dealing_with_monetary_paralysis_at_the_zero_bound.pdf)," Pages 47-48.
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

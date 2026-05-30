@@ -6,11 +6,9 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是自由贸易协定（FTA）？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> 自由贸易是国家之间没有关税、配额等贸易壁垒的状态。理论基础：比较优势理论。好处：降低价格、增加选择、促进竞争。
+自由贸易是国家之间没有关税、配额等贸易壁垒的状态。理论基础：比较优势理论。好处：降低价格、增加选择、促进竞争。
 自由贸易协定是两个或多个国家之间为减少彼此进出口壁垒而达成的协议。在自由贸易政策下，商品和服务可以在国际边界上进行买卖，几乎没有或没有政府关税、配额、补贴或禁止措施来抑制它们的交换。
 
 自由贸易的概念与贸易保护主义或经济孤立主义相反。
@@ -29,8 +27,7 @@ created: 2026-05-30
 
 实施自由贸易政策或达成自由贸易协定的政府不一定放弃对进出口的所有控制，也不一定取消所有保护主义政策。在现代国际贸易中，很少有自由贸易协定（FTA）能实现完全的自由贸易。
 
-> [!important]
-> 自由贸易的好处在经济学家大卫·李嘉图1817年出版的《政治经济学和税收原理》中有所概述。[1]
+自由贸易的好处在经济学家大卫·李嘉图1817年出版的《政治经济学和税收原理》中有所概述。[1]
 
 例如，一个国家可能允许与另一个国家进行自由贸易，但会例外地禁止进口未经其监管机构批准的特定药物、未经疫苗接种的动物或不符合其标准的加工食品。
 
@@ -151,12 +148,3 @@ created: 2026-05-30
 [11] Office of the United States Trade Representative. "[Industrial Tariffs](https://ustr.gov/issue-areas/industry-manufacturing/industrial-tariffs)."
 
 [12] Government of Canada. "[Free Trade Zones in China](https://www.tradecommissioner.gc.ca/china-chine/ftz-zle.aspx?lang=eng)."
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

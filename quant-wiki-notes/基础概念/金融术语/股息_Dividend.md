@@ -6,16 +6,9 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
-
 # 什么是股息？
 
-
-
-股息是一家公司将其盈利分配给股东的行为，由公司董事会决定。股息通常按季度分配，可以以现金形式支付，也可以以再投资于额外股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-的形式支付。
+股息是一家公司将其盈利分配给股东的行为，由公司董事会决定。股息通常按季度分配，可以以现金形式支付，也可以以再投资于额外股票的形式支付。
 
 股息收益率是每股股息，表示为股息/价格，以公司股价的百分比表示，例如 2.5%。[1]
 
@@ -81,10 +74,7 @@ created: 2026-05-30
 
 ## 基金股息
 
-基金（例如债券
-
-> 政府或企业发行的债务工具，承诺按期支付利息并到期偿还本金
-或共同基金）支付的股息与公司支付的股息不同。基金采用净资产价值 (NAV) 原则，该原则反映了其持股的估值或基金投资组合中资产的价格。[11]
+基金（例如债券或共同基金）支付的股息与公司支付的股息不同。基金采用净资产价值 (NAV) 原则，该原则反映了其持股的估值或基金投资组合中资产的价格。[11]
 
 不应将定期股息支付误解为基金的卓越表现。例如，一个投资债券的基金可能会每月支付股息，因为它每月从其计息持股中获得利息，并且只是将利息收入全部或部分转移给基金的投资者。
 
@@ -151,12 +141,3 @@ created: 2026-05-30
 [15] Internal Revenue Service. "[United States Income Tax Treaties - A to Z](https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z)."
 
 [16] S&P Dow Jones Indices. "[Withholding Tax Rates](https://www.spglobal.com/spdji/en/documents/additional-material/withholding-tax-index-values.pdf)."
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

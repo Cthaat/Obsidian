@@ -6,25 +6,20 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是合并与收购（M&A）？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> 并购(M&A)是公司合并或收购其他公司的行为。目的：扩大规模、进入新市场、获得技术、协同效应。可能涉及现金、股票或混合支付。
 合并与收购（M&A）是指公司之间的一种结合方式。整个公司或其主要商业资产通过两家或更多公司的财务交易进行整合。公司可以：
 
 - 全面收购并吸收另一家公司
 - 与其合并以创建一家新公司
 - 收购其部分或全部主要资产
-- 针对其股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-发起要约收购
+- 针对其股票发起要约收购
 - 进行敌意收购
 
 这些合并或资产整合的方式都属于M&A活动。M&A一词还用于描述金融机构中便利或管理此类活动的部门。
 
 ### 关键要点
+
 - 合并与收购（M&A）是指企业或其资产的整合或联合方式。
 - 在收购中，一家公司完全购买另一家公司。
 - 合并是指两家公司联合成为一个新的法律实体，以一个企业名称运作。
@@ -167,12 +162,3 @@ created: 2026-05-30
 [12] Marriott International. "[Marriott International Completes Acquisition of Starwood Hotels & Resorts Worldwide, Creating World's Largest and Best Hotel Company While Providing Unparalleled Guest Experience](https://news.marriott.com/news/2016/09/23/marriott-international-completes-acquisition-of-starwood-hotels-resorts-worldwide-creating-worlds-largest-and-best-hotel-company-while-providing-unparalleled-guest-experience)."
 
 [13] U.S. Securities and Exchange Commission. "[AuthenTec, Inc., Form 8-K, July 26, 2012](https://www.sec.gov/Archives/edgar/data/1138830/000119312512318086/d384083d8k.htm)."
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

@@ -6,9 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是失业？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 失业是指一个人积极寻找工作但无法找到工作的情况。失业被认为是衡量经济健康状况的关键指标。最常用的失业衡量标准是失业率。它的计算方法是将失业人数除以劳动力总人数。
 
@@ -58,8 +56,7 @@ created: 2026-05-30
 - 劳动力市场现象，包括效率工资和歧视性招聘
 - 劳动力市场机构，例如高工会化率
 
-> [!important]
-> 许多政府向符合资格要求的某些失业人员提供失业保险。
+许多政府向符合资格要求的某些失业人员提供失业保险。
 
 ## 如何衡量失业率
 
@@ -114,12 +111,3 @@ created: 2026-05-30
 [5] U.S. Census Bureau. "[Chapter D, Labor: Labor Force (Series D 1-682)](https://www2.census.gov/学习资源/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chD.pdf)." Page 135.
 
 [6] Federal Reserve Bank of St. Louis, FRED. “[Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE).”
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

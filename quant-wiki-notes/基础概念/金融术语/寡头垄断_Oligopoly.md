@@ -6,11 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
-
 # 什么是寡头垄断？
-
-
 
 寡头垄断是一种市场结构，其中少数几家公司控制着市场。在存在寡头垄断的情况下，生产者可以间接或直接地限制产量或价格，以获得更高的回报。寡头垄断的一个关键特征是，没有一家公司能够阻止其他公司对市场产生重大影响。寡头垄断与垄断不同，在垄断中，一家公司主导市场。
 
@@ -36,9 +32,6 @@ created: 2026-05-30
 政府有时会通过反对价格操纵和串通的法律来应对寡头垄断。然而，如果卡特尔在政府无法触及的范围内或在政府的祝福下运作，则可以进行价格操纵。混合经济中存在的寡头垄断经常寻求并游说有利的政府政策，以便在政府机构的监管甚至直接监督下运作。
 
 寡头垄断中的公司面临的主要问题是，每家公司都有作弊的动机。如果寡头垄断中的所有公司都同意共同限制供应并保持高价，那么每家公司都有可能通过打破协议并削弱其他公司来从其他公司那里获得大量业务。这种竞争可以通过价格进行，或者仅仅是通过个别公司扩大其推向市场的产量。
-
-> [!important]
-> 寡头垄断中的公司受益于价格操纵，集体设定价格，或在其中一家公司的指导下设定价格，而不是依靠自由市场力量来做到这一点。
 
 ## 寡头垄断的特征
 
@@ -115,12 +108,3 @@ OPEC 被认为是寡头垄断的主要原因之一是它没有总体权威。该
 [2] The White House. "[Fact Sheet for Executive Order on Promoting Competition in the American Economy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/.)."
 
 [3] Congress.gov. "[S.2493 - Airline Deregulation Act](https://www.congress.gov/bill/95th-congress/senate-bill/2493)."
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

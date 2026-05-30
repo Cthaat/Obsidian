@@ -6,14 +6,9 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是期货交易？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> [!note] 💡 概念解析
-> 标准化的未来交易合约，用于投机或对冲风险。
-
-期货交易通常指的是基础资产为股票
+期货交易通常指基础资产为股票、债券、商品或货币等资产的合约交易。
 
 ### 关键要点
 
@@ -114,8 +109,3 @@ created: 2026-05-30
 [7] CME Group. "[The Power of Leverage](https://www.cmegroup.com/education/courses/understanding-the-benefits-of-futures/the-power-of-leverage.html)."
 
 [8] Commodity Futures Trading Commission. "[History of the CFTC](https://www.cftc.gov/About/HistoryoftheCFTC/history_1970s.html)."
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-[[期权]] [[远期合约]] [[保证金]]

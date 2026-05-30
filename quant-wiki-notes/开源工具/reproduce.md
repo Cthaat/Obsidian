@@ -8,9 +8,6 @@ created: 2026-05-30
 
 ## 再现研究成果培训与书籍
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
-本列表由[LLMQuant社区](https://llmquant.com/)整理, 只供学习交流使用, 版权归原作者所有。
-
 - [Auto-Differentiation Website](https://auto-differentiation.github.io/) - 有关自动微分（AD）/伴随算法微分（AAD）的背景知识与资源。
 - [Derman Papers](https://github.com/MarcosCarreira/DermanPapers) - Emanuel Derman 量化金融论文的重现与笔记。
 - [ML-Quant](https://www.ml-quant.com/) - 量化方向的优秀资源索引，如 ArXiv（sanity）、SSRN、RePec、期刊、播客、视频和博客等。
@@ -22,10 +19,7 @@ created: 2026-05-30
 - [FinanceHub](https://github.com/Finance-Hub/FinanceHub) - 定量金融资源整合。
 - [Python_Option_Pricing](https://github.com/dedwards25/Python_Option_Pricing) - 完整的期权定价 Python 库，包括 Black-Scholes、Black 76、隐含波动率、美式/欧式/亚式/价差期权等。
 - [python-training](https://github.com/jpmorganchase/python-training) - J.P. Morgan 提供的面向业务分析师和交易员的 Python 培训。
-- [Stock_Analysis_For_Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - 使用 Excel、Matlab、Power BI、Python、R、Tableau 等对股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-进行不同类型的分析。
+- [Stock_Analysis_For_Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - 使用 Excel、Matlab、Power BI、Python、R、Tableau 等对股票进行不同类型的分析。
 - [algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - 《Algorithmic Trading with Python (2020)》的源码与资源。
 - [MEDIUM_NoteBook](https://github.com/cerlymarco/MEDIUM_NoteBook) - 包含 [cerlymarco](https://github.com/cerlymarco) 在 Medium 上文章的源码 notebook。
 - [QuantFinance](https://github.com/PythonCharmers/QuantFinance) - 用于定量金融的培训材料。

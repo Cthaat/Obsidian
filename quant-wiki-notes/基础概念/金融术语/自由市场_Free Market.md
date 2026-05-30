@@ -6,9 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是自由市场？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 自由市场是一种基于供需关系且几乎或完全不受政府控制的经济体系。自由市场的核心原则之一是自愿交换的概念，它被定义为双方自由交易商品或服务的任何交易。
 
@@ -32,13 +30,7 @@ created: 2026-05-30
 
 ## 自由市场和金融市场
 
-在自由市场中，可以发展金融市场，以满足那些无法或不想自筹资金的人的融资需求。例如，一些个人或企业专门通过持续不消费其所有现有财富来获取储蓄。另一些人则专门部署储蓄以追求创业活动，例如创办或扩大企业。这些参与者可以从交易股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-和债券
-
-> 政府或企业发行的债务工具，承诺按期支付利息并到期偿还本金
-等金融证券中获益。
+在自由市场中，可以发展金融市场，以满足那些无法或不想自筹资金的人的融资需求。例如，一些个人或企业专门通过持续不消费其所有现有财富来获取储蓄。另一些人则专门部署储蓄以追求创业活动，例如创办或扩大企业。这些参与者可以从交易股票和债券等金融证券中获益。
 
 例如，储户可以购买债券，并将他们现有的储蓄交易给企业家，以换取未来储蓄加上报酬或利息的承诺。对于股票，储蓄被交易以获得未来收益的所有权。没有纯粹自由金融市场的现代例子。
 
@@ -87,12 +79,3 @@ created: 2026-05-30
 [7] The Fraser Institute. "[Methodology: Approach](https://www.fraserinstitute.org/economic-freedom/approach)," Toggle Between "Economic Freedom of the World," and "Economic Freedom of North America."
 
 [8] The Heritage Foundation. "[About The Index](https://www.heritage.org/index/about)."
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

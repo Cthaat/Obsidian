@@ -6,10 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
-
 # 一文带你读懂金融市场尾部风险：极值理论（EVT）在VaR与ES计算中的应用
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 ## 极值理论（EVT）：尾部风险建模
 
@@ -55,7 +52,9 @@ require(xts)
 SPY_prices <- Ad(getSymbols('SPY', from = '2006-01-01', to = '2019-01-01', auto.assign = FALSE))
 returns_xts <- diff(log(SPY_prices), k = 1)[-1] * 100  # 每日对数收益
 ```
+
 #### 转换为损失（负收益的正值），并计算每月最大损失
+
 ```r
 monthly_max_daily_loss <- do.call(rbind, lapply(split(x = -1 * returns_xts, 'months'), function(x) x[which.max(x)]))
 ```
@@ -79,6 +78,7 @@ my_fit_vals <- my_gev_fit$par
 GEV_VAR(my_fit_vals, alpha = c(.05, .025, .01))
 ```
 ----
+
 ### Peak-Over-Threshold方法
 
 **Peak-Over-Threshold (POT)** 方法与Block Maxima方法不同，它关注的是所有超过某个设定阈值的观测值。POT方法通常能更有效地捕捉尾部风险，尤其是在数据中存在多个极端值时。
@@ -139,6 +139,7 @@ gdp_loglik <- function(params, threshold, data){
 my_gpd_fit <- optim(par = c(0.5, 0.5), fn = gdp_loglik, method = "Nelder-Mead", threshold = my_threshold, data = returns_xts)
 my_gpd_fit
 ```
+
 ### 计算风险：VaR和ES
 
 通过拟合后的GEV分布参数，我们可以计算**VaR（价值风险）** 和**ES（预期损失）** 等风险指标。例如，VaR可以通过逆累积分布函数计算：
@@ -166,7 +167,7 @@ GEV_VAR <- function(params, alpha = .05){
     mu    <- rep(params[1], length(alpha))
     sigma <- rep(params[2], length(alpha))
     xi    <- rep(params[3], length(alpha))
-    
+
     y <- -log(1 - alpha)
     result <- ifelse(abs(xi) < 0.0001, mu - sigma * log(-y), mu - sigma / xi * (1 - y ^ -xi))
     return(result)
@@ -192,7 +193,7 @@ $$
 GEV_ES <- function(params, alpha = .05){
     # 定义一个函数来计算VAR值
     my_fun <- function(x) {GEV_VAR(x, params = params)}
-    
+
     # 数值积分，计算ES
     result <- 1 / alpha * integrate(my_fun, lower = .00001, upper = alpha, stop.on.error = FALSE)$value
     return(result)
@@ -211,6 +212,3 @@ GEV_ES(my_fit_vals, alpha = .01)
 极值理论（EVT）为金融市场的尾部风险管理提供了强有力的工具，尤其是在面对市场极端波动时，能够帮助决策者制定更加合理的风险控制策略。通过**Block Maxima**和**Peak-Over-Threshold**两种方法，我们可以有效地估计尾部风险，并使用**广义极值分布（GEV）** 和**广义帕累托分布（GPD）** 进行拟合和风险评估。
 
 在具体应用中，通过计算**VaR（价值风险）** 和**ES（预期损失）** 等风险指标，投资者和金融机构能够量化极端事件的影响，并采取相应的风险控制措施。VaR为特定置信水平下的潜在损失提供了一个界限，而ES则进一步考虑了极端损失的平均大小，帮助我们更好地理解尾部风险。
-
-如果你希望进一步了解如何在实践中应用这些方法，欢迎加入我们的知识星球，解锁更多专业的技术和代码示例，助力你在金融风险管理中迈出更稳健的一步。
-

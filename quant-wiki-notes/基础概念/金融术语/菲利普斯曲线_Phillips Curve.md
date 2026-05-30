@@ -6,9 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是菲利普斯曲线？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 菲利普斯曲线是一种经济理论，认为通货膨胀和失业之间存在稳定且反向的关系。由威廉·菲利普斯提出，它声称经济增长会带来通货膨胀，而通货膨胀反过来应该导致更多就业和更少的失业。
 
@@ -77,12 +75,3 @@ created: 2026-05-30
 [8] Federal Reserve Bank of St. Louis. "[What Is the Phillips Curve (and Why Has It Flattened)?](https://www.stlouisfed.org/open-vault/2020/january/what-is-phillips-curve-why-flattened)"
 
 [9] NPR. "[Is It Time For The Fed To Say Goodbye To The Phillips Curve Theory?](https://www.npr.org/2018/10/29/661879814/is-it-time-for-the-fed-to-say-goodbye-to-the-phillips-curve-theory)"
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

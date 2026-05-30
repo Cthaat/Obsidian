@@ -6,12 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是动量投资？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
-
-> [!note] 💡 概念解析
-> 买入近期表现强势的股票，卖出表现弱势的股票。
 
 在市场中，动量指的是价格趋势向前维持自己的能力。
 
@@ -24,8 +19,7 @@ created: 2026-05-30
 
 ## 理解动量投资
 
-动量投资涉及对股票
-
+动量投资涉及对股票等资产趋势的判断和跟随。
 动量投资认为，趋势可以持续一段时间，有可能通过持续跟随一个趋势直至其结束来获利，无论这可能需要多长时间。例如，在2009年进入美国股市的动量投资者，通常享受到了2018年12月之前的上升趋势。
 
 **注意：** 虽然他并不是第一个使用该策略的人，但基金经理和商人理查德·德里豪斯（Richard Driehaus）通常被认为是动量投资的开创者。[1]
@@ -77,8 +71,3 @@ $$ \begin{aligned} &M = V - V_x\\ &\textbf{其中:}\\ &V = \text{最新价格}\\
 [4] Jegadeesh, Narasimhan, and Sheridan Titman. "Returns to buying winners and selling losers: Implications for stock market efficiency." The Journal of Finance, Vol. 48, No. 1. 1993. Pp. 65-91.
 
 [5] Lutey, Matt, and David Rayome. "Live Out of Sample Testing of CAN SLIM Stock Selection Strategy." Journal of Accounting and Finance, Vol. 22, No. 2. 2022. Pp. 1-7.
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-[[趋势跟踪]] [[相对强弱指数]] [[移动平均线]]

@@ -6,17 +6,11 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是CAPE比率（希勒市盈率）？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> CAPE比率(周期调整市盈率)是用过去10年经通胀调整的平均收益计算的市盈率。用于衡量市场整体估值水平，比普通P/E更稳定。
 CAPE比率是一种估值指标，使用过去10年的实际每股收益（EPS）来平滑不同时期企业利润波动的影响，以适应经济周期的变化。
 
-CAPE比率，全称为周期调整市盈率，由耶鲁大学教授罗伯特·希勒（Robert Shiller）所推广。它也被称为希勒市盈率。市盈率是一种估值指标，用于衡量股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-价格与公司每股收益的相对关系。每股收益是公司利润除以流通股本。
+CAPE比率，全称为周期调整市盈率，由耶鲁大学教授罗伯特·希勒（Robert Shiller）所推广。它也被称为希勒市盈率。市盈率是一种估值指标，用于衡量股票价格与公司每股收益的相对关系。每股收益是公司利润除以流通股本。
 
 CAPE比率通常应用于广泛的股票指数，以评估市场是被低估还是高估。尽管它是一种受到广泛关注的指标，但一些行业专家对其作为未来股市回报的预测能力提出了质疑。
 
@@ -75,12 +69,3 @@ CAPE比率最初在1996年12月引起公众关注，罗伯特·希勒和约翰·
 [3] YCharts. “[S&P 500 Shiller CAPE Ratio](https://ycharts.com/indicators/cyclically_adjusted_pe_ratio).”
 
 [4] Siegel, Jeremy J., via Taylor & Francis Online. “[The Shiller CAPE Ratio: A New Look](https://www.tandfonline.com/doi/epdf/10.2469/faj.v72.n3.1).” Financial Analysts Journal, vol. 72, no. 3, 2016, pp. 41–50.
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

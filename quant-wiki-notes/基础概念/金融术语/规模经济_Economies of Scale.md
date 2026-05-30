@@ -6,9 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是规模经济？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 规模经济是指公司在生产变得高效时获得的成本优势。公司可以通过提高产量和降低成本来实现规模经济。这是因为成本分摊到更多的商品上。成本可以是固定成本，也可以是可变成本。
 
@@ -30,8 +28,7 @@ created: 2026-05-30
 
 规模经济之所以能降低单位成本，有几个原因。首先，劳动力专业化和更集成的技术提高了产量。其次，较低的单位成本可能来自供应商的批量订单、更大的广告购买或更低的资本成本。第三，将内部职能成本分摊到更多生产和销售的单位上，有助于降低成本。
 
-> [!important]
-> 当一家公司变得太大并追求规模经济时，可能会产生规模不经济。[1]
+当一家公司变得太大并追求规模经济时，可能会产生规模不经济。[1]
 
 ## 内部规模经济 vs. 外部规模经济
 
@@ -90,11 +87,3 @@ created: 2026-05-30
 [1] Organisation for Economic Co-Operation and Development. "[Glossary of Industrial Organisation Economics and Competition Law](https://www.oecd.org/regreform/sectors/2376087.pdf)," Pages 39.
 
 [2] International Monetary Fund. "[The Price of Capital Goods: A Driver of Investment Under Threat](https://www.imf.org/en/Publications/WP/Issues/2019/06/29/The-Price-of-Capital-Goods-A-Driver-of-Investment-Under-Threat-46948)."
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

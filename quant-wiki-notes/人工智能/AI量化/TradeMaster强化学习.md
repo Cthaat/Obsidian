@@ -6,14 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
-
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
-
-**TradeMaster** 是一款面向量化交易
-
-> 使用数学模型和算法进行交易决策的方法
-（QT）的开源平台，它将**强化学习（RL）** 技术全面融合到量化交易全流程中。从数据准备、算法实现、评估到部署，TradeMaster为开发者与研究者提供了一套“**一站式**”解决方案。
+**TradeMaster** 是一款面向量化交易（QT）的开源平台，它将**强化学习（RL）** 技术全面融合到量化交易全流程中。从数据准备、算法实现、评估到部署，TradeMaster为开发者与研究者提供了一套“**一站式**”解决方案。
 
 ---
 
@@ -54,8 +47,8 @@ TradeMaster将量化交易工作流划分为6大模块：
 
 #### 1. 安装方法
 
-- **Linux/Windows/MacOS**  
-- **Docker**  
+- **Linux/Windows/MacOS**
+- **Docker**
 
 官方在[[Installation]]里提供了详细的环境配置指南。
 
@@ -80,7 +73,7 @@ TradeMaster附带的脚本功能十分丰富：
 
 - **自动超参数调优**
 - **自动特征生成**
-- **基于扩散模型的数据插值修复**  
+- **基于扩散模型的数据插值修复**
 - **结合Alpha158技术指标进行RL训练**
 - **TradeMaster Sandbox 沙盒测试**
 
@@ -125,8 +118,7 @@ TradeMaster中包含了多种RL交易算法的高效实现，包括：
 
 ### 七、可视化工具
 
-TradeMaster提供了大量可视化工具，以多维度评估强化学习量化策略。  
-> 例如**PRIDE-Star**雷达图，可以直观展示收益率、夏普比率等多项指标结果，一图概览策略的优劣势。
+TradeMaster提供了大量可视化工具，以多维度评估强化学习量化策略。
 
 ![](https://fastly.jsdelivr.net/gh/bucketio/img2@main/2025/01/29/1738123100989-f58db4af-6048-40c1-aaf2-1b3adbe6e98c.png)
 
@@ -136,21 +128,8 @@ TradeMaster提供了大量可视化工具，以多维度评估强化学习量化
 
 ## 相关论文
 
-- **PRUDEX-Compass**: Systematic Evaluation of RL in Financial Markets (TMLR 2023)  
-- **Reinforcement Learning for Quantitative Trading (Survey)** (ACM TIST 2023)  
-- **Deep RL for Quantitative Trading: Challenges & Opportunities** (IEEE Intelligent Systems 2022)  
-- **DeepScalper** (CIKM 2022)  
-- **Commission Fee is not Enough** (AAAI 2021)  
-
-## 关于LLMQuant
-
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。欢迎加入**知识星球**获取**内部资料**。
-
-![](https://fastly.jsdelivr.net/gh/bucketio/img13@main/2025/01/29/1738120164157-32d67f79-b006-4f4e-bb7b-13db27759e2b.JPG)
-
+- **PRUDEX-Compass**: Systematic Evaluation of RL in Financial Markets (TMLR 2023)
+- **Reinforcement Learning for Quantitative Trading (Survey)** (ACM TIST 2023)
+- **Deep RL for Quantitative Trading: Challenges & Opportunities** (IEEE Intelligent Systems 2022)
+- **DeepScalper** (CIKM 2022)
+- **Commission Fee is not Enough** (AAAI 2021)

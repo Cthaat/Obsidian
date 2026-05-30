@@ -6,9 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是蒙特卡罗模拟？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 蒙特卡罗模拟是一种建模方法，用于预测由于随机变量干预而难以预测的过程中的各种结果的概率。这是一种用于理解风险和不确定性影响的技术。蒙特卡罗模拟可以应用于多个领域的各种问题，包括投资、商业、物理和工程。这种技术也被称为多重概率模拟。
 
@@ -46,10 +44,7 @@ created: 2026-05-30
 
 ## 蒙特卡罗模拟的四个步骤
 
-要执行蒙特卡罗模拟，主要分为四个步骤。以微软Excel或类似程序为例，可以创建一个蒙特卡罗模拟，以估计股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-或其他资产的价格波动。
+要执行蒙特卡罗模拟，主要分为四个步骤。以微软Excel或类似程序为例，可以创建一个蒙特卡罗模拟，以估计股票或其他资产的价格波动。
 
 资产价格波动有两个组成部分：漂移，即其恒定的方向性运动，以及随机输入，代表市场波动性。
 
@@ -99,10 +94,7 @@ created: 2026-05-30
 
 - 股票期权定价：跟踪在每一个可能变量下基础资产的潜在价格波动。然后对结果进行平均，并将其折现到资产当前的价格。这旨在指示期权的潜在回报。
 - 投资组合估值：可以使用蒙特卡罗模拟测试多个替代投资组合，以得出其相对风险的衡量标准。
-- 固定收益投资：短期利率是这里的随机变量。该模拟用于计算短期利率波动可能对固定收益投资（如债券
-
-> 政府或企业发行的债务工具，承诺按期支付利息并到期偿还本金
-）产生的影响。
+- 固定收益投资：短期利率是这里的随机变量。该模拟用于计算短期利率波动可能对固定收益投资（如债券）产生的影响。
 
 ## 哪些专业使用蒙特卡罗模拟？
 
@@ -131,12 +123,3 @@ created: 2026-05-30
 [2] IBM. "[Working Together, AI & HPC Can Solve Large, Complex Problems](https://community.ibm.com/community/user/cloud/blogs/john-easton/2024/03/25/working-together-ai-hpc-can-solve-large-complex-ch?CommunityKey=74d589b7-7276-4d70-acf5-0fc26430c6c0)."
 
 [3] Virginia Polytechnic Institute, via Internet Archive Wayback Machine. "[Monte Carlo Simulation](https://web.archive.org/web/20201025115012/https://sites.google.com/a/vt.edu/monte-carlo-simulation/history)."
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

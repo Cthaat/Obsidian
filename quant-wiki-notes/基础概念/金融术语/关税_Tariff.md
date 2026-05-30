@@ -6,10 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是关税？
-
-
 
 大多数国家都受到其自然资源和生产特定商品和服务能力的限制。他们与其他国家进行贸易，以获得其人口需要和要求的物品。然而，贸易伙伴之间的贸易并非总是以友好的方式进行。政策、地缘政治、竞争和许多其他因素都可能使贸易伙伴不满意。
 
@@ -155,12 +152,3 @@ created: 2026-05-30
 [16] Congressional Research Service. ”[Escalating U.S. Tariffs: Timeline](https://crsreports.congress.gov/product/pdf/IN/IN10943).” Pages 1, 4.
 
 [17] U.S. Census Bureau. “[U.S. Census Bureau History: The 1773 Boston Tea Party](https://www.census.gov/history/www/homepage_archive/2023/december_2023.html).”
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

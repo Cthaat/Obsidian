@@ -6,9 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是变异系数 (CV)？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 变异系数 (CV) 是一种统计度量，用于衡量数据集中数据点围绕均值的离散程度。 变异系数表示标准差与均值的比率，它是一种有用的统计量，可以比较不同数据集之间的变异程度，即使均值差异很大。
 
@@ -28,14 +26,7 @@ created: 2026-05-30
 
 它们最常用于分析围绕均值的离散程度，但四分位数、五分位数或十分位数 CV 也可用于理解围绕中位数或例如第 10 个百分位数的变异。
 
-> [!important]
-> 变异系数公式或计算可用于确定股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-、商品或债券
-
-> 政府或企业发行的债务工具，承诺按期支付利息并到期偿还本金
-的历史平均价格与当前价格表现之间的偏差，相对于其他资产而言。
+、商品或债券的历史平均价格与当前价格表现之间的偏差，相对于其他资产而言。
 
 ## 变异系数 (CV) 公式
 
@@ -112,12 +103,3 @@ $$ CV = s/x * 100 $$
 [2] Penn State, Eberly College of Science. “[STAT 500: Applied Statistics; 1.5.3—Measures of Variability](https://online.stat.psu.edu/stat500/lesson/1/1.5/1.5.3).”
 
 [3] UCLA, Advanced Research Computing: Statistical Methods and Data Analytics. “[FAQ: What Is the Coefficient of Variation?](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faq-what-is-the-coefficient-of-variation/)”
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

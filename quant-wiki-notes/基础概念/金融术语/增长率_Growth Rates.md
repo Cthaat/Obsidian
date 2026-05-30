@@ -6,10 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是增长率？
-
-
 
 增长率是指在特定时间段内某个变量的百分比变化。增长率可以是正值也可以是负值，这取决于该变量的规模是随时间增加还是减少。增长率最早是由生物学家用来研究种群规模的，但随后被广泛应用于经济活动、企业管理或投资回报的研究中。
 
@@ -43,10 +40,7 @@ $$ \begin{aligned} &CAGR= \left ( \frac{EV}{BV} \right ) ^{\frac{1}{n}}-1\\ &\te
 
 CAGR 的计算假设在特定时间段内增长是稳定的。由于其简单性和灵活性，CAGR是一个广泛使用的指标，许多企业会使用它来报告和预测收益增长。
 
-金融理论认为，可以使用股息折现模型（DDM）来合理估值公司的股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-，基于当前价格的价值等于未来所有股息支付的现值之和。因此，股息增长率对股票估值来说是重要的。
+金融理论认为，可以使用股息折现模型（DDM）来合理估值公司的股票，基于当前价格的价值等于未来所有股息支付的现值之和。因此，股息增长率对股票估值来说是重要的。
 
 戈登增长模型（GGM）是一种流行的方法，用于根据未来一系列以恒定速度增长的股息来确定股票的内在价值。假设成熟公司定期寻求增加向投资者支付的股息，因此股息增长率是股票估值的关键输入。
 
@@ -130,12 +124,3 @@ CAGR 的计算假设在特定时间段内增长是稳定的。由于其简单性
 [2] Central Statistics Office. "[Retail Sales Index July 2023 (Provisional) and June 2023 (Final)](https://www.cso.ie/en/releasesandpublications/ep/p-rsi/retailsalesindexjuly2023provisionalandjune2023final/)."
 
 [3] Paul Graham (of Y Combinator). “[Startup = Growth](http://www.paulgraham.com/growth.html).”
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

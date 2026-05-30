@@ -89,52 +89,52 @@ def detect_headings(self, text: str) -> List[str]:
 ```python
 def keyword_analysis(self, sections: Dict[str, str]) -> Dict[str, List[str]]:
     keyword_map = defaultdict(list)
-    
+
     risk_management_keywords = [
-        "drawdown", "volatility", "reduce", "limit", "risk", "risk-adjusted", 
-        "maximal drawdown", "market volatility", "bear markets", "stability", 
+        "drawdown", "volatility", "reduce", "limit", "risk", "risk-adjusted",
+        "maximal drawdown", "market volatility", "bear markets", "stability",
         "sidestep", "reduce drawdown", "stop-loss", "position sizing", "hedging"
     ]
     trading_signal_keywords = [
-        "buy", "sell", "signal", "indicator", "trend", "SMA", "moving average", 
-        "momentum", "RSI", "MACD", "bollinger bands", "Rachev ratio", "stay long", 
-        "exit", "market timing", "yield curve", "recession", "unemployment", 
+        "buy", "sell", "signal", "indicator", "trend", "SMA", "moving average",
+        "momentum", "RSI", "MACD", "bollinger bands", "Rachev ratio", "stay long",
+        "exit", "market timing", "yield curve", "recession", "unemployment",
         "housing starts", "Treasuries", "economic indicator"
     ]
-    
+
     irrelevant_patterns = [
-        r'figure \d+',  
-        r'\[\d+\]',     
-        r'\(.*?\)',     
-        r'chart',       
-        r'\bfigure\b',  
-        r'performance chart',  
-        r'\d{4}-\d{4}',  
-        r'^\s*$'        
+        r'figure \d+',
+        r'\[\d+\]',
+        r'\(.*?\)',
+        r'chart',
+        r'\bfigure\b',
+        r'performance chart',
+        r'\d{4}-\d{4}',
+        r'^\s*$'
     ]
-    
+
     processed_sentences = set()
-    
+
     for section, content in sections.items():
         doc = self.nlp(content)
         for sent in doc.sents:
             sent_text = sent.text.lower().strip()
-            
+
             if any(re.search(pattern, sent_text) for pattern in irrelevant_patterns):
                 continue
             if sent_text in processed_sentences:
                 continue
             processed_sentences.add(sent_text)
-            
+
             if any(kw in sent_text for kw in trading_signal_keywords):
                 keyword_map['trading_signal'].append(sent.text.strip())
             elif any(kw in sent_text for kw in risk_management_keywords):
                 keyword_map['risk_management'].append(sent.text.strip())
-    
+
     for category, sentences in keyword_map.items():
         unique_sentences = list(set(sentences))
         keyword_map[category] = sorted(unique_sentences, key=len)
-    
+
     logging.info("关键词分析完成。")
     return keyword_map
 ```
@@ -279,6 +279,6 @@ def display_summary_and_code(self, summary: str, code: str):
 - 我们认为，将金融论文转化为交易算法的当前过程耗时且容易出错，强调了自动化的必要性。
 - 强调了该工具的初步性质，作者承认虽然生成的代码基本无错误，实现完全准确性仍是未来开发的目标。
 - 该工具能够将句子分类为交易信号和风险管理，被视为关键特性，确保只有相关信息用于代码生成。
-- 使用GPT-4生成代码被认为特别具有创新性，展示了AI在量化金融领域的潜力。
+- 使用GPT-4生成代码被认为特别具有创新性，展示了AI 在量化金融领域的潜力。
 - 我们对项目的持续改进和其成为量化分析师和交易员的宝贵资产的潜力持乐观态度。
 - 使用Tkinter创建用户友好的界面，并使用Pygments进行语法高亮，表明了对用户体验和生成代码可读性的关注。

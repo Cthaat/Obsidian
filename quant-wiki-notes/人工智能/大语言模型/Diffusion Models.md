@@ -6,11 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
-
 # 扩散模型训练与采样过程梗概
-
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 **扩散模型**是受非平衡热力学的启发。它们定义一个扩散步骤的马尔可夫链，逐渐向数据添加随机噪声，然后学习逆扩散过程，从噪声中构建所需的数据样本。与VAE或流动模型不同，扩散模型是用固定的程序学习的，而且隐变量具有高维度。
 
@@ -63,13 +59,13 @@ $x_T=\sqrt{\alpha_T}x_{T-1}+\sqrt{1-\alpha_T}z_T$
 
 将式 ：$x_{t-1}=\sqrt{\alpha_{t-1}}x_{t-2}+\sqrt{1-\alpha_{t-1}}z_{t-1}$带入（2）式中，可得
 
-$x_t=\sqrt{\alpha_t}(\sqrt{\alpha_{t-1}}x_{t-2}+\sqrt{1-\alpha_{t-1}}z_{t-1})+\sqrt{1-\alpha_t}z_t$  
+$x_t=\sqrt{\alpha_t}(\sqrt{\alpha_{t-1}}x_{t-2}+\sqrt{1-\alpha_{t-1}}z_{t-1})+\sqrt{1-\alpha_t}z_t$
 
 式子展开为：
 
-$x_t=\sqrt{\alpha_t}\sqrt{\alpha_{t-1}}x_{t-2}+\sqrt{\alpha_t}\sqrt{1-\alpha_{t-1}}z_{t-1}+\sqrt{1-\alpha_t}z_t$  
+$x_t=\sqrt{\alpha_t}\sqrt{\alpha_{t-1}}x_{t-2}+\sqrt{\alpha_t}\sqrt{1-\alpha_{t-1}}z_{t-1}+\sqrt{1-\alpha_t}z_t$
 
-$=\sqrt{\alpha_t}\sqrt{\alpha_{t-1}}x_{t-2}+(\sqrt{\alpha_t (1- \alpha_{t-1})}z_{t-1}+\sqrt{1-\alpha_t}z_t)$  
+$=\sqrt{\alpha_t}\sqrt{\alpha_{t-1}}x_{t-2}+(\sqrt{\alpha_t (1- \alpha_{t-1})}z_{t-1}+\sqrt{1-\alpha_t}z_t)$
 
 其中每次加入的噪声——$z_1,z_2,...,z_{t-1},z_t,...z_T$——都是服从正态分布 $N(0,1)$
 
@@ -79,15 +75,15 @@ $z_{t-1}$和$z_t$之间的系数合并在一起，因为正太分布乘以一个
 
 所以
 
-$x_t=\sqrt{\alpha_t}\sqrt{\alpha_{t-1}}x_{t-2}+(\sqrt{\alpha_t (1- \alpha_{t-1})}z_{t-1}+\sqrt{1-\alpha_t}z_t)$  
+$x_t=\sqrt{\alpha_t}\sqrt{\alpha_{t-1}}x_{t-2}+(\sqrt{\alpha_t (1- \alpha_{t-1})}z_{t-1}+\sqrt{1-\alpha_t}z_t)$
 
-$=\sqrt{\alpha_t}\sqrt{\alpha_{t-1}}x_{t-2}+(\sqrt{a_t(1-a_{t-1})+1-a_t})z$  
+$=\sqrt{\alpha_t}\sqrt{\alpha_{t-1}}x_{t-2}+(\sqrt{a_t(1-a_{t-1})+1-a_t})z$
 
-$=\sqrt{\alpha_t\alpha_{t-1}}x_{t-2}+(\sqrt{1-a_t a_{t-1}})z$  
+$=\sqrt{\alpha_t\alpha_{t-1}}x_{t-2}+(\sqrt{1-a_t a_{t-1}})z$
 
 再将$x_{t-2}=\sqrt{\alpha_{t-2}}x_{t-3}+\sqrt{1-\alpha_{t-2}}z_{t-2}$带入上式，循环往复，将$x_1$带入，可得
 
-$x_t=\sqrt{\alpha_t\alpha_{t-1}...\alpha_2 \alpha_1}x_{t-1}+(\sqrt{1-\alpha_t\alpha_{t-1}...\alpha_2 \alpha_1})z$  
+$x_t=\sqrt{\alpha_t\alpha_{t-1}...\alpha_2 \alpha_1}x_{t-1}+(\sqrt{1-\alpha_t\alpha_{t-1}...\alpha_2 \alpha_1})z$
 
 $=\sqrt{\overline{\alpha_t}}x_{0}+(\sqrt{1-\overline{a_t}})z$    （3）
 
@@ -147,7 +143,7 @@ for t_step in reversed(range(T)):  # 从T开始向零迭代
     z = torch.randn_like(x_t,device=device) if t_step > 0 else 0  # 如果t大于零，则采样自标准正态分布，否则为零
     """按照公式计算x_{t-1}"""
     x_t_minus_one = torch.sqrt(1/alphas[t])*(x_t-(1-alphas[t])*model(x_t, t.reshape(1,))/torch.sqrt(1-alphas_bar[t]))+torch.sqrt(betas[t])*z
-    
+
     x_t = x_t_minus_one
 ```
 

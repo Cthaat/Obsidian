@@ -6,9 +6,8 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 方差分析（ANOVA）
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
+
 方差分析（ANOVA）是一种统计检验，用于评估三个或更多组的均值差异。其核心功能在于，ANOVA能够同时比较多个组之间的算术均值，帮助确定观察到的差异是否由随机偶然引起，还是反映了真实、有意义的区别。
 
 单因素ANOVA使用一个自变量，而双因素ANOVA则使用两个自变量。分析师使用ANOVA检验在回归研究中确定自变量对因变量的影响。虽然这种方法对初学统计的人来说可能显得晦涩难懂，但ANOVA的应用领域广泛而深远。从医疗研究人员研究新疗法的有效性，到市场营销人员分析消费者偏好，ANOVA已成为理解复杂系统和制定基于数据的决策不可或缺的工具。
@@ -78,8 +77,7 @@ ANOVA检验使得可以同时比较两个以上的组，以确定它们之间是
 
 与此同时，双因素ANOVA将更适合同时分析投资组合和市场条件的影响以及这两个因素对回报的交互作用。
 
-> [!important]
-> 多元方差分析（MANOVA）与ANOVA的主要区别在于，MANOVA同时检验多个因变量，而ANOVA每次只评估一个因变量。
+多元方差分析（MANOVA）与ANOVA的主要区别在于，MANOVA同时检验多个因变量，而ANOVA每次只评估一个因变量。
 
 您需要首先将每个投资组合在牛市和熊市条件下的回报进行分组。接下来，比较两种因素之间的均值回报，以判断投资策略对回报的影响、市场条件对回报的影响，以及特定投资策略的有效性是否依赖于市场条件。
 
@@ -108,12 +106,3 @@ ANOVA是一种强大的统计工具，允许研究人员和分析师同时比较
 [1] Genetic Epidemiology, Translational Neurogenomics, Psychiatric Genetics and Statistical Genetics-QIMR Berghofer Medical Research Institute. "[The Correlation Between Relatives on the Supposition of Mendelian Inheritance](https://genepi.qimr.edu.au/contents/p/staff/1966Moran&SmithCommentaryFisher1918X.pdf)."
 
 [2] Ronald Fisher. "[Statistical Methods for Research Workers](https://link.springer.com/chapter/10.1007/978-1-4612-4380-9_6)." Springer-Verlag New York, 1992.
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

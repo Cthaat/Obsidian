@@ -6,14 +6,9 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 相关系数是什么？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> [!note] 💡 概念解析
-> 衡量两个变量线性关系强度和方向的指标。
-
-相关系数在科学和金融领域被广泛使用，以评估两个变量、因素或数据集之间的关联程度。例如，由于高油价对原油生产商有利，因此可以假设油价与石油股票
+相关系数在科学和金融领域被广泛使用，以评估两个变量、因素或数据集之间的关联程度。例如，由于高油价对原油生产商有利，因此可以假设油价与石油股票之间存在正相关关系。
 
 ### 关键要点
 
@@ -53,7 +48,7 @@ $$ \begin{aligned}&r = \frac { n \times ( \sum (X, Y) - ( \sum (X) \times \sum (
 
 相关系数在评估和管理投资风险方面特别有用。例如，现代投资组合理论认为，多样化可以降低投资组合回报的波动性，从而降低风险。相关历史回报之间的相关系数可以指示添加某项投资到投资组合中是否会改善其多样化程度。
 
-相关计算也是因子投资的基础，因子投资是一种基于与超额回报相关因素构建投资组合的策略。同时，量化交易
+相关计算也是因子投资的基础，因子投资是一种基于与超额回报相关因素构建投资组合的策略。同时，量化交易也会使用相关性分析来筛选和管理投资组合。
 
 ## 皮尔逊相关系数的局限性
 
@@ -98,7 +93,3 @@ $$ \begin{aligned}&r = \frac { n \times ( \sum (X, Y) - ( \sum (X) \times \sum (
 ## 参考文献
 
 [1] DataTrek Research. "[Oil Prices/Energy Stock Correlations, Rate Expectations](https://www.datatrekresearch.com/oil-prices-energy-stock-correlations-rate-expectations/)."
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-[[协方差]] [[相关性]] [[因果关系]] [[伪相关]]

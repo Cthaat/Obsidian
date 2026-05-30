@@ -6,10 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是商业周期？
-
-
 
 商业周期是指一个国家总体经济活动中的一种波动类型——一个周期由许多经济活动中大约同时发生的扩张组成，随后是类似普遍的收缩。这种变化序列是周期性的，但不是定期的。
 
@@ -37,10 +34,6 @@ created: 2026-05-30
 
 只有当复苏变成自我驱动时，它才能持续并导致持续的经济扩张，而这种多米诺骨牌效应确保了复苏在整个经济中的扩散。
 
-> [!important]
-> 当然，股市不是经济。因此，商业周期不应与市场周期混淆，市场周期是使用广泛的股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
 价格指数来衡量的。
 
 ## 衡量和确定商业周期
@@ -106,12 +99,3 @@ created: 2026-05-30
 [6] Congressional Research Service. "[Introduction to U.S. Economy: The Business Cycle and Growth](https://sgp.fas.org/crs/misc/IF10411.pdf)," Page 2.
 
 [7] Federal Reserve Bank of Atlanta. "[Stock Prices in the Financial Crisis](https://www.atlantafed.org/cenfis/publications/notesfromthevault/0909)."
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

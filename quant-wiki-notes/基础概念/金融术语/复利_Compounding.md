@@ -6,11 +6,8 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是复利？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> 复利是利息不仅计算本金，还计算之前累积的利息。公式：A = P(1 + r)^n。时间越长，复利效应越显著。
 复利是指将资产的收益（包括资本增值或利息）重新投资，以便随着时间的推移产生额外的收益。这种增长通过指数函数进行计算，因为投资不仅会从初始本金中获得收益，还会从前期累积的收益中获得。
 
 因此，复利不同于线性增长，后者仅是本金每个周期获得利息。
@@ -27,10 +24,7 @@ created: 2026-05-30
 
 复利通常指因为本金和累积利息所产生的利息而增加的资产价值。这一现象是“时间价值”概念的直接体现，也被称为复利。
 
-复利在金融中至关重要，因其带来的收益是许多投资策略背后的动机。例如，许多公司提供红利再投资计划（DRIPs），允许投资者将其现金红利再投资，购买更多股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-。再投资这些支付红利的股票会使投资者的回报加速，因为增加的股票数量将一致地提升未来的红利收入，假设红利保持稳定。
+复利在金融中至关重要，因其带来的收益是许多投资策略背后的动机。例如，许多公司提供红利再投资计划（DRIPs），允许投资者将其现金红利再投资，购买更多股票。再投资这些支付红利的股票会使投资者的回报加速，因为增加的股票数量将一致地提升未来的红利收入，假设红利保持稳定。
 
 在再投资红利的基础上，投资红利增长股票会为这一策略增添另一层复利，有些投资者称之为“双重复利”。在这种情况下，不仅红利被再投资以购买更多股票，而且这些红利增长股票的每股分红也在增加。
 
@@ -126,12 +120,3 @@ $$ \begin{aligned}&FV=P\times e^{rt}\\&\textbf{其中:}\\&e=\text{无理数 2.71
 [3] Gilbert Strang et al. “[Calculus Volume 1: 1.5 Exponential and Logarithmic Functions](https://openstax.org/details/books/calculus-volume-1).” OpenStax, 2016.
 
 [4] Investor.gov. “[What Is Compound Interest?](https://www.investor.gov/additional-resources/information/youth/teachers-classroom-resources/what-compound-interest)”
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。

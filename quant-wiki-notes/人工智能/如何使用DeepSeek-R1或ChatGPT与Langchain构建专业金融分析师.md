@@ -6,19 +6,14 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
-
 # 代码开源！如何使用DeepSeek-R1或ChatGPT与Langchain构建专业金融分析师
 
-在快速变化的金融市场中，**如何用人工智能来助力投资决策**正成为越来越多投资人的关注重点。利用大模型进行**股票
+在快速变化的金融市场中，**如何用人工智能来助力投资决策**正成为越来越多投资人的关注重点。利用大模型进行**股票分析**和**新闻洞察**，不仅能让我们高效获取关键数据，还能生成更具参考价值的投资建议。本文将带你一步步搭建两个实用场景：
 
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-分析**和**新闻洞察**，不仅能让我们高效获取关键数据，还能生成更具参考价值的投资建议。本文将带你一步步搭建两个实用场景：
-
-1. **第一部分**：通过 **DeepSeek-R1** 打造 **股票分析代理**，包括获取股价、计算技术指标、评估财务指标，并输出可执行的结论。  
+1. **第一部分**：通过 **DeepSeek-R1** 打造 **股票分析代理**，包括获取股价、计算技术指标、评估财务指标，并输出可执行的结论。
 2. **第二部分**：通过 **ChatGPT** 聚焦 **新闻内容分析**，提取实时新闻并进行情感分析，为投资决策提供更全面的参考。
 
-> 如果你是金融从业者、量化工程师或数据科学家，这篇文章将为你提供几乎完整的示例代码，帮助你快速搭建自己的智能分析Agent。
+如果你是金融从业者、量化工程师或数据科学家，这篇文章将为你提供几乎完整的示例代码，帮助你快速搭建自己的智能分析Agent。
 
 ## 第一部分：使用DeepSeek-R1构建股票分析代理
 
@@ -73,36 +68,36 @@ def get_stock_prices(ticker: str) -> Union[Dict, str]:
         df = data.copy()
         data.reset_index(inplace=True)
         data.Date = data.Date.astype(str)
-        
+
         indicators = {}
-        
+
         rsi_series = RSIIndicator(df['Close'], window=14).rsi().iloc[-12:]
         indicators["RSI"] = {
-            date.strftime('%Y-%m-%d'): float(value) 
+            date.strftime('%Y-%m-%d'): float(value)
             for date, value in rsi_series.dropna().to_dict().items()
         }
-        
+
         sto_series = StochasticOscillator(
             df['High'], df['Low'], df['Close'], window=14
         ).stoch().iloc[-12:]
         indicators["Stochastic_Oscillator"] = {
-            date.strftime('%Y-%m-%d'): float(value) 
+            date.strftime('%Y-%m-%d'): float(value)
             for date, value in sto_series.dropna().to_dict().items()
         }
-        
+
         macd = MACD(df['Close'])
         macd_series = macd.macd().iloc[-12:]
         indicators["MACD"] = {
-            date.strftime('%Y-%m-%d'): float(value) 
+            date.strftime('%Y-%m-%d'): float(value)
             for date, value in macd_series.to_dict().items()
         }
-        
+
         macd_signal_series = macd.macd_signal().iloc[-12:]
         indicators["MACD_Signal"] = {
-            date.strftime('%Y-%m-%d'): float(value) 
+            date.strftime('%Y-%m-%d'): float(value)
             for date, value in macd_signal_series.to_dict().items()
         }
-        
+
         vwap_series = volume_weighted_average_price(
             high=df['High'],
             low=df['Low'],
@@ -110,10 +105,10 @@ def get_stock_prices(ticker: str) -> Union[Dict, str]:
             volume=df['Volume'],
         ).iloc[-12:]
         indicators["vwap"] = {
-            date.strftime('%Y-%m-%d'): float(value) 
+            date.strftime('%Y-%m-%d'): float(value)
             for date, value in vwap_series.to_dict().items()
         }
-        
+
         return {
             'stock_price': data.to_dict(orient='records'),
             'indicators': indicators
@@ -175,9 +170,9 @@ llm = OllamaLLM(model="deepseek-r1:1.5b")
 
 #### 4.3 构建Prompt并绑定工具
 
-我们希望代理能：  
-1. 获取股票历史与技术指标  
-2. 获取财务指标  
+我们希望代理能：
+1. 获取股票历史与技术指标
+2. 获取财务指标
 3. 综合分析并输出可阅读的结论
 
 ```python
@@ -299,7 +294,7 @@ def get_news(stock: str) -> list:
         if not news:
             print(f"No news found for {stock}.")
             return []
-        
+
         relevant_news = [
             item for item in news if item.get('content', {}).get('contentType') == 'STORY'
         ]
@@ -387,7 +382,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 chat = ChatOpenAI(model='gpt-4')
 
 NEWS_ANALYSIS_PROMPT = """
-You are an expert financial analyst. 
+You are an expert financial analyst.
 I will provide you with a list of news articles related to a stock. For each article:
 1. Determine sentiment: Positive, Negative, or Neutral.
 2. Summarize key points relevant to the stock.
@@ -412,7 +407,7 @@ Format your output as:
 def analyze_news_with_chatgpt(stock: str):
     # 获取并提取完整新闻
     news_data = extract_full_news(stock)
-    
+
     # 拼接新闻到prompt
     articles_text = "\n\n".join([
         f"Title: {n['title']}\nContent: {n['full_news']}" for n in news_data if 'full_news' in n
@@ -440,34 +435,23 @@ ChatGPT将输出一个JSON结构，包含各新闻的情感判断、主要看点
 
 在本教程中，我们分两大部分展示了如何：
 
-1. **使用DeepSeek-R1** 打造股票分析代理：  
-   - 获取股价与技术指标  
-   - 获取财务数据  
-   - 使用LangGraph编排流程，生成可读分析报告  
+1. **使用DeepSeek-R1** 打造股票分析代理：
+   - 获取股价与技术指标
+   - 获取财务数据
+   - 使用LangGraph编排流程，生成可读分析报告
 
-2. **使用ChatGPT** 进行新闻内容分析代理：  
-   - 获取与股票相关的新闻链接  
-   - 提取网页正文并清洗  
-   - 情感分析与投资建议输出  
+2. **使用ChatGPT** 进行新闻内容分析代理：
+   - 获取与股票相关的新闻链接
+   - 提取网页正文并清洗
+   - 情感分析与投资建议输出
 
 ### 你可以进一步做什么？
 
 - **多Agent融合**：将“股票分析代理”与“新闻分析代理”合并到一个LangGraph工作流中，输出同时包含**股价、财务、新闻**的综合性分析。
-- **强化因子模型**：根据行情特性，加入行业对比、宏观经济数据等更多因子。  
-- **可视化与自动化**：把分析结果部署在Web界面或自动化任务流中，定时生成分析报告。  
-- **换用其他开源大模型**：如BLOOM、LLaMA、ChatGLM等，比较分析效果和性能差异。  
+- **强化因子模型**：根据行情特性，加入行业对比、宏观经济数据等更多因子。
+- **可视化与自动化**：把分析结果部署在Web界面或自动化任务流中，定时生成分析报告。
+- **换用其他开源大模型**：如BLOOM、LLaMA、ChatGLM等，比较分析效果和性能差异。
 
-> **无论是DeepSeek-R1还是ChatGPT，都可以根据实际需求进行灵活替换或互补**。希望本教程能够帮助你快速上手并搭建出自己的“代理型金融分析师”，在激烈的市场中获得更多洞察与机会。
+**无论是DeepSeek-R1还是ChatGPT，都可以根据实际需求进行灵活替换或互补**。希望本教程能够帮助你快速上手并搭建出自己的“代理型金融分析师”，在激烈的市场中获得更多洞察与机会。
 
 如果你对相关代码有疑问或想分享更多想法，欢迎在评论区讨论。**让我们一起挖掘大模型在金融市场中的更多可能性！**
-
-## 关于LLMQuant
-
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。
-

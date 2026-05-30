@@ -8,9 +8,6 @@ created: 2026-05-30
 
 # 基于不同编程语言的量化框架与其Github仓库
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
-本列表由[LLMQuant社区](https://llmquant.com/)整理, 个精心整理、极其优秀的量化（定量金融）相关库、包及资源列表, 只供学习交流使用, 版权归原作者所有。
-
 ## 语言
 
 - [[Python]] - 最流行的量化金融语言，拥有丰富的数据分析、机器学习库和金融工具包
@@ -25,10 +22,7 @@ created: 2026-05-30
 - [[Elixir/Erlang]] - 在构建容错和分布式交易系统方面表现出色
 - [[Golang]] - 以高性能和并发特性著称，适合开发高频交易系统
 - [[CPP]] - 最适合开发低延迟交易系统的语言，广泛应用于高频交易
-- [[CSharp]] - 微软技术栈的首选，在Windows平台上开发量化交易
-
-> 使用数学模型和算法进行交易决策的方法
-系统的理想选择
+- [[CSharp]] - 微软技术栈的首选，在Windows平台上开发量化交易系统的理想选择
 - [[Rust]] - 新一代系统编程语言，在保证性能的同时提供内存安全保证
 - [[Frameworks]] - 跨语言的量化金融框架，提供完整的交易和分析解决方案
 - [[再现研究成果、培训与书籍]] - 学习资源和经典研究的代码实现
@@ -93,10 +87,7 @@ created: 2026-05-30
 - [hasura/base-python-dash](https://platform.hasura.io/hub/projects/hasura/base-python-dash) - Hasura 快速启动，用于部署 Dash 框架。Dash 基于 Flask、Plotly.js 和 React.js，非常适用于在纯 Python 中构建数据可视化应用。
 - [hasura/base-python-bokeh](https://platform.hasura.io/hub/projects/hasura/base-python-bokeh) - Hasura 快速启动，用 bokeh 库可视化数据。
 - [pysabr](https://github.com/ynouri/pysabr) - SABR 模型的 Python 实现。
-- [FinancePy](https://github.com/domokane/FinancePy) - 专注于定价和风险管理金融衍生品（包括固定收益、股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-、外汇和信用衍生品）的 Python 库。
+- [FinancePy](https://github.com/domokane/FinancePy) - 专注于定价和风险管理金融衍生品（包括固定收益、股票、外汇和信用衍生品）的 Python 库。
 - [gs-quant](https://github.com/goldmansachs/gs-quant) - 高盛提供的定量金融 Python 工具箱。
 - [willowtree](https://github.com/federicomariamassari/willowtree) - 对衍生品定价使用柳树格 lattice 的 Python 实现。
 - [financial-engineering](https://github.com/federicomariamassari/financial-engineering) - 以 Python 进行金融工程项目的蒙特卡洛方法应用。
@@ -109,10 +100,7 @@ created: 2026-05-30
 - [AbsBox](https://github.com/yellowbean/AbsBox) - Python 库，用于模拟资产支持证券（ABS）和抵押贷款支持证券（MBS）等结构化产品的现金流。
 - [Intrinsic-Value-Calculator](https://github.com/akashaero/Intrinsic-Value-Calculator) - 基于贴现现金流（DCF）分析的股票内在价值计算器。
 - [Kelly-Criterion](https://github.com/deltaray-io/kelly-criterion) - 使用 Kelly 公式进行投资组合头寸规模控制的 Python 实现。
-- [rateslib](https://github.com/attack68/rateslib) - 用于定价债券
-
-> 政府或企业发行的债务工具，承诺按期支付利息并到期偿还本金
-、国债期货，以及诸如 IRS、跨货币和外汇互换等衍生品的固定收益库。
+- [rateslib](https://github.com/attack68/rateslib) - 用于定价债券、国债期货，以及诸如 IRS、跨货币和外汇互换等衍生品的固定收益库。
 - [fypy](https://github.com/jkirkby3/fypy) - 用于研究和开发的香草及奇异期权定价库。关注在 Black-Scholes 之外的模型定价，以及市场数据的校准。
 
 ### 指标

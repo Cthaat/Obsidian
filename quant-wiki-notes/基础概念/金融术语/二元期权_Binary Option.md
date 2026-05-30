@@ -6,9 +6,7 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是二元期权？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 二元期权是一种金融衍生品，允许投资者在事件及资产价格变动上进行全有或全没有的押注，近年来其受欢迎程度急剧上升。但批评者，包括长期警告投资者的美国监管机构，表示这些交易更类似于赌博而非投资，并且对毫无防备的消费者存在高风险的诈骗和损失。
 
@@ -77,10 +75,7 @@ created: 2026-05-30
 
 一个例子是，二元期权的入场价格表示潜在的盈利或亏损，所有选项的到期价值均为$100或$0。
 
-假设科尔盖特-帕尔莫里夫（CL）股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-正在以$64.75交易。一项二元期权的行权价格为$65，明天中午到期。交易者可以以$40购买该期权。如果股票价格在到期时超过$65，则该期权在“价内”到期，价值$100。交易者获得$60的利润（$100 - $40）。
+假设科尔盖特-帕尔莫里夫（CL）股票正在以$64.75交易。一项二元期权的行权价格为$65，明天中午到期。交易者可以以$40购买该期权。如果股票价格在到期时超过$65，则该期权在“价内”到期，价值$100。交易者获得$60的利润（$100 - $40）。
 
 如果期权到期时科尔盖特的价格低于$65（“价外”），则交易者会失去他们投入的$40。在二元期权中，潜在的利润和亏损的总和始终等于$100。
 
@@ -129,15 +124,3 @@ created: 2026-05-30
 [10] Commodity Futures Trading Commission. "[Beware of Binary Options Mobile Apps](https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/beware_of_binary_options_mobile.htm)."
 
 [11] SEC, Office of Investor Education and Advocacy, "[Investor Alert Binary Options and Fraud](https://www.sec.gov/files/ia_binary.pdf)"
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。
-## 📚 相关概念
-
-[[期权]] [[固定收益]] [[赌博]] [[监管]]

@@ -6,11 +6,8 @@ source: "quant-wiki.com"
 created: 2026-05-30
 ---
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是年回报率？
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> 年回报率是投资在一年内的总收益，包括资本增值和分红。年化回报率将不同期间的回报标准化为年度基准。
 年回报率是指投资在一定时间内所带来的回报，通常以时间加权的年百分比表示。回报的来源可以包括股息、资本回报和资本增值。年回报率是相对于投资的最初金额进行衡量，代表几何平均值，而非简单的算术平均值。
 
 ### 主要要点
@@ -18,13 +15,7 @@ created: 2026-05-30
 - 年回报率或年化回报率是衡量投资在特定时期内平均每年增加多少的指标。
 - 年化回报率是通过几何平均数计算得出的，显示年回报的复利效果。
 - 当希望观察投资随时间表现或比较两个投资的表现时，年回报率比简单回报更为有用。
-- 年回报率可以适用于多种资产，包括股票
-
-> 公司所有权的凭证，代表股东对公司资产和收益的权益
-、债券
-
-> 政府或企业发行的债务工具，承诺按期支付利息并到期偿还本金
-、共同基金、ETF、商品及某些衍生品。
+- 年回报率可以适用于多种资产，包括股票、债券、共同基金、ETF、商品及某些衍生品。
 
 ## 理解年回报率
 
@@ -84,12 +75,3 @@ $$ \begin{aligned} &\left ( \left ( \frac { 37 }{ 20 } \right ) ^ \frac 1 { 5 } 
 [3] TIAA. "[All FAQs About Personal Rate of Return](https://www.tiaa.org/public/support/faqs/personal-rate-of-return)."
 
 [4] Investor.gov. "[Annual Return](https://www.investor.gov/introduction-investing/investing-basics/glossary/annual-return)."
-
-## 关于LLMQuant
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
-
-> 向特定投资者（如对冲基金
-
-> 采用多种策略（包括杠杆、卖空等）的投资基金
-、银行）非公开发行证券
-等一流企业。
