@@ -21,7 +21,7 @@ created: 2026-05-30
 
 ## 费舍尔变换指标的公式及计算方法
 
-$$ \begin{aligned} &\text{费舍尔变换} = \frac{1}{2}\*\ln \left( \frac{1+X}{1-X} \right)\\ &\textbf{其中:}\\ &\ln \text{ 为自然对数}\\ &X = \text{价格转化为-1到1之间的水平}\\ \end{aligned} $$
+$$ \begin{aligned} &\text{费舍尔变换} = \frac{1}{2}*\ln \left( \frac{1+X}{1-X} \right)\\ &\textbf{其中:}\\ &\ln \text{ 为自然对数}\\ &X = \text{价格转化为-1到1之间的水平}\\ \end{aligned} $$
 
 现在你了解公式了，可以按照以下步骤计算费舍尔变换指标：
 

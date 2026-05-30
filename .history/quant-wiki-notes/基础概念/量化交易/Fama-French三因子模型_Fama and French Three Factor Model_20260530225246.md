@@ -36,7 +36,7 @@ Fama-French模型的三个因子包括公司的规模、账面市值比和市场
 
 其公式为：
 
-$$ \begin{aligned} &R*{it} - R*{ft} = \alpha*{it} + \beta_1 ( R*{Mt} - R*{ft} ) + \beta_2SMB_t + \beta_3HML_t + \epsilon*{it} \\ &\textbf{其中：} \\ &R*{it} = \text{某股票或投资组合 } i \text{ 在时间 } t \text{ 的总回报} \\ &R*{ft} = \text{时间 } t \text{ 的无风险回报率} \\ &R*{Mt} = \text{时间 } t \text{ 的市场组合总回报} \\ &R*{it} - R*{ft} = \text{预期超额回报} \\ &R*{Mt} - R*{ft} = \text{市场组合（指数）的超额回报} \\ &SMB_t = \text{规模溢价（小盘减大盘）} \\ &HML_t = \text{价值溢价（高账面市值比减低账面市值比）} \\ &\beta*{1,2,3} = \text{因子系数} \\ \end{aligned} $$
+$$ \begin{aligned} &R_{it} - R_{ft} = \alpha_{it} + \beta_1 ( R_{Mt} - R_{ft} ) + \beta_2SMB_t + \beta_3HML_t + \epsilon_{it} \\ &\textbf{其中：} \\ &R_{it} = \text{某股票或投资组合 } i \text{ 在时间 } t \text{ 的总回报} \\ &R_{ft} = \text{时间 } t \text{ 的无风险回报率} \\ &R_{Mt} = \text{时间 } t \text{ 的市场组合总回报} \\ &R_{it} - R_{ft} = \text{预期超额回报} \\ &R_{Mt} - R_{ft} = \text{市场组合（指数）的超额回报} \\ &SMB_t = \text{规模溢价（小盘减大盘）} \\ &HML_t = \text{价值溢价（高账面市值比减低账面市值比）} \\ &\beta_{1,2,3} = \text{因子系数} \\ \end{aligned} $$
 
 > 注释：这个公式的意思是，把一只资产的超额收益拆成几部分：市场因子、规模因子、价值因子，再加一个无法解释的残差。
 

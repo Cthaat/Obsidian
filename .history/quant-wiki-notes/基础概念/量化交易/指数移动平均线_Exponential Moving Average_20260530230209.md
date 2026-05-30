@@ -20,7 +20,7 @@ created: 2026-05-30
 
 ## 指数移动平均线（EMA）公式
 
-$$ \begin{aligned} &\begin{aligned} EMA*{\text{今天}}=&\left(\text{今天的值}\ast\left(\frac{\text{平滑因子}}{1+\text{天数}}\right)\right)\\ &+EMA*{\text{昨天}}\ast\left(1-\left(\frac{\text{平滑因子}}{1+\text{天数}}\right)\right)\end{aligned}\\ &\textbf{其中：}\\ &EMA=\text{指数移动平均线} \end{aligned} $$
+$$ \begin{aligned} &\begin{aligned} EMA_{\text{今天}}=&\left(\text{今天的值}\ast\left(\frac{\text{平滑因子}}{1+\text{天数}}\right)\right)\\ &+EMA_{\text{昨天}}\ast\left(1-\left(\frac{\text{平滑因子}}{1+\text{天数}}\right)\right)\end{aligned}\\ &\textbf{其中：}\\ &EMA=\text{指数移动平均线} \end{aligned} $$
 
 虽然平滑因子的选择有许多可能，但最常见的选择是：
 
