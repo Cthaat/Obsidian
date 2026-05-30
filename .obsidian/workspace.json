@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant-wiki-notes/基础概念/金融术语/大萧条_Great Depression.md",
+                "file": "quant-wiki-notes/基础概念/金融术语/标的资产_Underlying Asset.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "大萧条_Great Depression"
+              "title": "标的资产_Underlying Asset"
             }
           }
         ]
@@ -184,9 +184,19 @@
   },
   "active": "5fb6a0b73642e4dc",
   "lastOpenFiles": [
+    "quant-wiki-notes/开源工具/trend-following.md",
+    "quant-wiki-notes/开源工具/stat-arb.md",
+    "quant-wiki-notes/开源工具/reproduce.md",
+    "quant-wiki-notes/开源工具/quant_repo.md",
+    "quant-wiki-notes/开源工具/quant_learn.md",
+    "quant-wiki-notes/开源工具",
+    "[!note]",
+    "quant-wiki-notes/基础概念/金融术语/保证金交易_Buying on Margin.md",
+    "quant-wiki-notes/基础概念/金融术语/保证金_Margin.md",
+    "quant-wiki-notes/基础概念/金融术语/报价_Quotation.md",
+    "quant-wiki-notes/基础概念/金融术语/大萧条_Great Depression.md",
     "quant-wiki-notes/基础概念/金融术语/标的资产_Underlying Asset.md",
     "quant-wiki-notes/基础概念/金融术语/比较优势_Comparative Advantage.md",
-    "quant-wiki-notes/基础概念/金融术语/保证金交易_Buying on Margin.md",
     "quant-wiki-notes/入门教程/交易策略/如何打造“好用”的交易策略.md",
     "quant-wiki-notes/入门教程/交易策略/如何如何划分交易风格.md",
     "quant-wiki-notes/入门教程/交易策略/多空策略.md",
@@ -203,23 +213,13 @@
     "quant-wiki-notes/入门教程/事件驱动.md",
     "quant-wiki-notes/入门教程/九大策略.md",
     "quant-wiki-notes/入门教程/translated_Quant_Trading_Competitions.md",
-    "quant-wiki-notes/入门教程/translated_Quant_Trading_101.md",
-    "quant-wiki-notes/入门教程/translated_Quantitative_Finance_Portfolio_Projects.md",
-    "quant-wiki-notes/入门教程/point72-idea.md",
-    "quant-wiki-notes/入门教程/evt-var-es.md",
     "quant-wiki-notes/入门教程",
-    "PR/00 来源.md",
-    "quant-wiki-notes/basic/finance/保证金_Margin.md",
-    "quant-wiki-notes/量化前沿/券商研报/财通中信-逐鹿系列/目录.md",
-    "quant-wiki-notes/量化前沿/券商研报/渤海-多因子系列/目录.md",
     "quant-wiki-notes/量化前沿/券商研报/财通中信-逐鹿系列",
     "quant-wiki-notes/量化前沿/券商研报/渤海-多因子系列",
     "quant-wiki-notes/量化前沿/券商研报/海通-选股因子系列",
     "quant-wiki-notes/量化前沿/券商研报/方正财通-星火系列",
     "quant-wiki-notes/量化前沿/券商研报/广发-高频因子系列",
     "quant-wiki-notes/量化前沿/券商研报/广发-深度学习系列",
-    "quant-wiki-notes/量化前沿/券商研报/广发-多因子系列",
-    "quant-wiki-notes/量化前沿/券商研报/国盛-多因子系列",
     "pic/Pasted image 20240818171429.png",
     "pic/Pasted image 20240819001038.png",
     "pic/Pasted image 20240819000710.png",
