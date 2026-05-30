@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant-wiki-notes/基础概念/金融术语/标的资产_Underlying Asset.md",
+                "file": "quant-wiki-notes/基础概念/金融术语/证券_Security.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "标的资产_Underlying Asset"
+              "title": "证券_Security"
             }
           }
         ]
@@ -184,6 +184,13 @@
   },
   "active": "5fb6a0b73642e4dc",
   "lastOpenFiles": [
+    "quant-wiki-notes/基础概念/金融术语/VIX期权_VIX Option.md",
+    "quant-wiki-notes/基础概念/金融术语/远期价格_Forward Price.md",
+    "quant-wiki-notes/基础概念/金融术语/纳斯达克_Nasdaq.md",
+    "quant-wiki-notes/基础概念/金融术语/恶性通胀_Hyperinflation.md",
+    "quant-wiki-notes/基础概念/金融术语/保证金交易_Buying on Margin.md",
+    "quant-wiki-notes/基础概念/金融术语/比较优势_Comparative Advantage.md",
+    "quant-wiki-notes/基础概念/金融术语/标的资产_Underlying Asset.md",
     "quant-wiki-notes/开源工具/trend-following.md",
     "quant-wiki-notes/开源工具/stat-arb.md",
     "quant-wiki-notes/开源工具/reproduce.md",
@@ -191,12 +198,9 @@
     "quant-wiki-notes/开源工具/quant_learn.md",
     "quant-wiki-notes/开源工具",
     "[!note]",
-    "quant-wiki-notes/基础概念/金融术语/保证金交易_Buying on Margin.md",
     "quant-wiki-notes/基础概念/金融术语/保证金_Margin.md",
     "quant-wiki-notes/基础概念/金融术语/报价_Quotation.md",
     "quant-wiki-notes/基础概念/金融术语/大萧条_Great Depression.md",
-    "quant-wiki-notes/基础概念/金融术语/标的资产_Underlying Asset.md",
-    "quant-wiki-notes/基础概念/金融术语/比较优势_Comparative Advantage.md",
     "quant-wiki-notes/入门教程/交易策略/如何打造“好用”的交易策略.md",
     "quant-wiki-notes/入门教程/交易策略/如何如何划分交易风格.md",
     "quant-wiki-notes/入门教程/交易策略/多空策略.md",
@@ -208,11 +212,7 @@
     "quant-wiki-notes/入门教程/期权策略.md",
     "quant-wiki-notes/入门教程/宏观对冲.md",
     "quant-wiki-notes/入门教程/多策略.md",
-    "quant-wiki-notes/入门教程/夏普比率.md",
     "quant-wiki-notes/入门教程/交易策略",
-    "quant-wiki-notes/入门教程/事件驱动.md",
-    "quant-wiki-notes/入门教程/九大策略.md",
-    "quant-wiki-notes/入门教程/translated_Quant_Trading_Competitions.md",
     "quant-wiki-notes/入门教程",
     "quant-wiki-notes/量化前沿/券商研报/财通中信-逐鹿系列",
     "quant-wiki-notes/量化前沿/券商研报/渤海-多因子系列",
