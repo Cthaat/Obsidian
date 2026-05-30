@@ -1,0 +1,41 @@
+---
+title: "Darrell Duffie - Dynamic asset pricing theory-Princeton University Press (2001)"
+category: "量化图书馆"
+tags: [量化图书馆, 量化, 交易, 投资, 金融]
+source: "quant-wiki.com"
+created: 2026-05-30
+---
+
+# Darrell Duffie - Dynamic asset pricing theory-Princeton University Press (2001)
+
+- **作者**: Darrell Duffie
+- **出版社**: Princeton University Press
+- **出版年份**: 2001
+- **格式**: PDF
+- **难度**: ⭐⭐⭐⭐
+- **推荐指数**: ⭐⭐⭐⭐⭐
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Darrell%20Duffie%20-%20Dynamic%20asset%20pricing%20theory-Princeton%20University%20Press%20%282001%29.pdf)
+
+### 内容简介
+
+本书是为博士生和研究人员编写的关于不确定性多期环境下资产定价和投资组合选择理论的标准教材。资产定价结果基于三个日益严格的假设：无套利、单代理最优性和均衡。这些结果通过两个关键概念——状态价格和鞅——得到统一。书中相对较少强调技术细节，旨在揭示这些概念之间的联系，并阐明离散时间模型和连续时间模型之间的相似性。
+
+本书涵盖的主要数学技术包括基于布朗运动的连续时间模型，并引入了跳跃过程（例如与泊松到达相关的跳跃），以适应债券
+
+> [!note] 债券
+> 政府或企业发行的债务工具，承诺按期支付利息并到期偿还本金
+违约等突发事件。 应用方面包括期限结构模型、衍生品估值和对冲方法，以及用于投资组合选择和美式期权最优行权的动态规划算法。 书中还涵盖了蒙特卡洛模拟和偏微分方程的有限差分解等数值方法。 此外，本书最新版还新增了关于公司证券的章节，提供了公司债务估值的替代方法。
+
+### 主要特点
+
+- 理论基础扎实
+- 实践案例丰富
+- 操作指导清晰
+- 适合实际应用
+
+### 适合人群
+
+- 量化分析师
+- 算法交易员
+- 金融工程师
+- 数据科学家
