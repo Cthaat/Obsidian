@@ -11,9 +11,6 @@ created: 2026-05-30
 # TradingAgents：多智能体LLM金融交易框架
 
 
-> [!note] 💡 概念解析
-> TradingAgents是基于LLM的交易智能体系统。通过多智能体协作进行市场分析和交易决策。代表了AI在量化交易中的前沿探索方向。
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 ## 摘要
 

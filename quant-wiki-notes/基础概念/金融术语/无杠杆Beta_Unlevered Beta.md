@@ -10,7 +10,6 @@ created: 2026-05-30
 # 什么是无杠杆Beta？
 ![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> [!note] 💡 概念解析
 > 无杠杆Beta是去除财务杠杆影响后的Beta值。反映公司纯业务风险。计算：β_unlevered = β_levered / [1 + (1-t)(D/E)]。
 Beta是一种衡量市场风险的指标。无杠杆Beta（或资产Beta）衡量的是公司在没有债务影响下的市场风险。
 

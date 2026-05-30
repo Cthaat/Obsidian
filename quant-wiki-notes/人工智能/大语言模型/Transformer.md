@@ -11,9 +11,6 @@ created: 2026-05-30
 # 一文读懂Transformer：从原理到实践，揭开大模型的核心奥秘
 
 
-> [!note] 💡 概念解析
-> Transformer是2017年提出的深度学习架构，基于自注意力机制。彻底改变了NLP领域，是GPT、BERT等大语言模型的基础。核心创新：多头注意力、位置编码、并行计算。
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 过去几年中，人工智能（AI）的进步令人瞩目，从ChatGPT、Bard到Midjourney、Stable Diffusion，这些应用以惊人的语言理解与生成、图像创作和跨模态能力颠覆了人们对AI的想象。这些出色表现背后有一位默默耕耘的「幕后英雄」——Transformer架构。自2017年谷歌团队提出Transformer后，它迅速成为自然语言处理（NLP）和多模态AI模型的基石。理解Transformer的内部工作原理，有助于我们看清AI应用的本质和未来潜力。
 

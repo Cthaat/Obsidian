@@ -10,7 +10,6 @@ created: 2026-05-30
 # 什么是报价？
 ![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> [!note] 💡 概念解析
 > 报价是证券的买价和卖价。买价是买家愿意支付的最高价，卖价是卖家愿意接受的最低价。价差(bid-ask spread)反映流动性。
 报价指的是某支股票
 

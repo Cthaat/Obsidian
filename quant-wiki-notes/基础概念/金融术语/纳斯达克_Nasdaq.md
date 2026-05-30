@@ -10,9 +10,6 @@ created: 2026-05-30
 # 什么是纳斯达克？
 
 
-> [!note] 💡 概念解析
-> 纳斯达克(NASDAQ)是美国第二大股票交易所，以科技股著称。采用电子交易，上市标准相对宽松。代表公司：苹果、微软、亚马逊。
-![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 纳斯达克是一个全球性的电子证券交易市场。它的名字最初是“全国证券交易商自动报价系统”（National Association of Securities Dealers Automated Quotations）的首字母缩写。纳斯达克最初是全国证券交易商协会（NASD）的子公司，现在被称为金融业监管局（FINRA）。
 

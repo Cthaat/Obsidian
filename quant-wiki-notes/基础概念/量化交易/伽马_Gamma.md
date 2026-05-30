@@ -10,7 +10,6 @@ created: 2026-05-30
 # 什么是Gamma？
 ![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
-> [!note] 💡 概念解析
 > 伽马(Gamma)是期权delta对标的价格的变化率。衡量delta的敏感度。高gamma意味着delta变化快，需要频繁调整对冲头寸。平值期权gamma最大。
 Gamma (Γ) 是一种期权风险指标，它描述了标的资产价格每变动一个点，期权的Delta值的变化率。Delta表示标的资产价格每变动一个点，期权溢价（价格）的变化幅度。因此，Gamma衡量的是期权价格的变化率如何随着标的价格的波动而变化。Gamma越高，期权价格的波动性就越大。
 
