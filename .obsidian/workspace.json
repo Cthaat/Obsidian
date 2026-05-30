@@ -11,10 +11,14 @@
             "id": "5fb6a0b73642e4dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "quant-wiki-notes/basic/finance/保证金_Margin.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "保证金_Margin"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "quant-wiki-notes/basic/finance/保证金_Margin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "保证金_Margin 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "quant-wiki-notes/basic/finance/保证金_Margin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "保证金_Margin 的出链列表"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "quant-wiki-notes/basic/finance/保证金_Margin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "保证金_Margin 的大纲"
             }
           },
           {
@@ -159,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "647415270a958b76",
+  "active": "5fb6a0b73642e4dc",
   "lastOpenFiles": [
+    "quant-wiki-notes/advanced/研报精选/渤海-多因子系列/index.md",
     "quant-wiki-notes/repo/trend-following.md",
     "quant-wiki-notes/repo/stat-arb.md",
     "quant-wiki-notes/repo/reproduce.md",
@@ -205,7 +214,6 @@
     "quant-wiki-notes/library/book/金融数学/Dan Stefanica - A Primer for the Mathematics of Financial Engineering-FE Press (2008)/index.md",
     "quant-wiki-notes/library/book/金融数学/Empirical Dynamic Asset Pricing/index.md",
     "quant-wiki-notes/library/book/金融数学/Dynamic asset pricing theory/index.md",
-    "quant-wiki-notes/library/book/金融数学/Darrell Duffie - Dynamic asset pricing theory-Princeton University Press (2001)/index.md",
     "quant-wiki-notes/library/book/金融数学/The Volatility Smile",
     "quant-wiki-notes/library/book/金融数学/Stochastic Calculus for Finance",
     "quant-wiki-notes/library/book/金融数学/Risk and Asset Allocation",
