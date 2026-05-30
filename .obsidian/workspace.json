@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "af64fbbd6870e041",
+        "id": "2f1726b2c4701fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "931c25c4c8d646b7",
+            "id": "5fb6a0b73642e4dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OneNote/00 来源.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00 来源"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OneNote/00 来源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "00 来源 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OneNote/00 来源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "00 来源 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,22 +136,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OneNote/00 来源.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00 来源 的大纲"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "647415270a958b76",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +174,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "931c25c4c8d646b7",
+  "active": "c000d874f5944a9e",
   "lastOpenFiles": [
+    "OneNote/00 来源.md",
     "SSM/07 MyBatis.md",
     "pic/Pasted image 20240818171429.png",
     "PS/02 工具栏.md",
@@ -211,7 +214,6 @@
     "SSM/06 AOP.md",
     "SSM/05 注解.md",
     "SSM/03 依赖注入.md",
-    "OneNote/00 来源.md",
     "SSM/未命名"
   ]
 }
