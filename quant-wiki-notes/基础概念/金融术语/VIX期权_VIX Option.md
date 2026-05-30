@@ -9,6 +9,9 @@ created: 2026-05-30
 ![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 # 什么是VIX期权？
 
+
+> [!note] 💡 概念解析
+> VIX期权基于CBOE波动率指数，是衡量市场恐慌情绪的指标。VIX上升通常伴随股市下跌。VIX期权用于对冲市场波动风险或投机市场恐慌。
 ![](https://fastly.jsdelivr.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 VIX期权是一种非股票
@@ -66,3 +69,6 @@ LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的
 > 采用多种策略（包括杠杆、卖空等）的投资基金
 、银行）非公开发行证券
 等一流企业。
+## 📚 相关概念
+
+[[波动率]] [[VIX]] [[恐慌指数]] [[市场情绪]]
