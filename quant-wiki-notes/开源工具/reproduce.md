@@ -24,7 +24,6 @@ created: 2026-05-30
 - [python-training](https://github.com/jpmorganchase/python-training) - J.P. Morgan 提供的面向业务分析师和交易员的 Python 培训。
 - [Stock_Analysis_For_Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - 使用 Excel、Matlab、Power BI、Python、R、Tableau 等对股票
 
-> [!note] 股票
 > 公司所有权的凭证，代表股东对公司资产和收益的权益
 进行不同类型的分析。
 - [algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - 《Algorithmic Trading with Python (2020)》的源码与资源。

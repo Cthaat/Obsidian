@@ -93,10 +93,8 @@ $$ \begin{aligned} &Y = k \times X \\ &\textbf{其中:}\\ &k=\text{常数}\\ &Y,
 ## 关于LLMQuant
 LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募
 
-> [!note] 私募
 > 向特定投资者（如对冲基金
 
-> [!note] 对冲基金
 > 采用多种策略（包括杠杆、卖空等）的投资基金
 、银行）非公开发行证券
 等一流企业。

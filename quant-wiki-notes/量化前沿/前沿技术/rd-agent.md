@@ -10,7 +10,6 @@ created: 2026-05-30
 
 # RD-Agent：革新金融量化交易
 
-> [!note] 量化交易
 > 使用数学模型和算法进行交易决策的方法
 的AI自动化工具
 ![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
