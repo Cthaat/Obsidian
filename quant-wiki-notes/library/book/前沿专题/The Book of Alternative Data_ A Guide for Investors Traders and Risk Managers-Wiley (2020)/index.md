@@ -1,0 +1,35 @@
+---
+title: "The Book of Alternative Data- A Guide for Investors Traders and Risk Managers-Wiley (2020)"
+category: "量化图书馆"
+tags: [量化图书馆, 量化, 交易, 投资, 金融]
+source: "quant-wiki.com"
+created: 2026-05-30
+---
+
+# The Book of Alternative Data- A Guide for Investors Traders and Risk Managers-Wiley (2020)
+
+- **作者**: Alexander Denev, Saeed Amen
+- **出版社**: Wiley
+- **出版年份**: 2020
+- **格式**: PDF
+- **难度**: ⭐⭐⭐⭐
+- **推荐指数**: ⭐⭐⭐⭐⭐
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/The%20Book%20of%20Alternative%20Data_%20A%20Guide%20for%20Investors%20Traders%20and%20Risk%20Managers-Wiley%20%282020%29.pdf)
+
+### 内容简介
+
+本书是第一本系统性地探讨如何在投资和风险管理中利用非传统信息来源（即另类数据）的方法论和流程的指南。它详细介绍了另类数据的核心概念和实践方法，旨在帮助金融专业人士利用非传统数据源生成超额收益（alpha）、分析市场和预测风险。书中为读者提供了驾驭各种另类数据源的路线图，并提供了适当的分析技术。内容涵盖了从多种数据集中提取价值的集成建模方法，以及如何使另类数据信号可操作化。此外，本书还包含了金融市场中的实际案例研究和真实世界的应用技术，并指导读者如何避免潜在的陷阱，以及如何整合不同数据集的信息以最大化其信息价值。书中特别讨论了机器学习技术（如自然语言处理NLP）和因子投资等重要的数学技术及其在金融领域的应用。
+
+### 主要特点
+
+- 理论基础扎实
+- 实践案例丰富
+- 操作指导清晰
+- 适合实际应用
+
+### 适合人群
+
+- 量化分析师
+- 算法交易员
+- 金融工程师
+- 数据科学家

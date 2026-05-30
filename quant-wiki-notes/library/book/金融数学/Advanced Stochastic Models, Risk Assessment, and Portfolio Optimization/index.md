@@ -1,0 +1,51 @@
+---
+title: "Advanced Stochastic Models, Risk Assessment, and Portfolio Optimization"
+category: "量化图书馆"
+tags: [量化图书馆, 量化, 投资, 金融]
+source: "quant-wiki.com"
+created: 2026-05-30
+---
+
+# Advanced Stochastic Models, Risk Assessment, and Portfolio Optimization
+
+![](https://fastly.jsdelivr.net/gh/bucketio/img3@main/2024/09/04/1725464231869-e0b2f727-2a0f-4270-bf6c-31ddc350426a.gif)
+本书籍由[LLMQuant社区](https://llmquant.com/)整理, 并提供PDF下载, 只供学习交流使用, 版权归原作者所有。
+
+
+- **作者**: Svetlozar T. Rachev, Stoyan V. Stoyanov, Frank J. Fabozzi
+- **出版社**: Wiley
+- **出版年份**: 2008
+- **难度**: ⭐⭐⭐⭐⭐
+- **推荐指数**: ⭐⭐⭐⭐⭐
+
+### 内容简介
+
+本书是一部开创性的著作，它通过将分布模型与风险或绩效度量相结合，扩展了传统的风险度量和投资组合优化方法，构建了一个统一的框架。书中，专家作者们阐述了概率度量的基础知识，概述了投资组合优化的新方法，并讨论了各种重要的风险度量。通过大量实例，本书展示了在最优投资组合选择、风险理论以及计算金融领域的广泛应用，对金融工程师尤为有益。本书旨在帮助读者掌握高级随机模型、风险评估和优化技术，以应对金融中的风险、不确定性和绩效衡量挑战。
+
+### 核心章节
+
+1. 随机过程基础
+2. 风险度量方法
+3. 投资组合理论
+4. 极值理论应用
+5. 优化算法实现
+
+### 主要特点
+
+- 理论深入
+- 数学严谨
+- 应用导向
+- 案例丰富
+
+### 适合人群
+
+- 金融数学研究生
+- 风险管理专家
+- 量化研究员
+- 投资组合经理
+
+### 配套资源
+
+- 数学推导补充
+- 代码实现示例
+- 数据集
