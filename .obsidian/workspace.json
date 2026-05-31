@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant-wiki-notes/入门教程/阶段一-投资世界观/资产配置入门.md",
+                "file": "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/杜邦分析法.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "资产配置入门"
+              "title": "杜邦分析法"
             }
           }
         ]
@@ -182,9 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb78f90e2f12796c",
+  "active": "c000d874f5944a9e",
   "lastOpenFiles": [
     "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/财务比率分析.md",
+    "quant-wiki-notes/入门教程/阶段一-投资世界观/资产配置入门.md",
     "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/目录.md",
     "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/杜邦分析法.md",
     "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/技术分析入门.md",
@@ -196,7 +197,6 @@
     "quant-wiki-notes/入门教程/阶段一-投资世界观/目录.md",
     "quant-wiki-notes/入门教程/阶段一-投资世界观/经典必读书单.md",
     "quant-wiki-notes/入门教程/阶段一-投资世界观/复利思维.md",
-    "quant-wiki-notes/入门教程/阶段一-投资世界观/资产配置入门.md",
     "quant-wiki-notes/入门教程/阶段一-投资世界观/行为金融学基础.md",
     "quant-wiki-notes/入门教程/阶段一-投资世界观",
     "未命名.base",
