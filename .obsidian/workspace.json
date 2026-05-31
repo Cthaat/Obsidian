@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "34a0c878edc22389",
+        "id": "e3e22dfa3d51b7ad",
         "type": "tabs",
         "children": [
           {
-            "id": "36ceab2a99d2717a",
+            "id": "fb78f90e2f12796c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant-wiki-notes/知识索引.md",
+                "file": "quant-wiki-notes/入门教程/阶段一-投资世界观/资产配置入门.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "知识索引"
+              "title": "资产配置入门"
             }
           }
         ]
@@ -182,13 +182,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36ceab2a99d2717a",
+  "active": "fb78f90e2f12796c",
   "lastOpenFiles": [
+    "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/财务比率分析.md",
+    "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/目录.md",
+    "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/杜邦分析法.md",
+    "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/技术分析入门.md",
+    "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/宏观经济基础.md",
+    "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/估值方法入门.md",
+    "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/三张财务报表.md",
+    "quant-wiki-notes/入门教程/阶段二-看懂公司与市场",
+    "quant-wiki-notes/入门教程/阶段一-投资世界观/投资心理偏误.md",
+    "quant-wiki-notes/入门教程/阶段一-投资世界观/目录.md",
+    "quant-wiki-notes/入门教程/阶段一-投资世界观/经典必读书单.md",
+    "quant-wiki-notes/入门教程/阶段一-投资世界观/复利思维.md",
+    "quant-wiki-notes/入门教程/阶段一-投资世界观/资产配置入门.md",
+    "quant-wiki-notes/入门教程/阶段一-投资世界观/行为金融学基础.md",
+    "quant-wiki-notes/入门教程/阶段一-投资世界观",
+    "未命名.base",
+    "quant-wiki-notes/知识索引.md",
     "quant-wiki-notes/基础概念/量化交易/动量投资_Momentum Investing.md",
     "quant-wiki-notes/开源工具/quant_learn.md",
     "quant-wiki-notes/开源工具/quant_repo.md",
     "quant-wiki-notes/参与贡献.md",
-    "未命名.base",
     "quant-wiki-notes/基础概念/金融术语/比较优势_Comparative Advantage.md",
     "quant-wiki-notes/基础概念/金融术语/交易商_Dealer.md",
     "quant-wiki-notes/基础概念/金融术语/外汇市场_Foreign Exchange.md",
@@ -198,28 +214,12 @@
     "quant-wiki-notes/基础概念/金融术语/证券_Security.md",
     "quant-wiki-notes/学术论文/目录.md",
     "quant-wiki-notes/学术论文",
-    "quant-wiki-notes/常见问题.md",
-    "quant-wiki-notes/加入社区.md",
-    "quant-wiki-notes/其他项目.md",
-    "quant-wiki-notes/关于项目.md",
-    "quant-wiki-notes/使用说明.md",
-    "quant-wiki-notes/基础概念/金融术语/VIX期权_VIX Option.md",
-    "quant-wiki-notes/基础概念/金融术语/远期价格_Forward Price.md",
-    "quant-wiki-notes/基础概念/金融术语/纳斯达克_Nasdaq.md",
-    "quant-wiki-notes/基础概念/金融术语/恶性通胀_Hyperinflation.md",
-    "quant-wiki-notes/基础概念/金融术语/保证金交易_Buying on Margin.md",
-    "quant-wiki-notes/基础概念/金融术语/标的资产_Underlying Asset.md",
-    "quant-wiki-notes/开源工具/trend-following.md",
-    "quant-wiki-notes/开源工具/stat-arb.md",
-    "quant-wiki-notes/开源工具/reproduce.md",
     "quant-wiki-notes/开源工具",
     "[!note]",
     "quant-wiki-notes/入门教程/交易策略",
     "quant-wiki-notes/入门教程",
     "quant-wiki-notes/量化前沿/券商研报/财通中信-逐鹿系列",
     "quant-wiki-notes/量化前沿/券商研报/渤海-多因子系列",
-    "quant-wiki-notes/量化前沿/券商研报/海通-选股因子系列",
-    "quant-wiki-notes/量化前沿/券商研报/方正财通-星火系列",
     "pic/Pasted image 20240818171429.png",
     "pic/Pasted image 20240819001038.png",
     "pic/Pasted image 20240819000710.png",
