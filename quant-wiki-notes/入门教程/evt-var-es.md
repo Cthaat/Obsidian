@@ -1,214 +1,259 @@
 ---
-title: "一文带你读懂金融市场尾部风险：极值理论（EVT）在VaR与ES计算中的应用"
+title: "VaR、ES 与极值理论：如何理解尾部风险"
 category: "入门教程"
-tags: [入门教程, 量化, 投资, 金融]
+tags: [入门教程, 量化, 投资, 金融, 风险管理, 尾部风险]
 source: "quant-wiki.com"
 created: 2026-05-30
+updated: 2026-06-01
 ---
 
-# 一文带你读懂金融市场尾部风险：极值理论（EVT）在VaR与ES计算中的应用
+# VaR、ES 与极值理论：如何理解尾部风险
 
-## 极值理论（EVT）：尾部风险建模
+> [!note] 核心问题
+> 平均收益和普通波动率解释不了“极端亏损”。VaR、ES 和极值理论的作用，是让你把最坏情况下可能亏多少、亏损超过阈值后平均会有多严重，讲得更清楚。
 
-在金融风险管理中，极值理论（EVT）是一种重要的工具，用于分析和建模数据分布的尾部行为。特别是在金融市场中，极端的市场波动和风险事件往往会导致巨大的经济损失，而极值理论能够帮助我们更好地理解和预测这些极端事件的发生概率及其影响。
+## 你会学到什么
 
-## 极值理论的两种主要方法
+1. VaR 和 ES 分别衡量什么风险？
+2. 为什么只看标准差会低估极端亏损？
+3. 极值理论 EVT 如何专门建模尾部？
+4. Block Maxima 和 POT 两种方法有什么区别？
+5. 在策略回测和组合风控中，如何使用这些指标而不被它们误导？
 
-极值理论的核心思想是对数据的极端值进行建模，通常有两种流行的参数化方法：**Block Maxima方法**和**Peak-Over-Threshold (POT) 方法**。
+## 1. 为什么要专门研究尾部风险
 
-### Block Maxima方法
+很多投资策略的日常表现很平稳，却可能在少数日期遭遇巨大亏损。例如：
 
-**Block Maxima**方法的基本思想是将历史数据分成多个块（例如按月、季度或年度），然后从每个块中提取最大值，这些最大值构成了我们用来建模尾部风险的样本。
+- 卖期权；
+- 高杠杆相对价值；
+- 流动性提供；
+- 短波动策略；
+- 拥挤的多空因子策略。
 
-假设我们有一些独立同分布（iid）随机变量，它们的累积分布函数为**F(x)**，并且有**n**个观测值。我们希望建模的是**Mₙ = max(X₁, X₂, ..., Xₙ)** 的统计行为。通过累积概率分布的关系，最大值的分布可以表示为：
+这类策略的收益分布往往不是正态分布，而是有肥尾和负偏度。也就是说，极端亏损发生的概率和损失幅度，都可能比标准正态假设大得多。
 
-$$
-Pr(M_n \leq z) = Pr(X_1 \leq z, \ldots, X_n \leq z) = (F(z))^n
-$$
+这就是为什么只看 [[夏普比率]] 和 [[波动率]] 不够。
 
-然而，我们通常无法得到真实的分布函数F(x)。幸运的是，**Fisher-Tippett-Gnedenko定理**指出，对于适当的缩放，最大值的分布会收敛到三个特定的分布之一：**甘贝尔分布**、**弗雷歇分布**和**威布尔分布**。这些分布的组合形式为广义极值（GEV）分布：
+## 2. VaR：某个置信水平下的损失分位数
 
-$$
-G(x) = \exp \left\{- \left[1 + \xi \left(\frac{x - \mu}{\sigma}\right)\right]^{-1/\xi}\right\}
-$$
+VaR（Value at Risk，风险价值）回答的是：
 
-其中，**μ**是位置参数，**σ**是尺度参数，**ξ**是形状参数。不同的ξ值决定了尾部行为：
+> 在给定时间范围和置信水平下，损失大概率不会超过多少？
 
-- 当**ξ = 0**时，得到甘贝尔分布（Gumbel）。
-- 当**ξ < 0**时，得到弗雷歇分布（Fréchet）。
-- 当**ξ > 0**时，得到威布尔分布（Weibull）。
+例如，“1 日 99% VaR = 5%”表示：
 
-通过使用R语言的`fExtremes`包，您可以绘制这些分布的密度图，帮助理解不同ξ值下的尾部行为。
+- 时间范围：1 个交易日；
+- 置信水平：99%；
+- 含义：在历史或模型假设下，约 99% 的日子亏损不超过 5%；
+- 另一面：约 1% 的日子亏损会超过 5%。
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img17@main/2025/02/15/1739614133652-5a5c0ac5-0c4f-4bb7-a076-75928efb3481.png)
-
-#### 数据拟合：块最大值方法
-
-我们如何将广义极值（GEV）分布拟合到实际数据中呢？例如，在金融市场中，我们可以使用每日收益数据，将其分成每月的时间块，并对每个月的最大损失进行建模。这样，我们就能估计损失分布的尾部。
-
-```r
-require(quantmod)
-require(xts)
-SPY_prices <- Ad(getSymbols('SPY', from = '2006-01-01', to = '2019-01-01', auto.assign = FALSE))
-returns_xts <- diff(log(SPY_prices), k = 1)[-1] * 100  # 每日对数收益
-```
-
-#### 转换为损失（负收益的正值），并计算每月最大损失
-
-```r
-monthly_max_daily_loss <- do.call(rbind, lapply(split(x = -1 * returns_xts, 'months'), function(x) x[which.max(x)]))
-```
-通过上述代码，我们将每日收益数据转换为每月的最大损失，进而利用最大似然估计（MLE）来拟合GEV分布参数。
-
-估算风险：VaR和ES
-通过拟合后的GEV分布参数，我们可以计算**VaR（价值风险）和ES（预期损失）** 等风险指标。例如，VaR可以通过逆累积分布函数计算：
-```r
-GEV_VAR <- function(params, alpha = .05){
-    mu    <- rep(params[1], length(alpha))
-    sigma <- rep(params[2], length(alpha))
-    xi    <- rep(params[3], length(alpha))
-    y <- -log(1 - alpha)
-    result <- ifelse(abs(xi) < 0.0001, mu - sigma * log(-y), mu - sigma / xi * (1 - y ^ -xi))
-    return(result)
-}
-```
-通过将拟合参数输入到VaR函数中，可以计算不同置信度下的VaR值。
-```r
-my_fit_vals <- my_gev_fit$par
-GEV_VAR(my_fit_vals, alpha = c(.05, .025, .01))
-```
-----
-
-### Peak-Over-Threshold方法
-
-**Peak-Over-Threshold (POT)** 方法与Block Maxima方法不同，它关注的是所有超过某个设定阈值的观测值。POT方法通常能更有效地捕捉尾部风险，尤其是在数据中存在多个极端值时。
-
-在POT方法中，我们使用**广义帕累托分布（GPD）** 来描述超过阈值的观察值。通过**Pickands-Balkema-de Haan定理**，我们知道，对于足够大的阈值，数据的条件分布将近似为广义帕累托分布：
+如果使用损失变量 $L$，置信水平为 $\alpha$，VaR 可表示为：
 
 $$
-P(X \leq x | X > u) \approx \left\{
-\begin{array}{ll}
-1 - \left( 1 + \xi \frac{x}{\tau} \right)^{-1/\xi} & \text{当} \xi \neq 0 \\
-1 - \exp \left( -\frac{x}{\tau} \right) & \text{当} \xi = 0
-\end{array}
-\right.
+VaR_{\alpha} = q_{\alpha}(L)
 $$
 
-这里的参数**ξ**和**τ**与GEV分布的参数相似，用于拟合超过阈值的数据。
+其中 $q_{\alpha}$ 是损失分布的 $\alpha$ 分位数。
 
-#### 数据拟合：POT方法
+### VaR 的优点
 
-在使用POT方法时，我们首先设定一个阈值**u**，然后筛选出所有超过该阈值的观测值。接下来，我们拟合这些超过阈值的观测值，通常使用**广义帕累托分布（GPD）** 进行建模。
+- 易解释；
+- 可用于不同组合的统一风险口径；
+- 能设置风险限额；
+- 方便和监管、风控报表对接。
 
-下面是用R语言拟合POT模型的代码示例，首先加载数据并设置阈值：
+### VaR 的缺点
 
-```r
-require(quantmod)
-require(xts)
+VaR 只告诉你“门槛在哪里”，不告诉你超过门槛后会亏多惨。
 
-SPY_prices <- Ad(getSymbols('SPY', from = '2006-01-01', to = '2019-01-01', auto.assign = FALSE))
-returns_xts <- -1 * diff(log(SPY_prices), k = 1)[-1] * 100  # 每日对数收益
-names(returns_xts) <- 'SPY_Returns'
+两个策略可能都有 99% VaR = 5%，但一个最坏亏 6%，另一个最坏亏 30%。VaR 会把它们看得过于相似。
 
-# 设置阈值
-my_threshold <- 0.85
+## 3. ES：超过 VaR 后的平均损失
 
-# 筛选出超过阈值的数据
-my_data <- returns_xts[returns_xts > my_threshold]
-```
-接下来，我们可以使用对数似然函数来进行参数估计：
-```r
-gdp_loglik <- function(params, threshold, data){
-    xi <- params[1]; tau <- params[2]
-    data <- data - threshold  # y = x - u
-    data <- coredata(data[data > 0])  # 只保留超过阈值的数据
-    m <- nrow(data)
-    if((tau <= 0) | (xi <= -1)) return(1e6)  # 参数约束
-    term1 <- -m * log(tau)
-    if(abs(xi) < 0.0001){
-        result <- term1 - 1 / tau * sum(data)
-    } else {
-        if(any(1 + xi * data / tau <= 0)) return(1e6)
-        result <- term1 - (1 + 1 / xi) * sum(log(1 + xi * data / tau))
-    }
-    return(-result)
-}
-```
-通过最大化对数似然函数，我们可以得到ξ和τ的估计值
-```r
-my_gpd_fit <- optim(par = c(0.5, 0.5), fn = gdp_loglik, method = "Nelder-Mead", threshold = my_threshold, data = returns_xts)
-my_gpd_fit
-```
+ES（Expected Shortfall，也称 CVaR）回答的是：
 
-### 计算风险：VaR和ES
+> 如果亏损已经超过 VaR，平均会亏多少？
 
-通过拟合后的GEV分布参数，我们可以计算**VaR（价值风险）** 和**ES（预期损失）** 等风险指标。例如，VaR可以通过逆累积分布函数计算：
-
-#### VaR（价值风险）计算
-
-VaR是某个置信度下的分位数值。为了计算VaR，我们需要使用累积分布函数的逆函数。具体的公式如下：
+数学上可写为：
 
 $$
-\hat{z}_p = \left\{
-\begin{array}{ll}
-\mu - \frac{\sigma}{\hat{\xi}} \left[ 1 - y_p^{-\xi} \right] & \text{当} \hat{\xi} \neq 0 \\
-\hat{\mu} - \hat{\sigma} \log (-y_p) & \text{当} \hat{\xi} = 0
-\end{array}
-\right.
+ES_{\alpha} = E[L \mid L \ge VaR_{\alpha}]
 $$
 
-其中，$y_p = -\log(1 - p)$，$p$为置信度（例如，0.05代表95%的置信区间）。
+继续上面的例子：
 
-下面是计算VaR的R代码实现：
+- 99% VaR = 5%；
+- 99% ES = 9%；
 
-```r
-GEV_VAR <- function(params, alpha = .05){
-    # 将参数展开为向量
-    mu    <- rep(params[1], length(alpha))
-    sigma <- rep(params[2], length(alpha))
-    xi    <- rep(params[3], length(alpha))
+含义是：最差的 1% 情况里，平均亏损约为 9%。
 
-    y <- -log(1 - alpha)
-    result <- ifelse(abs(xi) < 0.0001, mu - sigma * log(-y), mu - sigma / xi * (1 - y ^ -xi))
-    return(result)
-}
-使用上述函数，可以计算不同置信度下的VaR值：
-```r
-my_fit_vals <- my_gev_fit$par
-GEV_VAR(my_fit_vals, alpha = c(.05, .025, .01))
+ES 比 VaR 更关注尾部深处，因此更适合分析“少数巨大亏损”。
+
+## 4. 用历史数据估计 VaR 和 ES
+
+最简单的方法是历史模拟：
+
+```python
+import numpy as np
+import pandas as pd
+
+def historical_var_es(returns: pd.Series, alpha: float = 0.99) -> tuple[float, float]:
+    losses = -returns.dropna()
+    var = losses.quantile(alpha)
+    es = losses[losses >= var].mean()
+    return float(var), float(es)
 ```
-#### ES（预期损失）计算
 
-**ES**（即条件VaR）表示在发生极端损失时，平均损失的大小。它反映了在损失超过VaR时，风险的严重程度。计算ES的公式如下：
+这个方法直观，但有三个问题：
+
+1. 样本太少时，尾部估计不稳定；
+2. 历史没有发生过的极端事件无法估计；
+3. 市场结构变化后，旧样本可能不再适用。
+
+## 5. 参数法 VaR：正态假设的便利与危险
+
+如果假设收益服从正态分布，损失的 VaR 可以用均值和标准差估计：
 
 $$
-\mathrm{ES}_{\alpha} = \frac{1}{1 - \alpha} \int_{\alpha}^{1} q_x(F) \, \mathrm{d}x = \frac{VAR_{\alpha}}{1 - \xi} + \frac{\tilde{\sigma} - \xi u}{1 - \xi}
+VaR_{\alpha} = \mu_L + z_{\alpha}\sigma_L
 $$
 
-其中，$\hat{z}_p$为VaR值，$\alpha$为风险水平（例如，0.01代表1%风险水平）。
+其中 $z_{\alpha}$ 是标准正态分位数。
 
-在R语言中，计算ES的实现如下：
+优点是简单、平滑、容易计算。缺点是正态分布没有足够肥的尾巴，容易低估极端亏损。对含有跳空、杠杆、期权、流动性风险的策略尤其危险。
 
-```r
-GEV_ES <- function(params, alpha = .05){
-    # 定义一个函数来计算VAR值
-    my_fun <- function(x) {GEV_VAR(x, params = params)}
+## 6. 极值理论 EVT：只研究尾部
 
-    # 数值积分，计算ES
-    result <- 1 / alpha * integrate(my_fun, lower = .00001, upper = alpha, stop.on.error = FALSE)$value
-    return(result)
-}
+极值理论（Extreme Value Theory, EVT）的核心思想是：不要强行拟合整个收益分布，而是专门拟合极端损失部分。
+
+它适合回答这类问题：
+
+- 过去最大亏损之外，理论上还可能有多糟？
+- 超过某个阈值后的损失形态是什么？
+- 1% 或 0.1% 尾部风险是否被普通模型低估？
+
+EVT 常见两种方法：
+
+1. Block Maxima；
+2. Peak Over Threshold（POT）。
+
+## 7. Block Maxima：每个区间取最大损失
+
+Block Maxima 方法把历史数据分成多个块，例如每月、每季度、每年。然后从每个块里取最大损失，用这些最大值拟合广义极值分布（GEV）。
+
+步骤：
+
+1. 把日收益转成损失：$L_t = -r_t$；
+2. 按月分组；
+3. 每个月取最大损失；
+4. 用 GEV 分布拟合这些极值；
+5. 计算尾部分位数和 ES。
+
+```python
+import pandas as pd
+
+def monthly_max_loss(returns: pd.Series) -> pd.Series:
+    losses = -returns.dropna()
+    return losses.resample("M").max()
 ```
-通过上述代码，我们可以计算在特定置信度下的ES值。例如，对于1%的风险水平，我们可以运行：
-```r
-GEV_ES(my_fit_vals, alpha = .01)
+
+### 适合场景
+
+- 数据足够长；
+- 更关心每个风险周期内的最大冲击；
+- 想降低日度噪声。
+
+### 局限
+
+- 丢掉了块内其他极端值；
+- 块长度选择会影响结果；
+- 样本数量通常较少。
+
+## 8. POT：超过阈值的损失都拿来建模
+
+POT（Peak Over Threshold）方法设定一个阈值 $u$，只研究超过阈值的损失：
+
+$$
+Y = L - u \mid L > u
+$$
+
+在一定条件下，超过阈值的尾部超额损失可用广义帕累托分布（GPD）近似。
+
+```python
+def tail_excess_losses(returns: pd.Series, quantile: float = 0.95) -> pd.Series:
+    losses = -returns.dropna()
+    threshold = losses.quantile(quantile)
+    return losses[losses > threshold] - threshold
 ```
-这个计算结果告诉我们，在发生极端损失时，平均损失的大小。如果我们知道VaR为8.66%，ES的结果则可能会更大，因为ES考虑了更极端的损失情境。
 
-通过使用ES，金融机构和投资者能够更好地评估风险，并准备应对极端市场波动时可能发生的更大损失。
+### 适合场景
 
-## 总结
+- 想更充分利用尾部样本；
+- 数据频率较高；
+- 关注超过某个风险阈值后的行为。
 
-极值理论（EVT）为金融市场的尾部风险管理提供了强有力的工具，尤其是在面对市场极端波动时，能够帮助决策者制定更加合理的风险控制策略。通过**Block Maxima**和**Peak-Over-Threshold**两种方法，我们可以有效地估计尾部风险，并使用**广义极值分布（GEV）** 和**广义帕累托分布（GPD）** 进行拟合和风险评估。
+### 阈值怎么选
 
-在具体应用中，通过计算**VaR（价值风险）** 和**ES（预期损失）** 等风险指标，投资者和金融机构能够量化极端事件的影响，并采取相应的风险控制措施。VaR为特定置信水平下的潜在损失提供了一个界限，而ES则进一步考虑了极端损失的平均大小，帮助我们更好地理解尾部风险。
+阈值太低：尾部样本多，但不够“极端”，模型偏差大。
+阈值太高：尾部样本少，参数估计不稳定。
+
+实务中常结合：
+
+- 95%、97.5%、99% 分位数；
+- mean excess plot；
+- 参数稳定性图；
+- 压力测试经验。
+
+## 9. 如何在回测里使用 VaR 和 ES
+
+建议把 VaR/ES 放入每个策略的风险报告中：
+
+| 指标 | 作用 |
+|---|---|
+| 年化波动率 | 日常波动规模 |
+| 最大回撤 | 历史最痛苦路径 |
+| VaR | 常规尾部阈值 |
+| ES | 超过阈值后的平均损失 |
+| 偏度 | 大亏是否集中在少数日期 |
+| 峰度 | 分布尾部是否肥 |
+| 压力测试 | 指定场景下会亏多少 |
+
+这些指标应配合 [[回测方法论]] 和 [[风险管理框架]] 使用。
+
+## 10. 误区清单
+
+### 误区 1：VaR 是最大亏损
+
+不是。VaR 是某个置信水平下的分位数。超过 VaR 的损失仍然可能非常大。
+
+### 误区 2：99% VaR 比 95% VaR 一定更可靠
+
+置信水平越高，尾部样本越少，估计反而可能更不稳定。
+
+### 误区 3：历史 VaR 能覆盖未来危机
+
+如果未来危机在历史样本里没有出现，历史 VaR 无法凭空知道。
+
+### 误区 4：ES 能解决所有问题
+
+ES 更关注尾部，但仍依赖样本、模型和阈值选择。它不是压力测试的替代品。
+
+### 误区 5：尾部风险可以靠分散化完全消除
+
+正常时期相关性低的资产，在危机中可能一起下跌。分散化能降低风险，但不能消灭系统性尾部。
+
+## 11. 学习练习
+
+1. 找一个指数或策略收益序列，计算 95%、99% VaR 和 ES。
+2. 比较正态 VaR 与历史 VaR 的差异。
+3. 把 2008、2020、2022 等高波动时期单独抽出，观察 VaR/ES 是否明显变大。
+4. 设一个风险限额：当滚动 99% ES 超过某个阈值时，策略仓位降低多少？
+5. 对同一策略分别计算最大回撤和 ES，思考二者解释的风险有什么不同。
+
+## 12. 小结
+
+VaR 让你知道“亏损门槛”，ES 让你知道“越过门槛后可能多痛”，EVT 则尝试更认真地建模尾部。它们不是预测灾难的水晶球，而是帮助你在策略看起来赚钱时，仍然记得问一句：如果市场进入最坏的 1%，我能不能活下来？
+
+## 相关笔记
+
+[[波动率]] [[夏普比率]] [[风险管理框架]] [[回测方法论]] [[期权策略]]
