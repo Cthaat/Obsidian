@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant-wiki-notes/入门教程/阶段三-量化思维与系统化投资/目录.md",
+                "file": "quant-wiki-notes/入门教程/交易策略/多空策略.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "目录"
+              "title": "多空策略"
             }
           }
         ]
@@ -184,6 +184,12 @@
   },
   "active": "fb78f90e2f12796c",
   "lastOpenFiles": [
+    "quant-wiki-notes/量化前沿/目录.md",
+    "quant-wiki-notes/量化前沿/券商研报/财通中信-逐鹿系列/目录.md",
+    "quant-wiki-notes/量化前沿/券商研报/渤海-多因子系列/目录.md",
+    "quant-wiki-notes/量化前沿/前沿技术/ChatGPT-Balyasny.md",
+    "quant-wiki-notes/量化前沿/前沿技术/Advanced Portfolio Management.md",
+    "quant-wiki-notes/入门教程/阶段三-量化思维与系统化投资/目录.md",
     "quant-wiki-notes/入门教程/交易策略/如何划分交易风格.md",
     "quant-wiki-notes/入门教程/交易策略/目录.md",
     "quant-wiki-notes/入门教程/阶段三-量化思维与系统化投资/回测方法论.md",
@@ -191,7 +197,6 @@
     "quant-wiki-notes/入门教程/阶段二-看懂公司与市场/杜邦分析法.md",
     "quant-wiki-notes/入门教程/阶段三-量化思维与系统化投资/常见量化策略.md",
     "quant-wiki-notes/入门教程/阶段三-量化思维与系统化投资/风险管理框架.md",
-    "quant-wiki-notes/入门教程/阶段三-量化思维与系统化投资/目录.md",
     "quant-wiki-notes/入门教程/阶段三-量化思维与系统化投资/量化投资基础.md",
     "quant-wiki-notes/入门教程/阶段三-量化思维与系统化投资/因子投资体系.md",
     "quant-wiki-notes/入门教程/阶段三-量化思维与系统化投资",
@@ -209,11 +214,6 @@
     "quant-wiki-notes/入门教程/阶段一-投资世界观/行为金融学基础.md",
     "quant-wiki-notes/入门教程/阶段一-投资世界观",
     "未命名.base",
-    "quant-wiki-notes/知识索引.md",
-    "quant-wiki-notes/基础概念/量化交易/动量投资_Momentum Investing.md",
-    "quant-wiki-notes/开源工具/quant_learn.md",
-    "quant-wiki-notes/开源工具/quant_repo.md",
-    "quant-wiki-notes/参与贡献.md",
     "quant-wiki-notes/学术论文",
     "quant-wiki-notes/开源工具",
     "[!note]",
