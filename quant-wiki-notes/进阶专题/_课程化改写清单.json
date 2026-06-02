@@ -1,0 +1,5384 @@
+[
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/一、ETF基础/ETF产品分类与特征.md",
+    "lines": 125,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/一、ETF基础/ETF市场格局与趋势2026.md",
+    "lines": 129,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/一、ETF基础/ETF资产配置优势与选择要点.md",
+    "lines": 132,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/一、ETF基础/宽基ETF配置策略.md",
+    "lines": 133,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/一、ETF基础/目录.md",
+    "lines": 43,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/三、ETF轮动/ETF动量轮动实战.md",
+    "lines": 172,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/三、ETF轮动/ETF多因子轮动策略.md",
+    "lines": 130,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 14,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/三、ETF轮动/ETF轮动与行为金融.md",
+    "lines": 126,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/三、ETF轮动/ETF轮动策略构建与改进.md",
+    "lines": 141,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/三、ETF轮动/动量轮动策略详解.md",
+    "lines": 287,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/三、ETF轮动/强化学习ETF轮动.md",
+    "lines": 122,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/三、ETF轮动/目录.md",
+    "lines": 57,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/三、ETF轮动/行业轮动ETF适用性.md",
+    "lines": 217,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/二、ETF定投/ETF投资全指南-核心策略.md",
+    "lines": 166,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/二、ETF定投/ETF资产配置指南.md",
+    "lines": 127,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 14,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/二、ETF定投/七步定投法.md",
+    "lines": 146,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/二、ETF定投/定投止盈对比分析.md",
+    "lines": 125,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/二、ETF定投/定投止盈策略.md",
+    "lines": 138,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/二、ETF定投/目录.md",
+    "lines": 53,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/五、ETF进阶策略/ETF增强策略.md",
+    "lines": 121,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/五、ETF进阶策略/ETF期权策略.md",
+    "lines": 146,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 16,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/五、ETF进阶策略/复合策略-网格加动量.md",
+    "lines": 149,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/五、ETF进阶策略/杠杆与反向ETF.md",
+    "lines": 122,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/五、ETF进阶策略/永久投资组合.md",
+    "lines": 129,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/五、ETF进阶策略/目录.md",
+    "lines": 52,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/五、ETF进阶策略/目标日期基金.md",
+    "lines": 129,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/五、ETF进阶策略/耶鲁捐赠基金模型.md",
+    "lines": 129,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/五、ETF进阶策略/量化ETF策略.md",
+    "lines": 147,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/四、ETF网格交易/ETF网格交易（聚宽版）.md",
+    "lines": 134,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/四、ETF网格交易/目录.md",
+    "lines": 52,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/四、ETF网格交易/网格交易入门指南.md",
+    "lines": 131,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/四、ETF网格交易/网格交易实践汇总.md",
+    "lines": 140,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/四、ETF网格交易/网格交易嵌套策略.md",
+    "lines": 124,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/四、ETF网格交易/网格交易成功方法.md",
+    "lines": 151,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/四、ETF网格交易/网格交易赚钱逻辑.md",
+    "lines": 145,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/ETF投资体系/目录.md",
+    "lines": 75,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 40,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/一、单根K线形态/上吊线与射击之星.md",
+    "lines": 134,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/一、单根K线形态/十字星形态.md",
+    "lines": 122,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/一、单根K线形态/大阳线与大阴线.md",
+    "lines": 131,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/一、单根K线形态/目录.md",
+    "lines": 38,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 5,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/一、单根K线形态/纺锤顶与陀螺顶.md",
+    "lines": 124,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/一、单根K线形态/锤子线与倒锤子线.md",
+    "lines": 133,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/三、反转形态/V形反转与倒V形反转.md",
+    "lines": 126,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/三、反转形态/三重顶与三重底.md",
+    "lines": 133,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/三、反转形态/双重顶与双重底.md",
+    "lines": 130,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/三、反转形态/圆弧顶与圆弧底.md",
+    "lines": 124,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/三、反转形态/头肩顶与头肩底.md",
+    "lines": 146,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/三、反转形态/岛形反转.md",
+    "lines": 126,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/三、反转形态/目录.md",
+    "lines": 47,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 6,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/二、组合K线形态/上升三法与下降三法.md",
+    "lines": 123,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/二、组合K线形态/乌云盖顶与刺穿线.md",
+    "lines": 130,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/二、组合K线形态/吞没形态.md",
+    "lines": 124,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/二、组合K线形态/孕线形态.md",
+    "lines": 125,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/二、组合K线形态/早晨之星与黄昏之星.md",
+    "lines": 147,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/二、组合K线形态/目录.md",
+    "lines": 44,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/二、组合K线形态/红三兵与三只乌鸦.md",
+    "lines": 124,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/二、组合K线形态/镊子顶与镊子底.md",
+    "lines": 123,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/五、K线实战/K线与波浪理论结合.md",
+    "lines": 119,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 16,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/五、K线实战/K线形态实战框架.md",
+    "lines": 157,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 27,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/五、K线实战/假形态识别与应对.md",
+    "lines": 130,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/五、K线实战/目录.md",
+    "lines": 54,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/五、K线实战/量价关系与K线验证.md",
+    "lines": 133,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/四、整理形态/三角形整理形态.md",
+    "lines": 150,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/四、整理形态/旗形与三角旗整理.md",
+    "lines": 133,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/四、整理形态/楔形整理形态.md",
+    "lines": 130,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/四、整理形态/目录.md",
+    "lines": 44,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/四、整理形态/矩形箱体整理.md",
+    "lines": 131,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/K线形态/目录.md",
+    "lines": 92,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 26,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/巴菲特/巴菲特价值投资核心原则.md",
+    "lines": 148,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 16,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/巴菲特/巴菲特护城河理论.md",
+    "lines": 133,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/巴菲特/巴菲特永恒投资原则.md",
+    "lines": 143,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 23,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/巴菲特/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/彼得林奇/彼得林奇6种股票类型.md",
+    "lines": 131,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/彼得林奇/彼得林奇PEG选股法.md",
+    "lines": 131,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/彼得林奇/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/目录.md",
+    "lines": 80,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 33,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/索罗斯/目录.md",
+    "lines": 24,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 1,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/索罗斯/索罗斯反身性理论.md",
+    "lines": 138,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/芒格/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/芒格/穷查理宝典摘要.md",
+    "lines": 133,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/芒格/芒格6大思维模型.md",
+    "lines": 132,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/达利欧/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/达利欧/达利欧全天候投资组合.md",
+    "lines": 141,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/达利欧/达利欧十大财务规则.md",
+    "lines": 125,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 22,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/价值投资经典/达利欧/达利欧大周期秩序.md",
+    "lines": 132,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/一、绝对估值法/DCF现金流折现模型.md",
+    "lines": 156,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/一、绝对估值法/DDM股利贴现模型.md",
+    "lines": 137,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/一、绝对估值法/FCF自由现金流估值.md",
+    "lines": 117,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/一、绝对估值法/WACC加权平均资本成本.md",
+    "lines": 111,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/一、绝对估值法/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/三、综合与行业估值/估值方法对比与选择指南.md",
+    "lines": 147,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/三、综合与行业估值/十大估值模型详解.md",
+    "lines": 149,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/三、综合与行业估值/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/三、综合与行业估值/行业差异化估值方法.md",
+    "lines": 165,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/二、相对估值法/EV_EBITDA估值法.md",
+    "lines": 122,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/二、相对估值法/PB市净率估值法.md",
+    "lines": 106,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/二、相对估值法/PEG估值法.md",
+    "lines": 116,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/二、相对估值法/PE市盈率估值法.md",
+    "lines": 117,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/二、相对估值法/目录.md",
+    "lines": 34,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/可转债双低估值策略.md",
+    "lines": 115,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/四、估值实战/七种内在价值评估方法.md",
+    "lines": 171,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/四、估值实战/企业价值估值法.md",
+    "lines": 144,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/四、估值实战/估值实战指南.md",
+    "lines": 148,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/四、估值实战/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/目录.md",
+    "lines": 66,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/估值方法/量化策略中的估值应用.md",
+    "lines": 122,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/一、凯利公式基础/凯利公式变体.md",
+    "lines": 173,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/一、凯利公式基础/凯利公式推导.md",
+    "lines": 149,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/一、凯利公式基础/凯利公式概述.md",
+    "lines": 105,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/一、凯利公式基础/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/三、实战应用/期货交易中的应用.md",
+    "lines": 231,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/三、实战应用/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/三、实战应用/聚宽平台实现.md",
+    "lines": 259,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/三、实战应用/股票策略中的应用.md",
+    "lines": 213,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/二、仓位管理/仓位管理概述.md",
+    "lines": 117,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/二、仓位管理/动态仓位管理.md",
+    "lines": 241,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/二、仓位管理/半凯利与分数凯利.md",
+    "lines": 195,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/二、仓位管理/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/凯利公式与仓位管理.md",
+    "lines": 99,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/凯利公式与仓位管理/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/信用风险/2025年转债信用风险展望.md",
+    "lines": 222,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/信用风险/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/信用风险/转债信用风险可控.md",
+    "lines": 220,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/信用风险/转债评级下调分析.md",
+    "lines": 252,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/信用风险/转债降级潮溯源.md",
+    "lines": 226,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/基础知识/可转债核心概念.md",
+    "lines": 292,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 23,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/基础知识/目录.md",
+    "lines": 24,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 1,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/市场展望/2025年投资策略-期权价值.md",
+    "lines": 206,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/市场展望/2025年转债估值双击.md",
+    "lines": 215,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/市场展望/市场挑战与甜蜜烦恼.md",
+    "lines": 225,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/市场展望/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/投资策略/双低策略详解.md",
+    "lines": 142,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/投资策略/双低轮动策略.md",
+    "lines": 151,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/投资策略/强赎条款与投资机会.md",
+    "lines": 137,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/投资策略/投资策略核心逻辑.md",
+    "lines": 147,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/投资策略/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/目录.md",
+    "lines": 64,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 23,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/量化交易/QMT折溢价套利.md",
+    "lines": 140,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/量化交易/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/量化交易/量化择时与轮动策略.md",
+    "lines": 144,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/可转债投资/量化交易/量化选债系统.md",
+    "lines": 158,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/回测方法/回测框架/Backtrader实战入门.md",
+    "lines": 187,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/回测方法/回测框架/开源回测框架全景对比.md",
+    "lines": 127,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/回测方法/回测框架/框架选型决策指南.md",
+    "lines": 139,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/回测方法/回测框架/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/回测方法/回测陷阱/前视偏差与幸存者偏差.md",
+    "lines": 131,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/回测方法/回测陷阱/回测七大陷阱系统解析.md",
+    "lines": 173,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/回测方法/回测陷阱/回测质量门清单.md",
+    "lines": 128,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/回测方法/回测陷阱/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/回测方法/回测陷阱/过拟合识别与防御.md",
+    "lines": 148,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/回测方法/目录.md",
+    "lines": 43,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/一、因子基础/什么是因子.md",
+    "lines": 135,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 6,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/一、因子基础/因子分类体系.md",
+    "lines": 224,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/一、因子基础/因子基础总览.md",
+    "lines": 85,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/一、因子基础/因子构建方法.md",
+    "lines": 157,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 6,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/一、因子基础/因子检验与评价.md",
+    "lines": 185,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 6,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/一、因子基础/目录.md",
+    "lines": 28,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 5,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/二、单因子详解/价值因子.md",
+    "lines": 140,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/二、单因子详解/动量因子.md",
+    "lines": 149,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/二、单因子详解/单因子详解总览.md",
+    "lines": 86,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 24,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/二、单因子详解/成长因子.md",
+    "lines": 132,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/二、单因子详解/波动率因子.md",
+    "lines": 125,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/二、单因子详解/流动性因子.md",
+    "lines": 130,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/二、单因子详解/目录.md",
+    "lines": 30,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/二、单因子详解/质量因子.md",
+    "lines": 136,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/价值因子汇总.md",
+    "lines": 134,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/动量因子汇总.md",
+    "lines": 147,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/另类因子汇总.md",
+    "lines": 184,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/因子投资总览.md",
+    "lines": 167,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/技术因子汇总.md",
+    "lines": 171,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/波动率因子汇总.md",
+    "lines": 145,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/流动性因子汇总.md",
+    "lines": 146,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/目录.md",
+    "lines": 102,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 42,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/因子投资/质量因子汇总.md",
+    "lines": 162,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/一、财务报表基础/三大财务报表概览.md",
+    "lines": 152,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/一、财务报表基础/利润表分析.md",
+    "lines": 120,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/一、财务报表基础/现金流量表基础.md",
+    "lines": 111,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/一、财务报表基础/目录.md",
+    "lines": 39,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 6,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/一、财务报表基础/财务分析核心指标.md",
+    "lines": 126,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/一、财务报表基础/资产负债表分析.md",
+    "lines": 116,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/三、现金流分析/现金流与财务质量.md",
+    "lines": 124,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/三、现金流分析/现金流量表深度解读.md",
+    "lines": 115,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/三、现金流分析/目录.md",
+    "lines": 38,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/三、现金流分析/自由现金流分析.md",
+    "lines": 119,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/二、杜邦分析与ROE/PB-ROE选股模型.md",
+    "lines": 115,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/二、杜邦分析与ROE/ROE深度解析.md",
+    "lines": 139,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/二、杜邦分析与ROE/杜邦分析法详解.md",
+    "lines": 139,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/二、杜邦分析与ROE/目录.md",
+    "lines": 40,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 5,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/二、杜邦分析与ROE/量化投资中的ROE应用.md",
+    "lines": 113,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/五、因子分析/Alpha因子算法.md",
+    "lines": 141,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/五、因子分析/LLM因子挖掘.md",
+    "lines": 152,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/五、因子分析/因子投资入门.md",
+    "lines": 128,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 19,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/五、因子分析/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/五、基本面实战/基本面分析实战指南.md",
+    "lines": 148,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/五、基本面实战/目录.md",
+    "lines": 37,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/五、基本面实战/财务舞弊识别.md",
+    "lines": 141,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/北向资金与基本面.md",
+    "lines": 128,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/四、财务质量评估/估值指标体系.md",
+    "lines": 135,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/四、财务质量评估/目录.md",
+    "lines": 38,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/四、财务质量评估/财务报告质量光谱.md",
+    "lines": 129,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/四、财务质量评估/财报分析核心方法.md",
+    "lines": 123,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/目录.md",
+    "lines": 76,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 25,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/股息率与分红分析.md",
+    "lines": 121,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/基本面分析/融资融券基本面分析.md",
+    "lines": 115,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/一、宏观经济指标/中国宏观经济指标体系.md",
+    "lines": 161,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/一、宏观经济指标/债券投资基础.md",
+    "lines": 158,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/一、宏观经济指标/国际贸易与汇率.md",
+    "lines": 130,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/一、宏观经济指标/目录.md",
+    "lines": 28,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 5,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/一、宏观经济指标/美国经济指标详解.md",
+    "lines": 170,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/一、宏观经济指标/行为金融学理论.md",
+    "lines": 157,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/三、宏观经济分析框架/2026年宏观经济展望.md",
+    "lines": 172,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/三、宏观经济分析框架/宏观研究指导投资.md",
+    "lines": 175,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/三、宏观经济分析框架/宏观经济分析框架总览.md",
+    "lines": 155,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/三、宏观经济分析框架/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/二、货币政策与央行/中美货币政策分化.md",
+    "lines": 145,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/二、货币政策与央行/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/二、货币政策与央行/美联储利率周期复盘.md",
+    "lines": 152,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/二、货币政策与央行/美联储政策框架演进.md",
+    "lines": 140,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/二、货币政策与央行/美西方货币政策对华影响.md",
+    "lines": 145,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/四、全球市场联动/ESG与可持续投资.md",
+    "lines": 138,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/四、全球市场联动/加密货币与区块链.md",
+    "lines": 134,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/四、全球市场联动/期货市场入门.md",
+    "lines": 137,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/四、全球市场联动/港股市场.md",
+    "lines": 124,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/四、全球市场联动/目录.md",
+    "lines": 28,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 5,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/四、全球市场联动/美股市场.md",
+    "lines": 108,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/宏观经济分析/目录.md",
+    "lines": 64,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 23,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/CCI指标详解.md",
+    "lines": 142,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/MACD-KDJ-RSI牛市指南.md",
+    "lines": 153,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/九大技术指标详解.md",
+    "lines": 156,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/五大核心技术指标指南.md",
+    "lines": 160,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/六大技术指标指南.md",
+    "lines": 140,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/十大技术指标详解.md",
+    "lines": 153,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/布林带详解.md",
+    "lines": 165,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/技术分析完整指南.md",
+    "lines": 199,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/技术指标2025指南.md",
+    "lines": 152,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/技术指标入门指南.md",
+    "lines": 154,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/技术指标概述.md",
+    "lines": 192,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/技术指标第十章.md",
+    "lines": 141,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/目录.md",
+    "lines": 66,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 14,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/股票技术指标大全.md",
+    "lines": 158,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/趋势强度指标（DMI、布林带）.md",
+    "lines": 189,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/趋势类指标（MA、EMA、MACD）.md",
+    "lines": 181,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/一、核心指标/震荡类指标（KDJ、RSI、CCI）.md",
+    "lines": 161,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/七、龙虎榜与游资/游资龙虎榜复盘.md",
+    "lines": 158,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/七、龙虎榜与游资/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/七、龙虎榜与游资/龙虎榜分析（同花顺版）.md",
+    "lines": 169,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/七、龙虎榜与游资/龙虎榜分析（财联社版）.md",
+    "lines": 164,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/七、龙虎榜与游资/龙虎榜游资分析.md",
+    "lines": 164,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/ADL_ADR_VR指标汇总.md",
+    "lines": 153,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/OBV能量潮指标详解.md",
+    "lines": 149,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/增强型成交量指标.md",
+    "lines": 144,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/成交量五大形态.md",
+    "lines": 138,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/成交量八大公式.md",
+    "lines": 144,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/成交量分析进阶.md",
+    "lines": 150,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/目录.md",
+    "lines": 64,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/量价关系2025版.md",
+    "lines": 138,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/量价关系与成交量指标.md",
+    "lines": 158,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/量价分析实战（雪球）.md",
+    "lines": 137,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/量价分析案例：贵州茅台.md",
+    "lines": 134,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/三、成交量体系/量比分析详解.md",
+    "lines": 134,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/九、异象与因子/低波动异象.md",
+    "lines": 216,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/九、异象与因子/目录.md",
+    "lines": 24,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 1,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/四大理论对比总结.md",
+    "lines": 187,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/四大理论综合比较.md",
+    "lines": 182,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/江恩时间法则.md",
+    "lines": 161,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/江恩理论.md",
+    "lines": 149,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/江恩理论完整指南.md",
+    "lines": 167,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/波浪理论八浪循环.md",
+    "lines": 141,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/波浪理论完整指南.md",
+    "lines": 156,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/目录.md",
+    "lines": 39,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 16,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/缠论.md",
+    "lines": 180,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/缠论三大核心分析.md",
+    "lines": 146,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/缠论中枢指南.md",
+    "lines": 135,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/缠论核心概念.md",
+    "lines": 166,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/缠论精髓解读.md",
+    "lines": 128,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/艾略特波浪理论.md",
+    "lines": 151,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/道氏理论.md",
+    "lines": 146,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/道氏理论三重运动.md",
+    "lines": 135,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/二、四大经典理论/道氏理论精髓.md",
+    "lines": 159,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/五、趋势线与通道/目录.md",
+    "lines": 45,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 6,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/五、趋势线与通道/趋势与通道综合指南.md",
+    "lines": 148,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/五、趋势线与通道/趋势线交易策略.md",
+    "lines": 120,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/五、趋势线与通道/趋势线在期货交易中的应用.md",
+    "lines": 124,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/五、趋势线与通道/趋势线画法详解.md",
+    "lines": 132,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/五、趋势线与通道/趋势线高级策略.md",
+    "lines": 149,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/五、趋势线与通道/趋势通道分析.md",
+    "lines": 128,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/八、资金流向/北向资金分析.md",
+    "lines": 202,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/八、资金流向/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/八、资金流向/融资融券分析.md",
+    "lines": 181,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/六、特殊指标/Ichimoku云图深度解析.md",
+    "lines": 162,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/六、特殊指标/一目均衡表详解.md",
+    "lines": 183,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/六、特殊指标/目录.md",
+    "lines": 35,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/四、综合实战/MACD择时策略.md",
+    "lines": 183,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/四、综合实战/多因子趋势跟踪策略.md",
+    "lines": 201,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/四、综合实战/指标组合使用方法论.md",
+    "lines": 201,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/四、综合实战/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/技术指标/目录.md",
+    "lines": 73,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/投资经典书单/五本必读投资经典.md",
+    "lines": 224,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/投资经典书单/全球投资者一句话哲学.md",
+    "lines": 189,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/投资经典书单/全球顶级投资者经典语录.md",
+    "lines": 271,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/投资经典书单/巴菲特投资箴言.md",
+    "lines": 116,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/投资经典书单/巴菲特芒格推荐书单.md",
+    "lines": 172,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/投资经典书单/目录.md",
+    "lines": 106,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 22,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/投资经典书单/聪明的投资者.md",
+    "lines": 266,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/一、期权基础/期权价值分析.md",
+    "lines": 129,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/一、期权基础/期权基础概念.md",
+    "lines": 134,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/一、期权基础/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/三、定价模型/Black-Scholes模型.md",
+    "lines": 197,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/三、定价模型/三大定价模型对比.md",
+    "lines": 158,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/三、定价模型/二叉树定价模型.md",
+    "lines": 218,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/三、定价模型/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/三、定价模型/蒙特卡洛模拟定价.md",
+    "lines": 196,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/二、希腊字母/Delta与Gamma详解.md",
+    "lines": 186,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/二、希腊字母/Theta与Vega详解.md",
+    "lines": 182,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/二、希腊字母/希腊字母Python实现.md",
+    "lines": 224,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/二、希腊字母/希腊字母总览.md",
+    "lines": 165,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/二、希腊字母/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/五、期权实战/CTA期权策略.md",
+    "lines": 158,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/五、期权实战/期权交易实战.md",
+    "lines": 209,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/五、期权实战/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/四、策略组合/期权策略组合指南.md",
+    "lines": 197,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/四、策略组合/目录.md",
+    "lines": 24,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 1,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/期权策略/目录.md",
+    "lines": 61,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 19,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/机器学习交易/应用实战/AI量化论文精选.md",
+    "lines": 117,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/机器学习交易/应用实战/从线性因子到端到端模型.md",
+    "lines": 156,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/机器学习交易/应用实战/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/机器学习交易/目录.md",
+    "lines": 48,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/机器学习交易/算法模型/LSTM与GRU深度学习选股.md",
+    "lines": 184,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/机器学习交易/算法模型/机器学习算法全景.md",
+    "lines": 196,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/机器学习交易/算法模型/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/机器学习交易/综合指南/AI高频交易前沿.md",
+    "lines": 144,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/机器学习交易/综合指南/Machine Learning for Trading 精读.md",
+    "lines": 118,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/机器学习交易/综合指南/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/目录.md",
+    "lines": 65,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 37,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/一、组合优化/Black-Litterman模型.md",
+    "lines": 184,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/一、组合优化/均值-方差模型.md",
+    "lines": 162,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/一、组合优化/有效前沿与CAPM.md",
+    "lines": 156,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/一、组合优化/现代投资组合理论.md",
+    "lines": 135,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/一、组合优化/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/三、再平衡策略/再平衡策略总览.md",
+    "lines": 165,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/三、再平衡策略/动态再平衡分析.md",
+    "lines": 178,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/三、再平衡策略/回撤控制最优组合.md",
+    "lines": 181,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/三、再平衡策略/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/二、风险控制/CVaR风险平价策略.md",
+    "lines": 115,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/二、风险控制/期权Greeks风控.md",
+    "lines": 149,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/二、风险控制/目录.md",
+    "lines": 29,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 6,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/二、风险控制/量化风险管理体系.md",
+    "lines": 179,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/二、风险控制/风险平价模型.md",
+    "lines": 172,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/二、风险控制/风险度量指标.md",
+    "lines": 198,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/二、风险控制/黑天鹅风险管理.md",
+    "lines": 123,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/组合管理/目录.md",
+    "lines": 65,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/一、行为金融基础/后悔理论.md",
+    "lines": 125,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/一、行为金融基础/期望理论.md",
+    "lines": 146,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/一、行为金融基础/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/一、行为金融基础/过度反应理论.md",
+    "lines": 133,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/一、行为金融基础/过度自信理论.md",
+    "lines": 140,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/三、市场异象/市场异象详解.md",
+    "lines": 159,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/三、市场异象/目录.md",
+    "lines": 24,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 1,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/二、认知偏误/损失厌恶与处置效应.md",
+    "lines": 144,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/二、认知偏误/目录.md",
+    "lines": 28,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 5,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/二、认知偏误/确认偏差与代表性偏差.md",
+    "lines": 157,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/二、认知偏误/羊群行为与市场泡沫.md",
+    "lines": 163,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/二、认知偏误/行为金融学的认知偏差全景.md",
+    "lines": 152,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/二、认知偏误/锚定效应与心理账户.md",
+    "lines": 141,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/五、交易心理实战/五维共振交易系统.md",
+    "lines": 138,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/五、交易心理实战/交易心态管理.md",
+    "lines": 110,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/五、交易心理实战/交易心理纪律.md",
+    "lines": 133,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/五、交易心理实战/目录.md",
+    "lines": 28,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 5,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/五、交易心理实战/量化交易心理指南.md",
+    "lines": 136,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/五、交易心理实战/量化策略解决心理问题.md",
+    "lines": 134,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 11,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/四、行为金融应用/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/四、行为金融应用/行为金融与量化投资.md",
+    "lines": 174,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/四、行为金融应用/行为金融投资策略.md",
+    "lines": 182,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/目录.md",
+    "lines": 28,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 6,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/行为金融学/行为金融学总览.md",
+    "lines": 141,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 33,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/123法则.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/AKShare数据工具.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/AQR与因子动物园.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/A股因子特征.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/CAPM与单因子模型.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/CAPM资本资产定价模型.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/Carhart四因子模型.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/CTA策略.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/CTP接口对接.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/EBITDA估值法.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/LSTM智能交易系统.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/PB.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/PE.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/PS.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/Python量化环境配置.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/ROE.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/ROE净资产收益率.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/RSI.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/TuShare数据接口.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/xalpha-版本演进.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/xalpha-高级用法.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/中证国企红利指数.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/中证红利低波指数.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/中证红利指数.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/代表性偏差.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/价值因子详解-账面市值比.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/价值投资.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/价值投资经典.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/低波动因子.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/低波动策略.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/保守偏差.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/动量因子详解-价格动量.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/双低策略.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/可转债估值.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/可转债条款解析.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/因子投资基础.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/因子投资实战总览.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/因子投资工具.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/因子投资组合构建.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/因子拥挤与衰减.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/因子择时与动态配置.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/因子收益归因分析.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/因子正交化.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/基本面因子.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/基金投资策略.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/处置效应.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/外资偏好.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/多因子模型.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/多因子模型总览.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/多因子选股.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/多时间框架分析.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/多智能体系统.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/安全边际.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/展望理论.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/巴菲特估值方法.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/巴菲特分析框架.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/巴菲特策略深度观点.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/市场情绪指标.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/市盈率.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/布林带.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/彼得林奇6大分类法.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/彼得林奇PEG估值策略.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/彼得林奇Q值PEG法.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/心理账户.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/情绪因子.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/成长因子详解-PEG.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/技术分析.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/技术因子.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/技术指标.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/指数增强策略.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/损失厌恶.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/支撑与阻力.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/旗形与矩形整理.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/旗形形态.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/机器学习交易综合指南.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/杠杆资金分析.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/桥水基金原则.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/沪深300.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/波动率因子详解-特质波动率.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/流动性因子详解-Aminud.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/海龟交易法则.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/目录.md",
+    "lines": 144,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 121,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/确认偏差.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/禀赋效应.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/索罗斯反身性深度分析.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/索罗斯反身性补充分析.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/索罗斯成功与失败.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/红利因子.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/组合优化.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/网格交易.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/羊群行为.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/股息率.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/股息率计算.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/自然语言处理.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/芒格多元学科模型.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/芒格核心思想清单.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/融资融券数据.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/规模因子.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/财务报表分析入门.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/质量因子详解-ROIC.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/资产回报率.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/资金流向.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/资金流向分析.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/转股溢价率.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/达利欧债务认知.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/达利欧全天候策略.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/过度自信.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/遗传规划.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/量价关系.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/量价时序特征深度学习.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/量化回测.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/量化对冲策略.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/量化数据源.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/量化策略开发.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/量化系统架构.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/量化选股.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/量化选股策略.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/量化面试准备.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/金融炼金术图书馆.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/锚定效应.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/风险建模.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/补充概念/龙虎榜分析.md",
+    "lines": 82,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/VnPy框架详解.md",
+    "lines": 250,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/一、AKShare数据/AKShare-债券外汇.md",
+    "lines": 138,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/一、AKShare数据/AKShare-其他数据.md",
+    "lines": 134,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/一、AKShare数据/AKShare-基金数据.md",
+    "lines": 138,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/一、AKShare数据/AKShare-宏观指数.md",
+    "lines": 137,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/一、AKShare数据/AKShare-期货期权.md",
+    "lines": 132,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/一、AKShare数据/AKShare-股票数据.md",
+    "lines": 132,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/一、AKShare数据/AKShare安装配置.md",
+    "lines": 123,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/一、AKShare数据/AKShare概览.md",
+    "lines": 113,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/一、AKShare数据/目录.md",
+    "lines": 31,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/三、efinance数据/efinance-常用接口.md",
+    "lines": 138,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/三、efinance数据/efinance-版本演进.md",
+    "lines": 114,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/三、efinance数据/efinance概览.md",
+    "lines": 157,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/三、efinance数据/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/二、EasyQuant框架/EasyQuant-Web策略工作室.md",
+    "lines": 177,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/二、EasyQuant框架/EasyQuant-后端架构.md",
+    "lines": 169,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/二、EasyQuant框架/EasyQuant-教程体系.md",
+    "lines": 129,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/二、EasyQuant框架/EasyQuant概览.md",
+    "lines": 118,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/二、EasyQuant框架/目录.md",
+    "lines": 27,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/四、xalpha基金/xalpha-核心功能.md",
+    "lines": 178,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/四、xalpha基金/xalpha概览.md",
+    "lines": 137,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/四、xalpha基金/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/数据工具/efinance数据工具.md",
+    "lines": 203,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/数据工具/xalpha基金工具.md",
+    "lines": 190,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/数据工具/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/目录.md",
+    "lines": 69,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 35,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/量化工具合集.md",
+    "lines": 139,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化工具/量化开发资源大全.md",
+    "lines": 161,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/一、选股策略/AI多因子选股策略.md",
+    "lines": 204,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/一、选股策略/Alpha因子与量化交易入门.md",
+    "lines": 195,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 25,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/一、选股策略/Alpha因子研究指南.md",
+    "lines": 198,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 20,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/一、选股策略/Alpha衰减与因子生命周期.md",
+    "lines": 224,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 20,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/一、选股策略/LLM因子搜索.md",
+    "lines": 198,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 14,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/一、选股策略/因子分类体系.md",
+    "lines": 164,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/一、选股策略/因子投资入门.md",
+    "lines": 152,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/一、选股策略/多因子Alpha挖掘实战.md",
+    "lines": 264,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 22,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/一、选股策略/目录.md",
+    "lines": 47,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/Fama-French三因子模型.md",
+    "lines": 263,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 22,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/Fama-French五因子模型.md",
+    "lines": 224,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/Fama-French实战指南.md",
+    "lines": 232,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/Fama-French数据处理.md",
+    "lines": 267,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/多因子模型详解.md",
+    "lines": 254,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/多因子策略实战.md",
+    "lines": 287,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/多因子策略核心原理.md",
+    "lines": 273,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/多因子策略深度解析.md",
+    "lines": 250,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/多因子量化指南.md",
+    "lines": 294,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 16,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/目录.md",
+    "lines": 57,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/三、多因子策略/资产定价研究方法论.md",
+    "lines": 251,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 14,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/二、择时策略/均值回归Python实战.md",
+    "lines": 285,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 16,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/二、择时策略/均值回归策略基础.md",
+    "lines": 291,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/二、择时策略/均值回归配对交易.md",
+    "lines": 239,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 14,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/二、择时策略/目录.md",
+    "lines": 48,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 5,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/五、高频与套利/AI高频交易.md",
+    "lines": 210,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/五、高频与套利/目录.md",
+    "lines": 56,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 9,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/五、高频与套利/统计套利深度解析.md",
+    "lines": 267,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 20,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/五、高频与套利/配对交易Python回测.md",
+    "lines": 237,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/五、高频与套利/配对交易QMT实战.md",
+    "lines": 214,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/五、高频与套利/配对交易协整理论.md",
+    "lines": 234,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/五、高频与套利/配对交易策略.md",
+    "lines": 240,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/NumPy与Pandas量化指南.md",
+    "lines": 213,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/NVIDIA量化组合优化.md",
+    "lines": 210,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/Python量化3小时精通.md",
+    "lines": 167,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/Python量化入门.md",
+    "lines": 252,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/Python量化教程Runoo.md",
+    "lines": 145,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 21,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/Python量化第一步.md",
+    "lines": 223,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/Python量化进阶.md",
+    "lines": 223,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/Python量化金融入门.md",
+    "lines": 195,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/Python金融分析指南.md",
+    "lines": 202,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/Python金融分析课程.md",
+    "lines": 206,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/Qbot策略分类.md",
+    "lines": 140,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 17,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/五大经典量化策略.md",
+    "lines": 127,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 8,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/目录.md",
+    "lines": 76,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 24,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/量化交易书单2026.md",
+    "lines": 127,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 16,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/量化交易书籍推荐.md",
+    "lines": 118,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 23,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/量化交易入门2026.md",
+    "lines": 120,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/量化交易入门指南2025.md",
+    "lines": 127,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 19,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/量化交易全景图.md",
+    "lines": 198,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 19,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/量化交易行业报告2025.md",
+    "lines": 128,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/量化工具链NumPy与Pandas.md",
+    "lines": 201,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 13,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/量化投资完全指南.md",
+    "lines": 192,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/量化策略案例分析.md",
+    "lines": 135,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 16,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/量化行业百科.md",
+    "lines": 158,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 33,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/六、策略实战/高收益复杂策略解析.md",
+    "lines": 141,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 18,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/四、CTA策略/CTA危机Alpha详解.md",
+    "lines": 201,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 15,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/四、CTA策略/CTA策略Python实战.md",
+    "lines": 272,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 16,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/四、CTA策略/CTA策略详解.md",
+    "lines": 270,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 19,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/四、CTA策略/CTA量化论文集.md",
+    "lines": 200,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 19,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/四、CTA策略/HighFlyer量化策略.md",
+    "lines": 207,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 20,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/四、CTA策略/目录.md",
+    "lines": 61,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 7,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化策略/目录.md",
+    "lines": 57,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 12,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/交易平台/Awesome-QuantDev-Learn.md",
+    "lines": 130,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/交易平台/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/交易平台/量化交易员24小时工作流.md",
+    "lines": 161,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/数据与API/交易所API接入实战.md",
+    "lines": 228,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/数据与API/目录.md",
+    "lines": 25,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 2,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/数据与API/金融数据API全面汇总.md",
+    "lines": 151,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/目录.md",
+    "lines": 55,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 10,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/系统架构/事件驱动架构详解.md",
+    "lines": 186,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/系统架构/从零搭建量化交易系统.md",
+    "lines": 150,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/系统架构/目录.md",
+    "lines": 26,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 3,
+    "has_course_section": false,
+    "fence_balanced": true
+  },
+  {
+    "path": "quant-wiki-notes/进阶专题/量化部署/系统架构/量化四大支柱.md",
+    "lines": 174,
+    "h1": 1,
+    "has_frontmatter": true,
+    "links": 4,
+    "has_course_section": true,
+    "fence_balanced": true
+  }
+]
