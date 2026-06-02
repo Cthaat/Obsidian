@@ -1,5 +1,6 @@
 ---
 title: 量化工具链NumPy与Pandas
+date: 2026-06-02
 tags:
   - NumPy
   - Pandas
@@ -12,65 +13,139 @@ source: quant-toolchain-numpy-pandas.md
 
 # 量化工具链NumPy与Pandas
 
-> [!note] 工具链
-> NumPy和Pandas是Python量化投资的核心工具链，分别负责数值计算和数据处理。
+> [!note] 本篇定位：Pandas 时间序列与面板
+> 本篇专攻 **Pandas 的时序与截面能力**：`DatetimeIndex`、`resample`/`asfreq` 重采样、`shift` 防未来函数、`groupby` 截面操作、多股票面板数据对齐。
+> 纯数值计算、广播与矩阵运算的"为什么快"由姊妹篇 [[NumPy与Pandas量化指南]] 负责。**分工：NumPy 管数值与矩阵，Pandas 管时序与面板。**
 
-## NumPy基础
+## 一、DatetimeIndex：让索引"懂时间"
 
-### 核心功能
-- 多维数组操作
-- 矩阵运算
-- 随机数生成
-- 数学函数
-
-### 常用操作
-```python
-import numpy as np
-
-# 创建数组
-arr = np.array([1, 2, 3, 4, 5])
-
-# 矩阵运算
-matrix = np.array([[1, 2], [3, 4]])
-inv_matrix = np.linalg.inv(matrix)
-
-# 随机数
-random_returns = np.random.normal(0, 0.01, 1000)
-```
-
-## Pandas基础
-
-### 核心功能
-- DataFrame操作
-- 时间序列处理
-- 数据清洗
-- 分组聚合
-
-### 常用操作
 ```python
 import pandas as pd
+import numpy as np
 
-# 创建DataFrame
-df = pd.DataFrame({
-    'close': [100, 101, 102, 103, 104],
-    'volume': [1000, 1200, 1100, 1300, 1400]
-})
+idx = pd.date_range('2026-01-01', periods=6, freq='B')   # 示例：6 个工作日
+s = pd.Series([100, 101, 103, 102, 104, 105], index=idx, name='close')
 
-# 计算收益率
-df['returns'] = df['close'].pct_change()
-
-# 移动平均
-df['SMA'] = df['close'].rolling(3).mean()
+# 按时间标签切片（含两端），无需记位置
+window = s['2026-01-02':'2026-01-06']
+print(s.index.is_monotonic_increasing)   # 切片/重采样前应为 True
 ```
 
-## 量化应用
+> [!warning] 索引未排序的隐患
+> 时间索引乱序时，标签切片和 `resample` 会报错或给出意外结果。读入数据后先 `df = df.sort_index()`。
 
-| 任务 | NumPy | Pandas |
-|-----|-------|--------|
-| 收益率计算 | np.diff() | pct_change() |
-| 波动率计算 | np.std() | .std() |
-| 相关性分析 | np.corrcoef() | .corr() |
-| 时间序列 | - | resample() |
+## 二、resample 与 asfreq：变频的两种语义
+
+- **`resample`**：先分组再聚合（日→周/月），需要聚合函数。
+- **`asfreq`**：只改频率不聚合，用于规整频率、补齐缺口。
+
+```python
+daily = pd.Series(
+    np.random.uniform(99, 105, 30),                       # 示例日线
+    index=pd.date_range('2026-01-01', periods=30, freq='D'))
+
+weekly_close = daily.resample('W').last()                 # 每周收盘（周最后一值）
+weekly_ohlc  = daily.resample('W').ohlc()                 # 周开高低收
+monthly_ret  = daily.resample('M').last().pct_change()    # 月度收益
+
+business = daily.asfreq('B')                              # 转工作日频率，缺口为 NaN
+```
+
+> [!tip] 频率别名与新版差异
+> `'D'` 日、`'B'` 工作日、`'W'` 周、`'M'` 月末、`'Q'` 季末、`'A'/'Y'` 年末。pandas ≥ 2.2 推荐用 `'ME'/'QE'/'YE'` 表示"月末/季末/年末"，旧别名仍可用但会有 `FutureWarning`。
+
+| 参数 | 作用 | 常见坑 |
+|------|------|--------|
+| `label` | 用区间左/右端做标签 | `'W'`/`'M'` 默认右标签，易和"周一/月初"直觉相反 |
+| `closed` | 区间左闭还是右闭 | 与 `label` 配错会错位一格 |
+| `.last()` vs `.mean()` | 取收盘价 vs 取均值 | 价格通常 `last`，收益常 `sum` |
+
+## 三、shift：向量化地防未来函数
+
+`shift(n)` 把数据**向后**挪 n 行，是"昨日信号、今日执行"的标准写法。
+
+```python
+df = pd.DataFrame(
+    {'close': [100, 102, 101, 105, 107, 106]},
+    index=pd.date_range('2026-01-01', periods=6, freq='B'))     # 示例
+
+df['ret'] = df['close'].pct_change()                 # 当日收益
+df['ma3'] = df['close'].rolling(3).mean()            # 3 日均线
+df['signal'] = (df['close'] > df['ma3']).astype(int) # 收盘后才知道的信号
+
+# 关键：信号 shift(1) 后才乘当日收益 —— 否则偷看未来
+df['strat_ret'] = df['signal'].shift(1) * df['ret']
+df['equity'] = (1 + df['strat_ret']).cumprod()       # 净值曲线
+```
+
+> [!important] 未来函数是回测第一杀手
+> 不做 `shift(1)`，相当于用"今天收盘才算出的信号"在"今天"成交，回测会虚高。更系统的偏差清单见 [[回测方法论]]。注意 `bfill()`（后向填充）也会引入未来值，面板补缺一般只用 `ffill()`。
+
+## 四、groupby：横截面（同一天、多只股票）操作
+
+截面因子的核心是"**每个交易日内**对所有股票做排名/标准化"。
+
+```python
+# 面板数据：MultiIndex = (date, ticker)
+dates = pd.date_range('2026-01-01', periods=2, freq='B')
+panel = pd.DataFrame(
+    {'ret': [0.01, 0.02, -0.01, 0.00, 0.03, -0.02]},          # 示例收益
+    index=pd.MultiIndex.from_product([dates, ['AAA', 'BBB', 'CCC']],
+                                     names=['date', 'ticker']))
+
+# 每日横截面 z-score 标准化（transform 保持原形状）
+panel['z'] = panel.groupby('date')['ret'].transform(
+    lambda x: (x - x.mean()) / x.std(ddof=0))
+
+# 每日按收益排名（截面动量/反转因子常用）
+panel['rank'] = panel.groupby('date')['ret'].rank(ascending=False)
+```
+
+> [!warning] 跨股票"串味"
+> 直接 `panel['ret'].pct_change()` 会用上一只股票的尾值算下一只股票的首值，完全错误。涉及时序的列必须 `groupby('ticker')` 后再算：`panel.groupby('ticker')['close'].pct_change()`。
+
+## 五、多股票面板对齐
+
+不同股票停牌日不同，索引不一致，直接相加会乱序。用 `concat`/`align`/`reindex` 显式对齐。
+
+```python
+a = pd.Series([10, 11, 12], index=pd.to_datetime(['2026-01-01', '2026-01-02', '2026-01-05']))
+b = pd.Series([20, 21, 22], index=pd.to_datetime(['2026-01-01', '2026-01-02', '2026-01-06']))
+
+wide = pd.concat({'A': a, 'B': b}, axis=1)   # 按索引并集对齐，缺口为 NaN
+wide = wide.ffill()                          # 停牌用过去值前向填充（不引入未来）
+
+# 长表 -> 宽表：每列一只股票（适合算相关、协方差）
+long = panel.reset_index()
+wide_ret = long.pivot(index='date', columns='ticker', values='ret')
+
+# 把宽表交回 NumPy 做矩阵运算（衔接姊妹篇）
+ret_matrix = wide_ret.dropna().to_numpy()    # (T, N) 收益矩阵
+cov = np.cov(ret_matrix, rowvar=False)       # 协方差矩阵
+```
+
+```mermaid
+graph LR
+    A[原始多股票数据] --> B[对齐: concat / reindex / align]
+    B --> C[pivot 成宽表 T×N]
+    C --> D["to_numpy() 交给 NumPy 矩阵运算"]
+```
+
+## 六、常见误区 / 踩坑
+
+| 误区 | 后果 | 正确做法 |
+|------|------|----------|
+| 索引未排序就切片/重采样 | 报错或错位 | 先 `sort_index()` |
+| 信号不 `shift(1)` | 未来函数，回测虚高 | `signal.shift(1) * ret` |
+| 面板上直接 `pct_change` | 跨股票串味 | `groupby('ticker')` 后再算 |
+| 用 `bfill` 补价格缺口 | 引入未来信息 | 只用 `ffill`（过去填现在） |
+| `resample` 不看 `label/closed` | 区间错位一格 | 明确设定并核对端点 |
+| 对齐后 NaN 不处理 | `corr`/统计被污染 | `dropna()` 或对齐后填充 |
+| 链式索引赋值 | `SettingWithCopyWarning`、改不动原表 | 用 `df.loc[行, 列] = 值` |
+| 忽略时区 | 跨市场时间错配 | `tz_localize` / `tz_convert` |
+
+> [!tip] SettingWithCopyWarning 的根因
+> `df[df.x>0]['y'] = 1` 先切片得到副本再赋值，原表不变。改成单次 `.loc`：`df.loc[df.x > 0, 'y'] = 1`。
 
 ## 相关链接
 
@@ -78,3 +153,6 @@ df['SMA'] = df['close'].rolling(3).mean()
 - [[Python量化入门]]
 - [[Python量化进阶]]
 - [[../目录|量化策略总览]]
+- [[Python金融分析指南]]
+- [[回测方法论]]
+- [[Python量化金融入门]]

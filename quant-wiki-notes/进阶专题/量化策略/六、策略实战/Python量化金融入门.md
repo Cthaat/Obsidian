@@ -1,8 +1,10 @@
 ---
 title: Python量化金融入门
+date: 2026-06-02
 tags:
   - Python
   - 量化金融
+  - 金融指标
   - 入门
 created: 2026-06-02
 type: note
@@ -11,48 +13,140 @@ source: python-quant-finance-intro.md
 
 # Python量化金融入门
 
-> [!note] 量化金融入门
-> Python量化金融的基础入门，介绍量化金融的核心概念和Python实现。
+> [!note] 本篇定位
+> 这一篇是**金融指标的代码实现手册**：把投资里最常用的几个量——收益、风险、风险调整收益、相关性、组合收益——逐个用 Python 写清楚。它和 [[Python量化进阶]]（回测引擎）互补：那篇讲"怎么跑流程"，这篇讲"指标到底怎么算、为什么这么算"。
 
-## 量化金融核心概念
-
-### 收益率
-- 简单收益率：R = (P_t - P_{t-1}) / P_{t-1}
-- 对数收益率：r = ln(P_t / P_{t-1})
-
-### 风险
-- 波动率：收益率的标准差
-- VaR：在给定置信水平下的最大损失
-- 最大回撤：净值从峰值到谷底的最大跌幅
-
-### 风险调整收益
-- 夏普比率：收益/波动率
-- 索提诺比率：收益/下行波动率
-- 卡玛比率：收益/最大回撤
-
-## Python实现
+## 一、收益率：先分清两种
 
 ```python
 import numpy as np
 import pandas as pd
 
-# 计算关键指标
-def calc_metrics(data):
-    returns = data['close'].pct_change().dropna()
-    
-    metrics = {
-        'annual_return': returns.mean() * 252,
-        'annual_vol': returns.std() * np.sqrt(252),
-        'sharpe': returns.mean() / returns.std() * np.sqrt(252),
-        'max_drawdown': (data['close'] / data['close'].cummax() - 1).min()
-    }
-    
-    return metrics
+price = df["close"]
+simple_ret = price.pct_change()              # 简单收益率
+log_ret = np.log(price / price.shift(1))     # 对数收益率
 ```
+
+$$
+R_t = \frac{P_t - P_{t-1}}{P_{t-1}}, \qquad r_t = \ln\frac{P_t}{P_{t-1}}
+$$
+
+| 维度 | 简单收益率 | 对数收益率 |
+|---|---|---|
+| 跨期可加 | 否 | **是**（$r_{0\to n}=\sum r_t$） |
+| 跨资产可加（组合） | **是** | 否 |
+| 适合场景 | 组合收益、绝对盈亏 | 时间序列建模、统计 |
+
+> [!tip] 经验
+> 算"一段时间累计涨了多少"用对数收益相加最方便；算"一个组合今天赚了多少"用简单收益按权重加权。两者在小幅波动时数值接近。
+
+## 二、累计净值与年化
+
+```python
+equity = (1 + simple_ret).cumprod()          # 累计净值（从1开始）
+n = simple_ret.count()
+ann_ret = equity.iloc[-1] ** (252 / n) - 1   # 几何年化
+```
+
+> [!warning] 别用算术平均年化
+> `simple_ret.mean() * 252` 是**算术年化**，会高估你实际拿到的复利收益。波动越大，高估越多（波动率拖累，见 [[资金管理与杠杆]]）。报告业绩用**几何年化**。
+
+## 三、风险：波动率、回撤、VaR
+
+```python
+ann_vol = simple_ret.std() * np.sqrt(252)                    # 年化波动率
+
+drawdown = equity / equity.cummax() - 1                      # 回撤序列
+max_dd = drawdown.min()                                      # 最大回撤
+
+var_95 = simple_ret.quantile(0.05)                           # 历史法 95% VaR（日）
+cvar_95 = simple_ret[simple_ret <= var_95].mean()            # 超过 VaR 后的平均亏损
+```
+
+| 风险指标 | 衡量什么 | 注意 |
+|---|---|---|
+| 年化波动率 | 收益的颠簸程度 | 把上行波动也算进去 |
+| 最大回撤 | 最痛的一段下跌 | 最贴近真实持有体验 |
+| VaR | 某置信水平下的亏损分位 | 不告诉你超过后多惨 |
+| CVaR | 超过 VaR 后的平均亏损 | 更关注尾部，见 [[evt-var-es]] |
+
+## 四、风险调整收益
+
+```python
+rf = 0.0          # 无风险利率（示例设 0）
+sharpe = (ann_ret - rf) / ann_vol
+
+downside = simple_ret[simple_ret < 0].std() * np.sqrt(252)
+sortino = (ann_ret - rf) / downside           # 只罚下行波动
+calmar = ann_ret / abs(max_dd)                # 单位回撤的收益
+```
+
+$$
+\text{Sharpe}=\frac{R_p-R_f}{\sigma_p},\quad
+\text{Sortino}=\frac{R_p-R_f}{\sigma_{down}},\quad
+\text{Calmar}=\frac{R_p}{|MDD|}
+$$
+
+指标的取舍与解读见 [[业绩评估与归因]] 与 [[夏普比率]]。
+
+## 五、相关性与协方差矩阵
+
+```python
+# rets: index=日期, columns=多只资产
+corr = rets.corr()                  # 相关系数矩阵
+cov = rets.cov() * 252              # 年化协方差矩阵
+```
+
+> [!important] 相关性会在危机时趋于 1
+> 历史相关系数低，不代表大跌时还低。组合分散的"免费午餐"在最需要时常常失灵，详见 [[相关性与协方差估计]]。
+
+## 六、组合收益与波动
+
+给定权重向量 $w$、资产协方差矩阵 $\Sigma$：
+
+$$
+R_p = w^\top \mu, \qquad \sigma_p = \sqrt{w^\top \Sigma\, w}
+$$
+
+```python
+w = np.array([0.4, 0.35, 0.25])               # 权重（示例）
+port_ret_series = (rets * w).sum(axis=1)      # 组合每日收益
+port_ann = port_ret_series.mean() * 252
+port_vol = np.sqrt(w @ (rets.cov() * 252) @ w)
+```
+
+组合权重怎么定、风险怎么分配，见 [[组合构建方法]] 与 [[马科维茨理论]]。
+
+## 七、把指标打包成函数库
+
+```python
+def perf_summary(ret: pd.Series, freq=252) -> dict:
+    ret = ret.dropna()
+    eq = (1 + ret).cumprod()
+    ann = eq.iloc[-1] ** (freq / len(ret)) - 1
+    vol = ret.std() * np.sqrt(freq)
+    dd = (eq / eq.cummax() - 1).min()
+    return {"年化": round(ann, 4), "波动": round(vol, 4),
+            "夏普": round(ann / vol, 2) if vol else np.nan,
+            "最大回撤": round(dd, 4),
+            "卡玛": round(ann / abs(dd), 2) if dd < 0 else np.nan}
+```
+
+## 常见误区
+
+| 误区 | 纠正 |
+|---|---|
+| 用算术平均年化报业绩 | 用几何年化，否则系统性高估 |
+| 简单/对数收益混用 | 组合用简单、时序统计用对数 |
+| 只看波动率衡量风险 | 还要看回撤、VaR/CVaR、尾部 |
+| 用历史相关性当未来 | 危机中相关性趋于 1 |
+| 年化用 365 天 | 交易日约 252，别用自然日 |
 
 ## 相关链接
 
 - [[Python量化入门]]
 - [[Python金融分析课程]]
 - [[量化投资完全指南]]
+- [[业绩评估与归因]]
+- [[风险管理框架]]
 - [[../目录|量化策略总览]]
