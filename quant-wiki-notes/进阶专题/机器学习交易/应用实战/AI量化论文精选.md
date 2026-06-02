@@ -1,0 +1,72 @@
+---
+topic: 机器学习交易
+parent: 机器学习交易
+tags: [papers, AI, research, 量化]
+created: 2026-06-02
+---
+
+# AI量化论文精选（41篇）
+
+> [!note] 来源
+> 选自[Quant Wiki 中文量化百科](https://quant-wiki.com/ai/2025-ai-paper/) 2025年度AI量化论文优选，覆盖深度学习、强化学习、LLM、时序预测等前沿方向。
+
+## 论文分类概览
+
+### 深度学习选股
+
+| 论文 | 核心方法 | 亮点 |
+|------|---------|------|
+| Deep Learning for Asset Pricing | CNN+时序特征 | 端到端Alpha模型 |
+| Neural Factor Models | 神经网络因子 | 替代线性因子 |
+
+### 时序预测
+
+| 论文 | 核心方法 | 亮点 |
+|------|---------|------|
+| Temporal Fusion Transformer | TFT架构 | 可解释时序预测 |
+| Informer | 稀疏注意力 | 长序列高效预测 |
+| PatchTST | Patch+Transformer | 通道独立建模 |
+
+### 强化学习交易
+
+| 论文 | 核心方法 | 亮点 |
+|------|---------|------|
+| FinRL | 标准化RL框架 | 开箱即用的交易RL |
+| DeepScalper | RL+微观结构 | 日内交易优化 |
+
+### LLM与NLP
+
+| 论文 | 核心方法 | 亮点 |
+|------|---------|------|
+| FinGPT | 金融LLM | 开源金融大模型 |
+| BloombergGPT | 金融专用LLM | 500亿参数 |
+| ChatGPT for Finance | LLM情绪分析 | Alpha信号生成 |
+
+### 另类数据
+
+| 论文 | 核心方法 | 亮点 |
+|------|---------|------|
+| News-Driven Trading | NLP+新闻 | 新闻事件驱动 |
+| Satellite Image | CNN+遥感 | 另类数据预测 |
+| Social Media Sentiment | Twitter/X分析 | 社交媒体情绪 |
+
+### 组合优化
+
+| 论文 | 核心方法 | 亮点 |
+|------|---------|------|
+| Deep Portfolio | AutoEncoder+组合 | 端到端组合 |
+| Risk Parity via RL | RL+风险平价 | 自适应风险配置 |
+
+## 重点推荐
+
+1. **TFT (Temporal Fusion Transformer)**：可解释的时间序列预测，适合金融场景
+2. **FinRL**：提供了完整的金融RL框架，包含回测和实盘接口
+3. **PatchTST**：将时间序列切割为Patch进行Transformer建模，SOTA表现
+4. **FinGPT**：开源金融大模型，可本地部署用于情感分析和报告摘要
+
+## 学习建议
+
+- 先读Survey类论文（3-5篇），建立领域认知
+- 选1-2个方向深入研究（如时序预测 + 选股）
+- 重点关注论文的**Code开源情况**，方便复现
+- 持续关注 arXiv q-fin 板块更新

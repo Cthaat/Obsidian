@@ -1,0 +1,70 @@
+---
+title: AKShare 概览
+tags: [AKShare, 财经数据, Python, 开源]
+created: 2026-06-02
+source: /opt/data/investment/kb/data-tools/akshare-docs/
+parent: "[[目录|量化工具]]"
+---
+
+# AKShare 概览
+
+> [!note] AKShare 简介
+> **AKShare** 是基于 Python 的财经数据接口库，目标是实现对股票、期货、期权、基金、外汇、债券、指数、加密货币等金融产品的基本面数据、实时和历史行情数据、衍生数据从数据采集、数据清洗到数据落地的一套工具，主要用于学术研究目的。
+
+## 项目信息
+
+| 属性 | 内容 |
+|------|------|
+| 项目名称 | AKShare |
+| 当前版本 | **v1.18.63** |
+| 开源协议 | MIT |
+| 作者 | Albert King |
+| 仓库地址 | [github.com/akfamily/akshare](https://github.com/akfamily/akshare) |
+| 文档地址 | [akshare.akfamily.xyz](https://akshare.akfamily.xyz) |
+| 关联项目 | [AKTools](https://github.com/akfamily/aktools) — HTTP API 版本 |
+| 文档来源 | 38 个文件，总计约 2.8 MB |
+
+## 核心特色
+
+1. **代码规范**：符合 [PEP8](https://peps.python.org/pep-0008/) 规范，数据接口命名统一
+2. **版本支持**：最佳支持 Python 3.12 及以上版本（最低 3.9）
+3. **文档完善**：每个数据接口均提供详细的说明和示例，复制粘贴即可下载数据
+4. **持续维护**：持续维护由于目标网页变化导致的数据接口异常
+5. **跨语言支持**：通过 AKTools 提供 HTTP API，方便非 Python 用户调用
+6. **数据权威**：获取相对权威的财经数据网站公布的原始数据，可进行交叉验证
+
+## 数据覆盖范围
+
+| 类别 | 接口数量 | 详情笔记 |
+|------|---------|---------|
+| 股票数据 | 大量 | [[AKShare-股票数据]] |
+| 基金数据 | 公募+私募 | [[AKShare-基金数据]] |
+| 期货数据 | 6大交易所 | [[AKShare-期货期权]] |
+| 期权数据 | 商品+股指+ETF | [[AKShare-期货期权]] |
+| 债券数据 | 中国外汇交易中心 | [[AKShare-债券外汇]] |
+| 外汇数据 | 实时+历史 | [[AKShare-债券外汇]] |
+| 指数数据 | A股+全球 | [[AKShare-宏观指数]] |
+| 宏观数据 | 杠杆率/经济/利率 | [[AKShare-宏观指数]] |
+| 现货/能源/货币 | 黄金/碳交易/加密 | [[AKShare-其他数据]] |
+
+## 风险提示
+
+> AKShare 开源财经数据接口库所采集的数据皆来自公开的数据源，不涉及任何个人隐私数据和非公开数据。提供的数据接口仅用于学术研究，任何个人、机构及团体使用时请注意商业风险。
+
+## 引用格式
+
+```bibtex
+@misc{akshare2022,
+    author = {Albert King},
+    title = {AKShare},
+    year = {2022},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/akfamily/akshare}},
+}
+```
+
+## 相关笔记
+- [[AKShare安装配置]]
+- [[AKShare-股票数据]]
+- [[AKShare-基金数据]]
