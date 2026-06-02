@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant-wiki-notes/入门教程/阶段四-组合管理与风控/目录.md",
+                "file": "quant-wiki-notes/进阶专题/因子投资/因子投资总览.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "目录"
+              "title": "因子投资总览"
             }
           }
         ]
@@ -184,6 +184,11 @@
   },
   "active": "f5322ccbf22c1607",
   "lastOpenFiles": [
+    "quant-wiki-notes/进阶专题/因子投资/一、因子基础/什么是因子.md",
+    "quant-wiki-notes/进阶专题/量化部署/交易平台/Awesome-QuantDev-Learn.md",
+    "quant-wiki-notes/进阶专题/量化部署/交易平台/量化交易员24小时工作流.md",
+    "quant-wiki-notes/进阶专题/量化部署/交易平台/目录.md",
+    "quant-wiki-notes/入门教程/阶段四-组合管理与风控/目录.md",
     "quant-wiki-notes/进阶专题/综合金融知识体系/投资政策书IPS与交易计划模板.md",
     "quant-wiki-notes/进阶专题/综合金融知识体系/投资理念与流派全景.md",
     "quant-wiki-notes/进阶专题/补充概念/龙虎榜分析.md.tmp.38300.a1ed4a298ee9",
@@ -215,11 +220,6 @@
     "quant-wiki-notes/进阶专题/综合金融知识体系/交易系统、执行与市场微观结构.md",
     "quant-wike-notes/进阶专题/K线形态/五、K线实战/假形态识别与应对.md",
     "quant-wiki-notes/入门教程/阶段四-组合管理与风控/风险预算与风险归因.md",
-    "quant-wiki-notes/入门教程/阶段四-组合管理与风控/动态风控与回撤管理.md",
-    "2026-06-01.md",
-    "quant-wiki-notes/入门教程/阶段四-组合管理与风控/目录.md",
-    "quant-wiki-notes/入门教程/交易策略/多空策略.md",
-    "quant-wiki-notes/量化前沿/目录.md",
     "pic/Pasted image 20240818171429.png",
     "pic/Pasted image 20240819001038.png",
     "pic/Pasted image 20240819000710.png",
