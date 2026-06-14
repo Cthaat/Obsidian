@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ba8313e6065fe34e",
+        "id": "e10e94504078e679",
         "type": "tabs",
         "children": [
           {
-            "id": "f5322ccbf22c1607",
+            "id": "d3c748662e984e4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant-wiki-notes/进阶专题/因子投资/因子投资总览.md",
+                "file": "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "因子投资总览"
+              "title": "03_高数第3讲_一元函数微分学的概念"
             }
           }
         ]
@@ -182,8 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5322ccbf22c1607",
+  "active": "d3c748662e984e4d",
   "lastOpenFiles": [
+    "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
+    "考研数学/27张宇基础30讲概率.pdf",
+    "quant-wiki-notes/进阶专题/因子投资/因子投资总览.md",
     "quant-wiki-notes/进阶专题/综合金融知识体系/危机情景、黑天鹅与反脆弱投资.md",
     "quant-wiki-notes/进阶专题/综合金融知识体系/投资研究报告写作与决策沟通.md",
     "quant-wiki-notes/进阶专题/综合金融知识体系/交易日志、复盘系统与错误库.md",
@@ -208,7 +211,6 @@
     "quant-wiki-notes/进阶专题/补充概念/股息率.md.tmp.38300.36c377045b52",
     "quant-wiki-notes/进阶专题/补充概念/Carhart四因子模型.md.tmp.38300.99ec4d0e0c92",
     "quant-wiki-notes/进阶专题/补充概念/ROE.md.tmp.38300.e48ada7e366c",
-    "quant-wiki-notes/进阶专题/补充概念/PS.md.tmp.38300.ed1823443358",
     "quant-wiki-notes/进阶专题/补充概念/程序化交易监管.md",
     "quant-wiki-notes/进阶专题/综合金融知识体系/金融数据、回测与模型治理.md",
     "quant-wiki-notes/进阶专题/综合金融知识体系/金融投资全知识地图.md",
@@ -218,8 +220,6 @@
     "quant-wiki-notes/进阶专题/综合金融知识体系/股票研究与估值全流程.md",
     "quant-wiki-notes/进阶专题/综合金融知识体系/组合构建、风险预算与再平衡.md",
     "quant-wiki-notes/进阶专题/综合金融知识体系/固定收益、利率与信用.md",
-    "quant-wiki-notes/进阶专题/综合金融知识体系/目录.md",
-    "quant-wiki-notes/进阶专题/综合金融知识体系/宏观周期与资产配置框架.md",
     "pic/Pasted image 20240818171429.png",
     "pic/Pasted image 20240819001038.png",
     "pic/Pasted image 20240819000710.png",
