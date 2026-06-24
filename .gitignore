@@ -1,0 +1,5 @@
+scripts/__pycache__/
+*.pyc
+.history/
+*.pdf
+scripts/
