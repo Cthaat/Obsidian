@@ -1,0 +1,738 @@
+===== PAGE 1 =====
+NATIVE:
+地址解析协议
+ARP
+本节内容
+王道考研/CSKAOYAN.COM
+OCR:
+本节内容
+地址解析协议
+ARP
+王道考研/CSKAOYAN.COM
+
+===== PAGE 2 =====
+NATIVE:
+王道考研/CSKAOYAN.COM
+各种协议之间的服务关系
+HTTP
+SMTP、POP3协议
+（电⼦邮件）
+FTP
+TCP协议
+UDP协议
+DNS
+DHCP
+传输层协议
+⽹络层协议
+IP
+应⽤层协议
+ICMP
+IGMP
+ARP
+数据链路层&
+物理层协议
+802.3
+(CSMA/CD)
+802.11
+(CSMA/CA)
+802.5
+(令牌传递协议)
+IP协议（Internet Protocol，网
+际协议）是互联网的核心！
+ARP协议用于查询同一网络中
+的<IP地址, MAC地址>之间的
+映射关系
+ICMP协议用于网络层实体之
+间相互通知“异常事件”
+IGMP协议用于实现IP组播
+⑭P
+↑
+-
+OCR:
+各种协议之间的服务关系
+SMTP、POP3协议
+应用层协议
+HTTP
+FTP
+DNS
+DHCP
+(电子邮件)
+IP协议（Internet Protocol，网
+传输层协议
+TCP协议
+UDP协议
+际协议）是互联网的核心！
+ARP协议用于查询同一网络中
+ARP分组
+ICMP
+IGMP
+的<IP地址,MAC地址>之间的
+网络层协议
+IP
+映射关系
+个
+分组
+ARP
+ICMP协议用于网络层实体之
+间相互通知“异常事件”
+数据链路层&
+802.3
+802.11
+802.5
+物理层协议
+(CSMA/CD)
+(CSMA/CA)
+（令牌传递协议）
+IGMP协议用于实现IP组播
+王道考研/CSKAOYAN.COM
+
+===== PAGE 3 =====
+NATIVE:
+王道考研/CSKAOYAN.COM
+地址解析协议 ARP
+à（Address Resolution Protocol）
+OCR:
+地址解析协议ARP
+→(Address Resolution Protocol)
+MAC地址（48bit），是网络适配器出厂时分配好的，全球唯一
+回顾
+一台主机至少有一个网络适配器（网线插口背后的芯片），因此主机至少有一个MAC地址
+一台路由器有多个转发接口，每个接口背后都是一个网络适配器，因此路由器有多个MAC地址
+作用一在一个局域网内部，可以通过ARP协议查询到一个IP地址对应的MAC地址
+地址解析协议
+ARP
+·记录（IP地址MAC地址）之间的映射关系
+ARP表（ARP缓存）
+一个数据结构（每台主机、每台路由器都有自己的ARP表）
+需要定期更新ARP表项
+ARP
+我是谁？一我的IP地址是X，我的MAC地址是Y
+内容
+我想找谁？一我想找的这个家伙，IP地址是Z
+①ARP请求分组
+ARP请求分组封装进MAC帧（帧目的地址=全1，源地址=Y)
+播帧
+过程
+你好，我就是你要找的那个靓仔，我的IP地址是
+内容
+Z，我的MAC地址是V
+②ARP响应分组
+ARP响应分组封装进MAC帧（帧目的地址=Y，源地址=V)
+单播帧
+王道考研/CSKAOYAN.COM
+
+===== PAGE 4 =====
+NATIVE:
+王道考研/CSKAOYAN.COM
+回顾：以太网MAC帧
+接收方MAC地
+址，48bit
+发送方MAC
+地址，48bit
+IP数据报是IPv4协议定
+义的数据结构(PDU)
+指明网络
+层协议
+记忆口诀：6 6 2 N 4，收发协数验
+46~1500
+目的地址全1表
+示“广播帧”
+类型=0x0800，表示MAC帧数据部分是IPv4的PDU
+OCR:
+回顾：以太网MAC帧
+46~1500
+记忆口诀：662N4，收发协数验
+目的地址全1表
+IP数据报是IPv4协议定
+指明网络
+示“广播帧”
+义的数据结构(PDU)
+层协议
+接收方MAC地
+发送方MAC
+址，48bit
+地址，48bit
+IP数据报
+IP层
+字节
+6
+2
+46~1500
+4
+目的地址
+源地址
+类型
+数
+据
+FCS
+MAC层
+类型=0x0800，表示MAC帧数据部分是IPv4的PDU
+王道考研/CSKAOYAN.COM
+
+===== PAGE 5 =====
+NATIVE:
+王道考研/CSKAOYAN.COM
+回顾：以太网MAC帧
+接收方MAC地
+址，48bit
+发送方MAC
+地址，48bit
+指明网络
+层协议
+记忆口诀：6 6 2 N 4，收发协数验
+46~1500
+目的地址全1表
+示“广播帧”
+ARP分组是ARP协议定
+义的数据结构(PDU)
+ARP分组
+类型=0x0806，表示MAC帧数据部分是ARP的PDU
+- 283-
+OCR:
+回顾：以太网MAC帧
+46~1500
+记忆口诀：662N4，收发协数验
+目的地址全1表
+ARP分组是ARP协议定
+指明网络
+示“广播帧”
+义的数据结构(PDU)
+层协议
+接收方MAC地
+发送方MAC
+g87
+址，48bit
+地址，48bit
+ARP分组
+IP层
+字节
+6
+6
+2
+46~1500
+4
+目的地址
+源地址
+类型
+据
+FCS
+MAC层
+类型=0x0806，表示MAC帧数据部分是ARP的PDU
+王道考研/CSKAOYAN.COM
+
+===== PAGE 6 =====
+NATIVE:
+王道考研/CSKAOYAN.COM
+某学校
+B1
+B3
+B2
+B0
+H1
+H2
+H3
+H4
+H5
+H6
+H3~H6 配置默认⽹关 = 166.1.128.1
+H1~H2 配置默认⽹关 = 166.1.0.5
+166.1.128.2/17
+AA:BB:CC:DD:EE:33
+166.1.177.3/17
+AA:BB:CC:DD:EE:44
+166.1.0.1/17
+AA:BB:CC:DD:EE:11
+166.1.4.2/17
+AA:BB:CC:DD:EE:22
+166.1.129.3/17
+AA:BB:CC:DD:EE:55
+166.1.150.1/17
+AA:BB:CC:DD:EE:66
+166.1.128.1/17
+AA:BB:CC:DD:EE:B2
+166.1.0.5/17
+AA:BB:CC:DD:EE:B3
+Internet
+其他⽹络
+MAC地址
+IP地址
+某学校路由器的ARP表
+MAC地址
+IP地址
+H6的ARP表
+MAC地址
+IP地址
+H3的ARP表
+训练⼀：假设 H3 想给 166.1.150.1 发送IP数据报，分析ARP⼯作过程
+训练⼆：基于上⼀个训练，假设有⼀个IP数据报从 Internet——>H3，分
+析ARP⼯作过程
+训练三：假设 H3 想给 166.1.150.1 发送IP数据报，分析ARP⼯作过程
+Internet
+·
+166,/112812
+... ... EES3
+↓
+-s
+-
+E
+OCR:
+Internet
+训练一：假设H3想给
++发送IP数据报，分析ARP工作过程
+训练二：基于上一个训练，假设有一个IP数据报从Internet—>H3，分
+Internet
+析ARP工作过程
+训练三：假设H3想给166.1.150.1发送IP数据报，分析ARP工作过程
+某学校路由器的ARP表
+B1
+其他网络
+IP地址
+MAC地址
+BO
+16611282
+....EE33
+某学校
+166.1.0.5/17B3
+B2
+166.1.128.1/17
+AA:BB:CC:DD:EE:B3
+AA:BB:CC:DD:EE:B2
+滑求
+H1
+H2
+H3
+H4
+H5
+H6
+二
+二
+166.1.0.1/17
+166.1.4.2/17
+166.1.128.2/17
+166.1.177.3/17
+166.1.129.3/17
+166.1.150.1/17
+AA:BB:CC:DD:EE:11AA:BB:CC:DD:EE:22
+AA:BB:CC:DD:EE:33
+AA:BB:CC:DD:EE:44
+AA:BB:CC:DD:EE:55
+AA:BB:CC:DD:EE:66
+H1~H2配置默认网关=166.1.0.5
+H3~H6配置默认网关=166.1.128.1
+H3的ARP表
+H6的ARP表
+MAC
+ARP分组(请求)
+AIP地址
+MAC地址
+IP地址
+MAC地址
+目的全1
+我是谁：166.11282)
+..E33
+源:33
+我找谁:166.1. 128.1
+王道考研/CSKAOYAN.COM
+
+===== PAGE 7 =====
+NATIVE:
+王道考研/CSKAOYAN.COM
+某学校
+B1
+B3
+B2
+B0
+H1
+H2
+H3
+H4
+H5
+H6
+H3~H6 配置默认⽹关 = 166.1.128.1
+H1~H2 配置默认⽹关 = 166.1.0.5
+166.1.128.2/17
+AA:BB:CC:DD:EE:33
+166.1.177.3/17
+AA:BB:CC:DD:EE:44
+166.1.0.1/17
+AA:BB:CC:DD:EE:11
+166.1.4.2/17
+AA:BB:CC:DD:EE:22
+166.1.129.3/17
+AA:BB:CC:DD:EE:55
+166.1.150.1/17
+AA:BB:CC:DD:EE:66
+166.1.128.1/17
+AA:BB:CC:DD:EE:B2
+166.1.0.5/17
+AA:BB:CC:DD:EE:B3
+Internet
+其他⽹络
+MAC地址
+IP地址
+某学校路由器的ARP表
+MAC地址
+IP地址
+H6的ARP表
+MAC地址
+IP地址
+H3的ARP表
+训练⼀：假设 H3 想给 166.1.150.1 发送IP数据报，分析ARP⼯作过程
+训练⼆：基于上⼀个训练，假设有⼀个IP数据报从 Internet——>H3，分
+析ARP⼯作过程
+训练三：假设 H3 想给 166.1.150.1 发送IP数据报，分析ARP⼯作过程
+Internet
+·
+166,/112812
+... ... EES3 DDE
+: BE
+↓
+↓
+166- 1 . 12811
+...
+..
+B2
+OCR:
+Internet
+训练一：假设H3想给
+发送IP数据报，分析ARP工作过程
+训练二：基于上一个训练，假设有一个IP数据报从Internet—>H3，分
+Internet
+析ARP工作过程
+训练三：假设H3想给166.1.150.1发送IP数据报，分析ARP工作过程
+某学校路由器的ARP表
+B1
+其他网络
+IP地址
+MAC地址
+BO
+...E33
+ARP分组(口向应)
+16611282
+某学校
+目的:33
+166.1.0.5/17
+B2
+166.1.128.1/17
+166 .1-128,I: AABBCC DDEEB2
+AA:BB:CC:DD:EE:B3
+AA:BB:CC:DD:EE:B
+源:B2
+H1
+H2
+H3
+H4
+H5
+H6
+166.1.0.1/17
+166.1.4.2/17
+166.1.128.2/17
+166.1.177.3/17
+166.1.129.3/17
+166.1.150.1/17
+AA:BB:CC:DD:EE:11AA:BB:CC:DD:EE:22
+AA:BB:CC:DD:EE:33
+AA:BB:CC:DD:EE:44
+AA:BB:CC:DD:EE:55
+AA:BB:CC:DD:EE:66
+H1~H2配置默认网关=166.1.0.5
+H3~H6配置默认网关=166.1.128.1
+H3的ARP表
+H6的ARP表
+IP地址
+MAC地址
+IP地址
+MAC地址
+166.1, 1281
+.....B2
+王道考研/CSKAOYAN.COM
+
+===== PAGE 8 =====
+NATIVE:
+王道考研/CSKAOYAN.COM
+某学校
+B1
+B3
+B2
+B0
+H1
+H2
+H3
+H4
+H5
+H6
+H3~H6 配置默认⽹关 = 166.1.128.1
+H1~H2 配置默认⽹关 = 166.1.0.5
+166.1.128.2/17
+AA:BB:CC:DD:EE:33
+166.1.177.3/17
+AA:BB:CC:DD:EE:44
+166.1.0.1/17
+AA:BB:CC:DD:EE:11
+166.1.4.2/17
+AA:BB:CC:DD:EE:22
+166.1.129.3/17
+AA:BB:CC:DD:EE:55
+166.1.150.1/17
+AA:BB:CC:DD:EE:66
+166.1.128.1/17
+AA:BB:CC:DD:EE:B2
+166.1.0.5/17
+AA:BB:CC:DD:EE:B3
+Internet
+其他⽹络
+MAC地址
+IP地址
+某学校路由器的ARP表
+MAC地址
+IP地址
+H6的ARP表
+MAC地址
+IP地址
+H3的ARP表
+训练⼀：假设 H3 想给 166.1.150.1 发送IP数据报，分析ARP⼯作过程
+训练⼆：基于上⼀个训练，假设有⼀个IP数据报从 Internet——>H3，分
+析ARP⼯作过程
+训练三：假设 H3 想给 166.1.150.1 发送IP数据报，分析ARP⼯作过程
+Internet
+·
+166,/112812
+... ... EES3
+⑫
+. 1 .128.
+166- 1 . 12811
+...
+..
+B2
+OCR:
+Internet
+训练一：假设H3想给
+*发送IP数据报，分析ARP工作过程
+训练二：基于上一个训练，假设有一个IP数据报从Internet—>H3，分
+Internet
+析ARP工作过程
+训练三：假设H3想给166.1.150.1发送IP数据报，分析ARP工作过程
+某学校路由器的ARP表
+B1
+其他网络
+IP地址
+MAC地址
+BO
+16611282
+...EE33
+MACT
+IP数据报
+某学校
+166.1.0.5/17 B3
+目的:3
+B2
+166.1.128.1/17
+目的P: 166 1128:2
+AA:BB:CC:DD:EE:B3
+AA:BB:CC:DD:EE:B2
+源：03
+H1
+H2
+H3
+H4
+H5
+H6
+二
+166.1.0.1/17
+166.1.4.2/17
+166.1.128.2/17
+166.1.177.3/17
+166.1.129.3/17
+166.1.150.1/17
+AA:BB:CC:DD:EE:11AA:BB:CC:DD:EE:22
+AA:BB:CC:DD:EE:33
+AA:BB:CC:DD:EE:44
+AA:BB:CC:DD:EE:55
+AA:BB:CC:DD:EE:66
+H1~H2配置默认网关=166.1.0.5
+H3~H6配置默认网关=166.1.128.1
+H3的ARP表
+H6的ARP表
+IP地址
+MAC地址
+IP地址
+MAC地址
+166.1, 1281
+.....B2
+王道考研/CSKAOYAN.COM
+
+===== PAGE 9 =====
+NATIVE:
+王道考研/CSKAOYAN.COM
+某学校
+B1
+B3
+B2
+B0
+H1
+H2
+H3
+H4
+H5
+H6
+H3~H6 配置默认⽹关 = 166.1.128.1
+H1~H2 配置默认⽹关 = 166.1.0.5
+166.1.128.2/17
+AA:BB:CC:DD:EE:33
+166.1.177.3/17
+AA:BB:CC:DD:EE:44
+166.1.0.1/17
+AA:BB:CC:DD:EE:11
+166.1.4.2/17
+AA:BB:CC:DD:EE:22
+166.1.129.3/17
+AA:BB:CC:DD:EE:55
+166.1.150.1/17
+AA:BB:CC:DD:EE:66
+166.1.128.1/17
+AA:BB:CC:DD:EE:B2
+166.1.0.5/17
+AA:BB:CC:DD:EE:B3
+Internet
+其他⽹络
+MAC地址
+IP地址
+某学校路由器的ARP表
+MAC地址
+IP地址
+H6的ARP表
+MAC地址
+IP地址
+H3的ARP表
+训练⼀：假设 H3 想给 166.1.150.1 发送IP数据报，分析ARP⼯作过程
+训练⼆：基于上⼀个训练，假设有⼀个IP数据报从 Internet——>H3，分
+析ARP⼯作过程
+训练三：假设 H3 想给 166.1.150.1 发送IP数据报，分析ARP⼯作过程
+Internet
+·
+166,/112812
+... ... EES3
+N⑭
+166- 1 . 12811
+...
+..
+B2
+OCR:
+Internet
+训练一：假设H3想给
+发送IP数据报，分析ARP工作过程
+训练二：基于上一个训练，假设有一个IP数据报从Internet—>H3，分
+Internet
+析ARP工作过程
+训练三：假设H3想给166.1.150.1发送IP数据报，分析ARP工作过程
+某学校路由器的ARP表
+B1
+其他网络
+IP地址
+MAC地址
+BO
+16611282
+...E33
+某学校
+166.1.0.5/17 B3
+B2
+166.1.128.1/17
+AA:BB:CC:DD:EE:B3
+AA:BB:CC:DD:EE:B2
+ARP请时
+ARP响应单播
+H1
+H2
+H3
+H4
+H5
+H6
+二
+166.1.0.1/17
+166.1.4.2/17
+166.1.128.2/17
+166.1.177.3/17
+166.1.129.3/17
+166.1.150.1/17
+AA:BB:CC:DD:EE:11AA:BB:CC:DD:EE:22
+AA:BB:CC:DD:EE:33
+AA:BB:CC:DD:EE:44
+AA:BB:CC:DD:EE:55
+AA:BB:CC:DD:EE:66
+H1~H2配置默认网关=166.1.0.5
+H3~H6配置默认网关=166.1.128.1
+H3的ARP表
+H6的ARP表
+IP地址
+MAC地址
+IP地址
+MAC地址
+166.1, 1281
+.....B2
+王道考研/CSKAOYAN.COM
+
+===== PAGE 10 =====
+NATIVE:
+王道考研/CSKAOYAN.COM
+拓展：ARP分组的格式（不会考这么深）
+寻找一方的MAC
+地址，48bit
+1 ARP请求分组
+2 ARP回复分组
+寻找一方的IP地
+址，32bit
+被寻找一方的
+MAC地址，48bit
+被寻找一方的IP
+地址，32bit
+⑳
+OCR:
+拓展：ARP分组的格式（不会考这么深）
+InternetProtocol(IPv4)overEthernetARPpacket
+Octet
+0
+offset
+0
+Hardware type (HTYPE)
+2
+Protocol type (PTYPE)
+Hardware address length
+Protocol addresslength
+4
+1 ARP请求分组
+(HLEN)
+(PLEN)
+2 ARP回复分组
+6
+Operation (OPER)
+放松！放松！
+8
+Senderhardware address(SHA)(first2bytes)
+寻找一方的MAC
+10
+(next 2bytes)
+地址，48bit
+12
+(last 2bytes)
+14
+Sender protocoladdress(SPA)(first2bytes)
+寻找一方的IP地
+址，32bit
+16
+(last 2 bytes)
+18
+Targethardware address(THA)(first2bytes)
+被寻找一方的
+20
+(next 2bytes)
+MAC地址，48bit
+22
+(last 2bytes)
+24
+Target protocol address(TPA)(first 2bytes)
+被寻找一方的IP
+28B
+26
+(last 2bytes)
+地址，32bit
+王道考研/CSKAOYAN.COM
