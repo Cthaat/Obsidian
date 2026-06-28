@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/408考研笔记/计算机网络/01-计算机网络体系结构.md",
+                "file": "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01-计算机网络体系结构"
+              "title": "13_高数第13讲_多元函数微分学"
             }
           }
         ]
@@ -184,27 +184,30 @@
   },
   "active": "44ef5d20f0c101fe",
   "lastOpenFiles": [
-    "tmp/pdfs/codex_408_net2/教材_p61.txt",
-    "tmp/pdfs/codex_408_net2/教材_p60.txt",
-    "tmp/pdfs/codex_408_net2/教材_p59.txt",
-    "tmp/pdfs/codex_408_net2/教材_p58.txt",
-    "tmp/pdfs/codex_408_net2/教材_p57.txt",
-    "tmp/pdfs/codex_408_net2/教材_p56.txt",
-    "tmp/pdfs/codex_408_net2/教材_p55.txt",
-    "tmp/pdfs/codex_408_net2/教材_p54.txt",
-    "tmp/pdfs/codex_408_net2/教材_ch2_contact_2.jpg",
-    "tmp/pdfs/codex_408_net2/教材_ch2_contact_1.jpg",
-    "tmp/pdfs/codex_408_net2/教材_p42-p61.txt",
-    "tmp/pdfs/codex_408_net2/教材_p53.txt",
-    "tmp/pdfs/codex_408_net2/教材_p61.jpg",
-    "tmp/pdfs/codex_408_net2/教材_p52.txt",
-    "tmp/pdfs/codex_408_net2/教材_p60.jpg",
-    "tmp/pdfs/codex_408_net2/教材_p59.jpg",
-    "tmp/pdfs/codex_408_net2/教材_p58.jpg",
-    "tmp/pdfs/codex_408_net2/教材_p57.jpg",
-    "tmp/pdfs/codex_408_net2/教材_p56.jpg",
-    "tmp/pdfs/codex_408_net2/教材_p55.jpg",
-    "tmp/pdfs/codex_408_net2/教材_p54.jpg",
+    "tmp/pdfs/codex_408_net3/3.7 广域网_OCR.txt",
+    "tmp/pdfs/codex_408_net3/教材_ch3_contact_8.jpg",
+    "tmp/pdfs/codex_408_net3/教材_ch3_contact_7.jpg",
+    "tmp/pdfs/codex_408_net3/教材_ch3_contact_6.jpg",
+    "tmp/pdfs/codex_408_net3/教材_ch3_contact_5.jpg",
+    "tmp/pdfs/codex_408_net3/教材_ch3_contact_4.jpg",
+    "tmp/pdfs/codex_408_net3/教材_ch3_contact_3.jpg",
+    "tmp/pdfs/codex_408_net3/教材_ch3_contact_2.jpg",
+    "tmp/pdfs/codex_408_net3/教材_ch3_contact_1.jpg",
+    "tmp/pdfs/codex_408_net3/教材_p138.jpg",
+    "tmp/pdfs/codex_408_net3/教材_p137.jpg",
+    "tmp/pdfs/codex_408_net3/P1强化手稿.txt",
+    "tmp/pdfs/codex_408_net3/计算机网络强化结课考试.txt",
+    "tmp/pdfs/codex_408_net3/计网P1_Ch1~Ch3强化【无手稿，题号映射】.txt",
+    "tmp/pdfs/codex_408_net3/计网期末试卷及答案解析（学员版）.txt",
+    "tmp/pdfs/codex_408_net3/计网期中试卷及答案解析（学员版）.txt",
+    "tmp/pdfs/codex_408_net3/3.8 以太网交换机.txt",
+    "tmp/pdfs/codex_408_net3/3.7 广域网.txt",
+    "tmp/pdfs/codex_408_net3/3.6.4 VLAN的基本概念与基本原理.txt",
+    "tmp/pdfs/codex_408_net3/3.6.3 IEEE 802.11 无线局域网.txt",
+    "tmp/pdfs/codex_408_net3/3.6.2 以太网与IEEE 802.3.txt",
+    "考研数学/张宇基础30讲笔记/20_线代第2讲_矩阵.md",
+    "考研数学/张宇基础30讲笔记/11_高数第11讲_一元函数积分学的应用二.md",
+    "408/408考研笔记/计算机网络/01-计算机网络体系结构.md",
     "考研数学/张宇基础30讲笔记/05_高数第5讲_一元函数微分学的应用一_几何应用.md",
     "考研数学/张宇基础30讲笔记/04_高数第4讲_一元函数微分学的计算.md",
     "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
@@ -216,7 +219,6 @@
     "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
     "考研数学/张宇基础30讲笔记/12_高数第12讲_一元函数积分学的应用三.md",
     "考研数学/张宇基础30讲笔记/10_高数第10讲_一元函数积分学的应用一_几何应用.md",
-    "考研数学/张宇基础30讲笔记/11_高数第11讲_一元函数积分学的应用二.md",
     "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
     "考研数学/张宇基础30讲笔记/00_整理校验清单.md",
     "考研数学/张宇基础30讲笔记/00_知识链路图.md",
@@ -227,8 +229,6 @@
     "408/408考研笔记/计算机网络/06-应用层.md",
     "408/408考研笔记/计算机网络/05-传输层.md",
     "408/408考研笔记/计算机网络/04-网络层.md",
-    "408/408考研笔记/计算机网络/03-数据链路层.md",
-    "408/408考研笔记/计算机网络/02-物理层.md",
-    "408/408考研笔记/计算机网络/01-计算机网络体系结构.md"
+    "408/408考研笔记/计算机网络/03-数据链路层.md"
   ]
 }
