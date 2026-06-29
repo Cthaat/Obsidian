@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/408考研笔记/计算机网络/02-物理层.md",
+                "file": "考研数学/张宇基础30讲笔记/14_高数第14讲_二重积分.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "02-物理层"
+              "title": "14_高数第14讲_二重积分"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quant-wiki-notes/basic/finance/保证金_Margin.md",
+                "file": "考研数学/张宇基础30讲笔记/14_高数第14讲_二重积分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "保证金_Margin 的大纲"
+              "title": "14_高数第14讲_二重积分 的大纲"
             }
           },
           {
@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +183,11 @@
   },
   "active": "44ef5d20f0c101fe",
   "lastOpenFiles": [
-    "408/408考研笔记/计算机网络/01-计算机网络体系结构.md",
+    "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md",
     "408/408考研笔记/计算机网络/02-物理层.md",
+    "408/408考研笔记/计算机网络/01-计算机网络体系结构.md",
     "408/408考研笔记/计算机网络/03-数据链路层.md",
     "考研数学/张宇基础30讲笔记/14_高数第14讲_二重积分.md",
-    "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md",
     "考研数学/张宇基础30讲笔记/16_高数第16讲_无穷级数.md",
     "考研数学/张宇基础30讲笔记/18_高数第18讲_多元函数积分学.md",
     "考研数学/张宇基础30讲笔记/17_高数第17讲_多元函数积分学的预备知识.md",
