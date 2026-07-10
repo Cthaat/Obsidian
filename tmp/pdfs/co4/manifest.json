@@ -1,0 +1,358 @@
+{
+  "summary": {
+    "groups": 20,
+    "pages": 357,
+    "ocr_pages": 213,
+    "contacts": 66,
+    "phases": {
+      "textbook": {
+        "groups": 1,
+        "pages": 47,
+        "ocr": 47,
+        "contacts": 8
+      },
+      "base": {
+        "groups": 13,
+        "pages": 200,
+        "ocr": 56,
+        "contacts": 38
+      },
+      "stage": {
+        "groups": 2,
+        "pages": 38,
+        "ocr": 38,
+        "contacts": 7
+      },
+      "reinforce": {
+        "groups": 4,
+        "pages": 72,
+        "ocr": 72,
+        "contacts": 13
+      }
+    }
+  },
+  "sources": [
+    {
+      "phase": "textbook",
+      "name": "27王道《计算机组成原理》高清带书签.pdf",
+      "path": "408\\27王道《计算机组成原理》高清带书签.pdf",
+      "selected_pages": 47,
+      "document_pages": 340,
+      "low_text_pages": 47,
+      "ocr_pages": 47,
+      "text_file": "text\\00_27王道_计算机组成原理_高清带书签.txt",
+      "contacts": [
+        "contacts\\00_27王道_计算机组成原理_高清带书签_01.png",
+        "contacts\\00_27王道_计算机组成原理_高清带书签_02.png",
+        "contacts\\00_27王道_计算机组成原理_高清带书签_03.png",
+        "contacts\\00_27王道_计算机组成原理_高清带书签_04.png",
+        "contacts\\00_27王道_计算机组成原理_高清带书签_05.png",
+        "contacts\\00_27王道_计算机组成原理_高清带书签_06.png",
+        "contacts\\00_27王道_计算机组成原理_高清带书签_07.png",
+        "contacts\\00_27王道_计算机组成原理_高清带书签_08.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.1.1+2+3  指令的基本格式.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.1.1+2+3  指令的基本格式.pdf",
+      "selected_pages": 22,
+      "document_pages": 22,
+      "low_text_pages": 6,
+      "ocr_pages": 6,
+      "text_file": "text\\01_4_1_1_2_3_指令的基本格式.txt",
+      "contacts": [
+        "contacts\\01_4_1_1_2_3_指令的基本格式_01.png",
+        "contacts\\01_4_1_1_2_3_指令的基本格式_02.png",
+        "contacts\\01_4_1_1_2_3_指令的基本格式_03.png",
+        "contacts\\01_4_1_1_2_3_指令的基本格式_04.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.1.4 扩展操作码指令格式.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.1.4 扩展操作码指令格式.pdf",
+      "selected_pages": 7,
+      "document_pages": 7,
+      "low_text_pages": 2,
+      "ocr_pages": 2,
+      "text_file": "text\\02_4_1_4_扩展操作码指令格式.txt",
+      "contacts": [
+        "contacts\\02_4_1_4_扩展操作码指令格式_01.png",
+        "contacts\\02_4_1_4_扩展操作码指令格式_02.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.2.1 指令寻址.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.2.1 指令寻址.pdf",
+      "selected_pages": 20,
+      "document_pages": 20,
+      "low_text_pages": 5,
+      "ocr_pages": 5,
+      "text_file": "text\\03_4_2_1_指令寻址.txt",
+      "contacts": [
+        "contacts\\03_4_2_1_指令寻址_01.png",
+        "contacts\\03_4_2_1_指令寻址_02.png",
+        "contacts\\03_4_2_1_指令寻址_03.png",
+        "contacts\\03_4_2_1_指令寻址_04.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.2.2_1 数据寻址1.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.2.2_1 数据寻址1.pdf",
+      "selected_pages": 14,
+      "document_pages": 14,
+      "low_text_pages": 4,
+      "ocr_pages": 4,
+      "text_file": "text\\04_4_2_2_1_数据寻址1.txt",
+      "contacts": [
+        "contacts\\04_4_2_2_1_数据寻址1_01.png",
+        "contacts\\04_4_2_2_1_数据寻址1_02.png",
+        "contacts\\04_4_2_2_1_数据寻址1_03.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.2.2_2 数据寻址2_偏移寻址.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.2.2_2 数据寻址2_偏移寻址.pdf",
+      "selected_pages": 21,
+      "document_pages": 21,
+      "low_text_pages": 2,
+      "ocr_pages": 2,
+      "text_file": "text\\05_4_2_2_2_数据寻址2_偏移寻址.txt",
+      "contacts": [
+        "contacts\\05_4_2_2_2_数据寻址2_偏移寻址_01.png",
+        "contacts\\05_4_2_2_2_数据寻址2_偏移寻址_02.png",
+        "contacts\\05_4_2_2_2_数据寻址2_偏移寻址_03.png",
+        "contacts\\05_4_2_2_2_数据寻址2_偏移寻址_04.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.2.2_3 数据寻址3_堆栈寻址.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.2.2_3 数据寻址3_堆栈寻址.pdf",
+      "selected_pages": 10,
+      "document_pages": 10,
+      "low_text_pages": 3,
+      "ocr_pages": 3,
+      "text_file": "text\\06_4_2_2_3_数据寻址3_堆栈寻址.txt",
+      "contacts": [
+        "contacts\\06_4_2_2_3_数据寻址3_堆栈寻址_01.png",
+        "contacts\\06_4_2_2_3_数据寻址3_堆栈寻址_02.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.3.1_1 高级语言与机器级代码之间的对应.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.3.1_1 高级语言与机器级代码之间的对应.pdf",
+      "selected_pages": 12,
+      "document_pages": 12,
+      "low_text_pages": 4,
+      "ocr_pages": 4,
+      "text_file": "text\\07_4_3_1_1_高级语言与机器级代码之间的对应.txt",
+      "contacts": [
+        "contacts\\07_4_3_1_1_高级语言与机器级代码之间的对应_01.png",
+        "contacts\\07_4_3_1_1_高级语言与机器级代码之间的对应_02.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.3.1_2 常用的x86汇编指令.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.3.1_2 常用的x86汇编指令.pdf",
+      "selected_pages": 7,
+      "document_pages": 7,
+      "low_text_pages": 4,
+      "ocr_pages": 4,
+      "text_file": "text\\08_4_3_1_2_常用的x86汇编指令.txt",
+      "contacts": [
+        "contacts\\08_4_3_1_2_常用的x86汇编指令_01.png",
+        "contacts\\08_4_3_1_2_常用的x86汇编指令_02.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.3.1_3 AT&T格式和Intel格式.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.3.1_3 AT&T格式和Intel格式.pdf",
+      "selected_pages": 5,
+      "document_pages": 5,
+      "low_text_pages": 3,
+      "ocr_pages": 3,
+      "text_file": "text\\09_4_3_1_3_AT_T格式和Intel格式.txt",
+      "contacts": [
+        "contacts\\09_4_3_1_3_AT_T格式和Intel格式_01.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.3.2 选择语句的机器级表示.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.3.2 选择语句的机器级表示.pdf",
+      "selected_pages": 11,
+      "document_pages": 11,
+      "low_text_pages": 9,
+      "ocr_pages": 9,
+      "text_file": "text\\10_4_3_2_选择语句的机器级表示.txt",
+      "contacts": [
+        "contacts\\10_4_3_2_选择语句的机器级表示_01.png",
+        "contacts\\10_4_3_2_选择语句的机器级表示_02.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.3.3 循环语句的机器级表示.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.3.3 循环语句的机器级表示.pdf",
+      "selected_pages": 5,
+      "document_pages": 5,
+      "low_text_pages": 4,
+      "ocr_pages": 4,
+      "text_file": "text\\11_4_3_3_循环语句的机器级表示.txt",
+      "contacts": [
+        "contacts\\11_4_3_3_循环语句的机器级表示_01.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.3.4 函数调用的机器级表示.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.3.4 函数调用的机器级表示.pdf",
+      "selected_pages": 60,
+      "document_pages": 60,
+      "low_text_pages": 7,
+      "ocr_pages": 7,
+      "text_file": "text\\12_4_3_4_函数调用的机器级表示.txt",
+      "contacts": [
+        "contacts\\12_4_3_4_函数调用的机器级表示_01.png",
+        "contacts\\12_4_3_4_函数调用的机器级表示_02.png",
+        "contacts\\12_4_3_4_函数调用的机器级表示_03.png",
+        "contacts\\12_4_3_4_函数调用的机器级表示_04.png",
+        "contacts\\12_4_3_4_函数调用的机器级表示_05.png",
+        "contacts\\12_4_3_4_函数调用的机器级表示_06.png",
+        "contacts\\12_4_3_4_函数调用的机器级表示_07.png",
+        "contacts\\12_4_3_4_函数调用的机器级表示_08.png",
+        "contacts\\12_4_3_4_函数调用的机器级表示_09.png",
+        "contacts\\12_4_3_4_函数调用的机器级表示_10.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "base",
+      "name": "4.4 CISC和RISC.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\第四章 指令系统\\4.4 CISC和RISC.pdf",
+      "selected_pages": 6,
+      "document_pages": 6,
+      "low_text_pages": 3,
+      "ocr_pages": 3,
+      "text_file": "text\\13_4_4_CISC和RISC.txt",
+      "contacts": [
+        "contacts\\13_4_4_CISC和RISC_01.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "stage",
+      "name": "计算机组成原理期中试卷及答案解析（学员版）.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\计算机组成原理期中试卷及答案解析（学员版）.pdf",
+      "selected_pages": 15,
+      "document_pages": 15,
+      "low_text_pages": 0,
+      "ocr_pages": 15,
+      "text_file": "text\\14_计算机组成原理期中试卷及答案解析_学员版.txt",
+      "contacts": [
+        "contacts\\14_计算机组成原理期中试卷及答案解析_学员版_01.png",
+        "contacts\\14_计算机组成原理期中试卷及答案解析_学员版_02.png",
+        "contacts\\14_计算机组成原理期中试卷及答案解析_学员版_03.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "stage",
+      "name": "计算机组成原理期末试卷及答案解析（学员版）.pdf",
+      "path": "408\\计算机组成原理基础考点讲解\\计算机组成原理期末试卷及答案解析（学员版）.pdf",
+      "selected_pages": 23,
+      "document_pages": 23,
+      "low_text_pages": 0,
+      "ocr_pages": 23,
+      "text_file": "text\\15_计算机组成原理期末试卷及答案解析_学员版.txt",
+      "contacts": [
+        "contacts\\15_计算机组成原理期末试卷及答案解析_学员版_01.png",
+        "contacts\\15_计算机组成原理期末试卷及答案解析_学员版_02.png",
+        "contacts\\15_计算机组成原理期末试卷及答案解析_学员版_03.png",
+        "contacts\\15_计算机组成原理期末试卷及答案解析_学员版_04.png"
+      ],
+      "reused": true
+    },
+    {
+      "phase": "reinforce",
+      "name": "计组P4_一堆指令的执行.pdf",
+      "path": "408\\组成原理强化\\课件\\计组P4_一堆指令的执行.pdf",
+      "selected_pages": 18,
+      "document_pages": 18,
+      "low_text_pages": 17,
+      "ocr_pages": 18,
+      "text_file": "text\\16_计组P4_一堆指令的执行.txt",
+      "contacts": [
+        "contacts\\16_计组P4_一堆指令的执行_01.png",
+        "contacts\\16_计组P4_一堆指令的执行_02.png",
+        "contacts\\16_计组P4_一堆指令的执行_03.png"
+      ]
+    },
+    {
+      "phase": "reinforce",
+      "name": "计组P5_一条指令的执行.pdf",
+      "path": "408\\组成原理强化\\课件\\计组P5_一条指令的执行.pdf",
+      "selected_pages": 22,
+      "document_pages": 22,
+      "low_text_pages": 17,
+      "ocr_pages": 22,
+      "text_file": "text\\17_计组P5_一条指令的执行.txt",
+      "contacts": [
+        "contacts\\17_计组P5_一条指令的执行_01.png",
+        "contacts\\17_计组P5_一条指令的执行_02.png",
+        "contacts\\17_计组P5_一条指令的执行_03.png",
+        "contacts\\17_计组P5_一条指令的执行_04.png"
+      ]
+    },
+    {
+      "phase": "reinforce",
+      "name": "【录播】五段式指令流水线题型总结.pdf",
+      "path": "408\\组成原理强化\\【录播】五段式指令流水线题型总结.pdf",
+      "selected_pages": 22,
+      "document_pages": 22,
+      "low_text_pages": 10,
+      "ocr_pages": 22,
+      "text_file": "text\\18_录播_五段式指令流水线题型总结.txt",
+      "contacts": [
+        "contacts\\18_录播_五段式指令流水线题型总结_01.png",
+        "contacts\\18_录播_五段式指令流水线题型总结_02.png",
+        "contacts\\18_录播_五段式指令流水线题型总结_03.png",
+        "contacts\\18_录播_五段式指令流水线题型总结_04.png"
+      ]
+    },
+    {
+      "phase": "reinforce",
+      "name": "计组强化课考试_试题+答案.pdf",
+      "path": "408\\组成原理强化\\计组强化课考试_试题+答案.pdf",
+      "selected_pages": 10,
+      "document_pages": 10,
+      "low_text_pages": 1,
+      "ocr_pages": 10,
+      "text_file": "text\\19_计组强化课考试_试题_答案.txt",
+      "contacts": [
+        "contacts\\19_计组强化课考试_试题_答案_01.png",
+        "contacts\\19_计组强化课考试_试题_答案_02.png"
+      ]
+    }
+  ]
+}
