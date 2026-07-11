@@ -12,7 +12,7 @@ from rapidocr_onnxruntime import RapidOCR
 
 ROOT = Path(r"C:\Code\Obsidian")
 SOURCE_ROOT = ROOT / "408"
-OUT = ROOT / "tmp" / "pdfs" / "co5"
+OUT = ROOT / "tmp" / "pdfs" / "co7"
 TEXT_DIR = OUT / "text"
 CONTACT_DIR = OUT / "contacts"
 
@@ -52,8 +52,7 @@ def make_contacts(doc: fitz.Document, pages: list[int], slug: str, display_name:
             x = (slot % 2) * cell_w
             y = (slot // 2) * (cell_h + header_h)
             draw.rectangle((x, y, x + cell_w - 1, y + header_h - 1), fill="white")
-            label = f"{display_name} | PDF p{page_index + 1}"
-            draw.text((x + 10, y + 12), label, fill="black", font=font)
+            draw.text((x + 10, y + 12), f"{display_name} | PDF p{page_index + 1}", fill="black", font=font)
             sheet.paste(image, (x + (cell_w - image.width) // 2, y + header_h + 5))
         path = CONTACT_DIR / f"{slug}_{sheet_index:02d}.png"
         sheet.save(path, optimize=True)
@@ -63,12 +62,12 @@ def make_contacts(doc: fitz.Document, pages: list[int], slug: str, display_name:
 
 def build_sources() -> list[dict]:
     textbook = SOURCE_ROOT / "27王道《计算机组成原理》高清带书签.pdf"
-    chapter_dir = SOURCE_ROOT / "计算机组成原理基础考点讲解" / "第五章 中央处理器"
+    chapter_dir = SOURCE_ROOT / "计算机组成原理基础考点讲解" / "第七章 输入输出系统"
     sources: list[dict] = [
         {
             "phase": "textbook",
             "path": textbook,
-            "pages": list(range(206, 285)),
+            "pages": list(range(302, 339)),
             "force_ocr": True,
         }
     ]
@@ -82,9 +81,8 @@ def build_sources() -> list[dict]:
         sources.append({"phase": "stage", "path": stage_dir / name, "pages": None, "force_ocr": True})
     reinforce = SOURCE_ROOT / "组成原理强化"
     for path in (
-        reinforce / "课件" / "计组P4_一堆指令的执行.pdf",
+        reinforce / "课件" / "计组P1_大题备考策略、IO大题1.pdf",
         reinforce / "课件" / "计组P5_一条指令的执行.pdf",
-        reinforce / "【录播】五段式指令流水线题型总结.pdf",
         reinforce / "计组强化课考试_试题+答案.pdf",
     ):
         sources.append({"phase": "reinforce", "path": path, "pages": None, "force_ocr": True})
@@ -106,23 +104,6 @@ def main() -> None:
         pages = source["pages"] or list(range(doc.page_count))
         slug = f"{source_index:02d}_{safe_slug(path.stem)}"
         text_path = TEXT_DIR / f"{slug}.txt"
-        expected_contacts = math.ceil(len(pages) / 6)
-        existing_contacts = sorted(CONTACT_DIR.glob(f"{slug}_*.png"))
-        low_text_count = sum(len(doc[page_index].get_text("text").strip()) < 120 for page_index in pages)
-        planned_ocr_count = len(pages) if source["force_ocr"] else low_text_count
-        if text_path.exists() and len(existing_contacts) == expected_contacts:
-            contacts = [str(item.relative_to(OUT)) for item in existing_contacts]
-            entry = {
-                "phase": source["phase"], "name": path.name, "path": str(path.relative_to(ROOT)),
-                "selected_pages": len(pages), "document_pages": doc.page_count,
-                "low_text_pages": low_text_count, "ocr_pages": planned_ocr_count,
-                "text_file": str(text_path.relative_to(OUT)), "contacts": contacts, "reused": True,
-            }
-            manifest.append(entry)
-            stats = phase_stats.setdefault(source["phase"], {"groups": 0, "pages": 0, "ocr": 0, "contacts": 0})
-            stats["groups"] += 1; stats["pages"] += len(pages); stats["ocr"] += planned_ocr_count; stats["contacts"] += len(contacts)
-            print(json.dumps(entry, ensure_ascii=False), flush=True)
-            continue
         blocks: list[str] = []
         ocr_count = 0
         low_text_count = 0
@@ -135,24 +116,36 @@ def main() -> None:
             if needs_ocr:
                 recognized = ocr_page(engine, doc[page_index])
                 ocr_count += 1
-            blocks.append(f"\n===== PDF p{page_index + 1} =====\n[EXTRACTED]\n{extracted}\n[OCR]\n{recognized}\n")
+            blocks.append(
+                f"\n===== PDF p{page_index + 1} =====\n[EXTRACTED]\n{extracted}\n[OCR]\n{recognized}\n"
+            )
         text_path.write_text("".join(blocks), encoding="utf-8")
         contacts = make_contacts(doc, pages, slug, path.stem)
         entry = {
-            "phase": source["phase"], "name": path.name, "path": str(path.relative_to(ROOT)),
-            "selected_pages": len(pages), "document_pages": doc.page_count,
-            "low_text_pages": low_text_count, "ocr_pages": ocr_count,
-            "text_file": str(text_path.relative_to(OUT)), "contacts": contacts,
+            "phase": source["phase"],
+            "name": path.name,
+            "path": str(path.relative_to(ROOT)),
+            "selected_pages": len(pages),
+            "document_pages": doc.page_count,
+            "low_text_pages": low_text_count,
+            "ocr_pages": ocr_count,
+            "text_file": str(text_path.relative_to(OUT)),
+            "contacts": contacts,
         }
         manifest.append(entry)
         stats = phase_stats.setdefault(source["phase"], {"groups": 0, "pages": 0, "ocr": 0, "contacts": 0})
-        stats["groups"] += 1; stats["pages"] += len(pages); stats["ocr"] += ocr_count; stats["contacts"] += len(contacts)
+        stats["groups"] += 1
+        stats["pages"] += len(pages)
+        stats["ocr"] += ocr_count
+        stats["contacts"] += len(contacts)
         print(json.dumps(entry, ensure_ascii=False), flush=True)
 
     summary = {
-        "groups": len(manifest), "pages": sum(item["selected_pages"] for item in manifest),
+        "groups": len(manifest),
+        "pages": sum(item["selected_pages"] for item in manifest),
         "ocr_pages": sum(item["ocr_pages"] for item in manifest),
-        "contacts": sum(len(item["contacts"]) for item in manifest), "phases": phase_stats,
+        "contacts": sum(len(item["contacts"]) for item in manifest),
+        "phases": phase_stats,
     }
     (OUT / "manifest.json").write_text(
         json.dumps({"summary": summary, "sources": manifest}, ensure_ascii=False, indent=2), encoding="utf-8"
