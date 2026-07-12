@@ -1,0 +1,115 @@
+[
+  {
+    "label": "20_强化_操作系统P3+P4_文件系统骚图",
+    "path": "408\\操作系统强化\\操作系统P3+P4_文件系统骚图.pdf",
+    "start": 1,
+    "end": 10,
+    "pages": 10,
+    "ocr_pages": [],
+    "text": "tmp\\pdfs\\os4\\text\\20_强化_操作系统P3_P4_文件系统骚图.txt",
+    "contacts": [
+      "tmp\\pdfs\\os4\\contacts\\20_强化_操作系统P3_P4_文件系统骚图_01.png",
+      "tmp\\pdfs\\os4\\contacts\\20_强化_操作系统P3_P4_文件系统骚图_02.png"
+    ]
+  },
+  {
+    "label": "21_强化_操作系统P4【凌乱手稿】_文件系统骚图",
+    "path": "408\\操作系统强化\\操作系统P4【凌乱手稿】_文件系统骚图.pdf",
+    "start": 1,
+    "end": 9,
+    "pages": 9,
+    "ocr_pages": [],
+    "text": "tmp\\pdfs\\os4\\text\\21_强化_操作系统P4【凌乱手稿】_文件系统骚图.txt",
+    "contacts": [
+      "tmp\\pdfs\\os4\\contacts\\21_强化_操作系统P4【凌乱手稿】_文件系统骚图_01.png",
+      "tmp\\pdfs\\os4\\contacts\\21_强化_操作系统P4【凌乱手稿】_文件系统骚图_02.png"
+    ]
+  },
+  {
+    "label": "22_强化_操作系统强化【结课考试】",
+    "path": "408\\操作系统强化\\操作系统强化【结课考试】.pdf",
+    "start": 1,
+    "end": 5,
+    "pages": 5,
+    "ocr_pages": [
+      5
+    ],
+    "text": "tmp\\pdfs\\os4\\text\\22_强化_操作系统强化【结课考试】.txt",
+    "contacts": [
+      "tmp\\pdfs\\os4\\contacts\\22_强化_操作系统强化【结课考试】_01.png"
+    ]
+  },
+  {
+    "label": "23_强化_操作系统强化【结课考试+答案】",
+    "path": "408\\操作系统强化\\操作系统强化【结课考试+答案】.pdf",
+    "start": 1,
+    "end": 13,
+    "pages": 13,
+    "ocr_pages": [],
+    "text": "tmp\\pdfs\\os4\\text\\23_强化_操作系统强化【结课考试_答案】.txt",
+    "contacts": [
+      "tmp\\pdfs\\os4\\contacts\\23_强化_操作系统强化【结课考试_答案】_01.png",
+      "tmp\\pdfs\\os4\\contacts\\23_强化_操作系统强化【结课考试_答案】_02.png",
+      "tmp\\pdfs\\os4\\contacts\\23_强化_操作系统强化【结课考试_答案】_03.png"
+    ]
+  },
+  {
+    "label": "24_强化_操作系统历年真题合集",
+    "path": "408\\操作系统强化\\操作系统历年真题合集.pdf",
+    "start": 1,
+    "end": 41,
+    "pages": 41,
+    "ocr_pages": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "text": "tmp\\pdfs\\os4\\text\\24_强化_操作系统历年真题合集.txt",
+    "contacts": [
+      "tmp\\pdfs\\os4\\contacts\\24_强化_操作系统历年真题合集_01.png",
+      "tmp\\pdfs\\os4\\contacts\\24_强化_操作系统历年真题合集_02.png",
+      "tmp\\pdfs\\os4\\contacts\\24_强化_操作系统历年真题合集_03.png",
+      "tmp\\pdfs\\os4\\contacts\\24_强化_操作系统历年真题合集_04.png",
+      "tmp\\pdfs\\os4\\contacts\\24_强化_操作系统历年真题合集_05.png",
+      "tmp\\pdfs\\os4\\contacts\\24_强化_操作系统历年真题合集_06.png",
+      "tmp\\pdfs\\os4\\contacts\\24_强化_操作系统历年真题合集_07.png"
+    ]
+  }
+]

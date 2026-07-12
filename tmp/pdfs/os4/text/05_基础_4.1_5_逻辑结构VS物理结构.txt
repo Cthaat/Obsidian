@@ -1,0 +1,686 @@
+
+===== PDF p1 =====
+王道考研/cskaoyan.com
+说明：本视频是对王道书 4.1.4、4.1.5 的总结，不对应书中任何内容
+文件的逻辑结构（4.1.4）、文件的物理结构（4.1.5）是非常容易混淆的两个知识
+点，本视频是为了帮助初学者捋清二者关系而制作的。
+建议：学完本视频后，可以再快速过一遍 王道书 4.1.4、4.1.5，巩固理解。
+
+===== PDF p2 =====
+本节内容
+逻辑结构
+Vs
+物理结构
+王道考研/CSKAOYAN.COM
+
+===== PDF p3 =====
+傻傻分不清楚？
+无结构文件
+顺序存储
+顺序文件
+文件的逻辑结构
+一
+链式存储
+有结构文件
+索引文件
+索引顺序文件
+连续分配
+小朋友你是否有很多问号
+链接分配
+文件的物理结构
+索引分配
+王道考研/CSKAOYAN.COM
+
+===== PDF p4 =====
+例：C语言创建无结构文件
+test.txt
+Hello world!Hello world!Hello world!Helloworld!Hello world!
+FILE*fp=fopen（"test.txt"，"w")；//打开文件
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+if( fp == NULL）{
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+Hello world!Hello world!Helloworld!Hello world!Helloworld!
+printf("打开文件失败！"）；
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+exit(0);
+Hello world!Hello world!Hello world!Hello world!Hello world！
+Hello world!Hello world!Helloworld!Hello world!Hello world!
+Helloworld!Hello world!Helloworld!Hello world!Helloworld!
+Hello world!Hello world!Hello world!HelloworldHello world!
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+//写入lw个Helloworld
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Hello world!Helloworld!Hello world:Helloworld!
+Hello world!Hello world!Hello world!Hello world!Hello world!
+for（inti=0;i<10000;i++)
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+fputs("Helloworld!",fp);
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Hello world!Hello world!Hello world!Hello world!
+fclose(fp);
+//关闭文件
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+Helloworld!Hello world!Hello world!Hello world!Hello world!
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+Hello world!Hello world!Hello world!Hello world!Hello world!
+ cmake-build-debug
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Hello world!Hello world!Hello world!Hello world!
+Hello world!Hello world!Hello world!Hello world:Hello world!
+Hello world!Hello world!Hello world!Hello worldHello world!
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+名称
+修改日期
+ CLionProject
+今天22:38
+Hello world!Hello world!Hello world!Hello world!Hello world!
+CLionProject.cbp
+今天09:54
+Hello world!Helloworld!Hello world!Helloworld:Hello world!
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+cmake_install.cmake
+今天09:54
+CMakeCache.txt
+今天09:54
+Hello world!Hello world!Hello world!Hello world!Hello world!
+CMakeFiles
+今天22:38
+Makefile
+今天09:54
+Hello world!Helloworld!Hello world!Hello world!Hello world!
+Hello world!Hello world!Hello world!Hello world!Hello world!
+test.txt
+今天20:35
+Hello world!Hello world!Hello world!Hello world!Hello world!
+王道考研/CSKAOYAN.COM
+
+===== PDF p5 =====
+王道考研/CSKAOYAN.COM
+逻辑结构（从用户视角看）
+H e l
+l o
+w o r
+l d ! H e l
+l o
+w o r
+l d ! H e l
+l o
+w o r
+l d !
+每个字符1B。在用户看来，整个文
+件占用一片连续的逻辑地址空间
+······
+Eg：你要找到第16个字符（编号从0开始）
+用户用逻辑地
+址访问文件
+
+===== PDF p6 =====
+王道考研/CSKAOYAN.COM
+物理结构（从操作系统视角看）
+1KB
+#0
+1KB
+#1
+1KB
+#2
+1KB
+#3
+1KB
+#4
+1KB
+#5
+······
+H e l
+l o
+w o r
+l d ! H e l
+l o
+w o r
+l d ! H e l
+l o
+w o r
+l d !
+······
+被操作系统拆分为若干个块，逻辑块号相邻
+连续分配：逻辑上相邻的块物理上也相邻
+#0
+#1
+#2
+#3
+#4
+#5
+……
+用户：
+使用 C语言库函数 fseek，将文件读写指针指向位置 n
+使用 C语言库函数 fgetc，从读写指针所指位置读出 1B 内容
+fgetc 底层使用了 Read 系统调用，
+操作系统将（逻辑块号，块内偏移量）
+转换为（物理块号，块内偏移量）
+操作系统视角：反正就是一堆二进制数
+据，每个磁盘块可存储1KB，拆就完了！
+指明逻
+辑地址
+
+===== PDF p7 =====
+王道考研/CSKAOYAN.COM
+物理结构（从操作系统视角看）
+1KB
+#0
+1KB
+#1
+1KB
+#2
+1KB
+#3
+1KB
+#4
+1KB
+#5
+······
+H e l
+l o
+w o r
+l d ! H e l
+l o
+w o r
+l d ! H e l
+l o
+w o r
+l d !
+······
+链接分配：逻辑上相邻的块在物理上用链接
+指针表示先后关系
+#0
+#1
+#2
+#3
+#4
+#5
+……
+用户：
+使用 C语言库函数 fseek，将文件读写指针指向位置 n
+使用 C语言库函数 fgetc，从读写指针所指位置读出 1B 内容
+被操作系统拆分为若干个块，逻辑块号相邻
+操作系统视角：反正就是一堆二进制数
+据，每个磁盘块可存储1KB，拆就完了！
+指明逻
+辑地址
+fgetc 底层使用了 Read 系统调用，
+操作系统将（逻辑块号，块内偏移量）
+转换为（物理块号，块内偏移量）
+
+===== PDF p8 =====
+王道考研/CSKAOYAN.COM
+物理结构（从操作系统视角看）
+1KB
+#0
+1KB
+#1
+1KB
+#2
+1KB
+#3
+1KB
+#4
+1KB
+#5
+······
+H e l
+l o
+w o r
+l d ! H e l
+l o
+w o r
+l d ! H e l
+l o
+w o r
+l d !
+······
+索引分配：操作系统为每个文件维护一张索
+引表，其中记录了逻辑块号à物理块号 的映
+射关系
+#0
+#1
+#2
+#3
+#4
+#5
+索引
+用户：
+使用 C语言库函数 fseek，将文件读写指针指向位置 n
+使用 C语言库函数 fgetc，从读写指针所指位置读出 1B 内容
+被操作系统拆分为若干个块，逻辑块号相邻
+操作系统视角：反正就是一堆二进制数
+据，每个磁盘块可存储1KB，拆就完了！
+指明逻
+辑地址
+fgetc 底层使用了 Read 系统调用，
+操作系统将（逻辑块号，块内偏移量）
+转换为（物理块号，块内偏移量）
+
+===== PDF p9 =====
+例：C语言创建顺序文件
+typedef struct{
+int number;
+//学号
+用户视角：
+char name[30];
+//姓名
+每个学生记录占64B
+char major[30];
+//专业
+sizeof(Student_info)
+} Student_info;
+//以"写"方式打开文件
+学生
+学生
+学生
+学生
+学生
+学生
+FILE *fp = fopen("students.info","w");
+0
+1
+2
+3
+4
+5
+if(fp == NULL）{
+printf（"打开文件失败！"）；
+exit(0);
+//以"读"方式打开文件
+FILE *fp=fopen("students.info",“r");
+}
+if(fp==NULL）{
+Student_info student[N];
+//用数组保存N个学生信息
+for（inti=0；i<N；i++）{//生成N个学生信息
+printf（"打开文件失败!"）;
+用户用逻辑地
+exit(0);
+student[i].number=i;
+址访问文件
+student[i].name[0]='?';
+//文件读写指针指向编号为5的学生记录
+student[i].major[0]='?';
+fseek(fp，5*sizeof(Student_info)，SEEK_SET);
+Student_info stu;
+//从文件读出l条记录，记录大小为sizeof（Student_info)
+//将N个学生的信息写入文件
+fread(&stu，sizeof(Student_info)，1，fp);
+fwrite(student， sizeof(Student_info)，N,fp);
+printf("学生编号：%d\n"，stu.number);
+fclose(fp);
+fclose(fp);
+王道考研/CSKAOYAN.COM
+
+===== PDF p10 =====
+王道考研/CSKAOYAN.COM
+学生
+0
+学生
+1
+学生
+2
+学生
+3
+学生
+4
+学生
+5
+……
+用户视角：
+每个学生记录占 64B 
+sizeof(Student_info)
+1KB
+#0
+1KB
+#1
+1KB
+#2
+操作系统视角：反正就是一堆二进制数
+据，每个磁盘块可存储1KB，拆就完了！
+1KB
+#3
+1KB
+#4
+1KB
+#5
+······
+连续分配：逻辑上相邻的块物理上也相邻
+#0
+#1
+#2
+#3
+#4
+#5
+……
+物理结构（从操作系统视角看）
+
+===== PDF p11 =====
+王道考研/CSKAOYAN.COM
+学生
+0
+学生
+1
+学生
+2
+学生
+3
+学生
+4
+学生
+5
+……
+用户视角：
+每个学生记录占 64B 
+sizeof(Student_info)
+1KB
+#0
+1KB
+#1
+1KB
+#2
+操作系统视角：反正就是一堆二进制数
+据，每个磁盘块可存储1KB，拆就完了！
+1KB
+#3
+1KB
+#4
+1KB
+#5
+······
+物理结构（从操作系统视角看）
+链接分配：逻辑上相邻的块在物理上用链接
+指针表示先后关系
+#0
+#1
+#2
+#3
+#4
+#5
+……
+
+===== PDF p12 =====
+王道考研/CSKAOYAN.COM
+学生
+0
+学生
+1
+学生
+2
+学生
+3
+学生
+4
+学生
+5
+……
+用户视角：
+每个学生记录占 64B 
+sizeof(Student_info)
+1KB
+#0
+1KB
+#1
+1KB
+#2
+操作系统视角：反正就是一堆二进制数
+据，每个磁盘块可存储1KB，拆就完了！
+1KB
+#3
+1KB
+#4
+1KB
+#5
+······
+物理结构（从操作系统视角看）
+索引分配：操作系统为每个文件维护一张索
+引表，其中记录了逻辑块号à物理块号 的映
+射关系
+#0
+#1
+#2
+#3
+#4
+#5
+索引
+
+===== PDF p13 =====
+王道考研/CSKAOYAN.COM
+懵逼点：顺序文件采用顺序存储/链式存
+储
+顺序文件：各个记录可以顺序存储或链式存储。
+学生
+0
+学生
+1
+学生
+2
+学生
+3
+学生
+4
+学生
+5
+……
+顺序存储，各条记录
+相邻这存放
+学生
+0
+学生
+2
+学生
+1
+学生
+3
+……
+0
+1
+2
+3
+4
+5
+链式存储，各条记录离散着
+存放，用指针表示先后关系
+支持随机访问：指可
+以直接确定第i条记录
+的逻辑地址
+
+===== PDF p14 =====
+王道考研/CSKAOYAN.COM
+1KB
+#0
+1KB
+#1
+1KB
+#2
+操作系统视角：反正就是一堆二进制数
+据，每个磁盘块可存储1KB，拆就完了！
+1KB
+#3
+1KB
+#4
+1KB
+#5
+······
+链式存储的顺序文件采用连续分
+配...
+学生
+0
+学生
+2
+学生
+1
+学生
+3
+……
+0
+1
+2
+3
+4
+5
+链式存储，各条记录离散着
+存放，用指针表示先后关系
+连续分配：逻辑上相邻的块物理上也相邻
+#0
+#1
+#2
+#3
+#4
+#5
+……
+支持随机访问：指可
+以直接找到逻辑块号
+对应的物理块号
+
+===== PDF p15 =====
+王道考研/CSKAOYAN.COM
+1KB
+#0
+1KB
+#1
+1KB
+#2
+操作系统视角：反正就是一堆二进制数
+据，每个磁盘块可存储1KB，拆就完了！
+1KB
+#3
+1KB
+#4
+1KB
+#5
+······
+链式存储的顺序文件采用链接分
+配...
+#0
+#1
+#2
+#3
+#4
+#5
+……
+学生
+0
+学生
+2
+学生
+1
+学生
+3
+……
+0
+1
+2
+3
+4
+5
+链式存储，各条记录离散着
+存放，用指针表示先后关系
+文件内部各条记录链式存储：由创建文件的用户自己设计的
+文件整体用链接分配：由操作系统决定
+
+===== PDF p16 =====
+王道考研/CSKAOYAN.COM
+逻辑结构：索引文件
+学生
+信息
+学生
+信息
+学生
+信息
+学生
+信息
+学生
+信息
+学生
+信息
+……
+索引
+项0
+索引
+项1
+索引
+项2
+索引
+项3
+……
+索引文件：从用户视角来看，整个文件依然是连续存放的。如：前1MB存放索引项，后续部分存放记录。
+
+===== PDF p17 =====
+王道考研/CSKAOYAN.COM
+1KB
+#0
+1KB
+#1
+1KB
+#2
+操作系统视角：反正就是一堆二进制数
+据，每个磁盘块可存储1KB，拆就完了！
+1KB
+#3
+1KB
+#4
+1KB
+#5
+······
+索引文件采用索引分配…
+#0
+#1
+#2
+#3
+#4
+#5
+索引
+学生
+信息
+学生
+信息
+学生
+信息
+学生
+信息
+学生
+信息
+学生
+信息
+……
+索引
+项0
+索引
+项1
+索引
+项2
+索引
+项3
+……
+索引文件的索引表：用户自己建立的，映射：关键字à记录存放的逻辑地址
+索引分配的索引表：操作系统建立的，映射：逻辑块号à物理块号
+
+===== PDF p18 =====
+慢下来消化一下8
+用户（文件创建者）的视角看到的亚子
+逻辑结构
+在用户看来，整个文件占用连续的逻辑地址空间
+逻辑结构
+文件内部的信息组织完全由用户自己决定，操作系统并不关心
+V.S.
+由操作系统决定文件采用什么物理结构存储
+物理结构
+物理结构
+操作系统负责将逻辑地址转变为（逻辑块号，块内偏移量）
+的形式，并负责实现逻辑块号到物理块号的映射
+我真的太难了
+我太难了
+强人锁男
+王道考研/CSKAOYAN.COM
