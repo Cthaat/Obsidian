@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/408考研笔记/计算机组成原理/06-总线.md",
+                "file": "考研数学/张宇基础30讲笔记/18_高数第18讲_多元函数积分学.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06-总线"
+              "title": "18_高数第18讲_多元函数积分学"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/408考研笔记/计算机组成原理/06-总线.md",
+                "file": "考研数学/张宇基础30讲笔记/18_高数第18讲_多元函数积分学.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "06-总线 的大纲"
+              "title": "18_高数第18讲_多元函数积分学 的大纲"
             }
           },
           {
@@ -183,41 +183,42 @@
   },
   "active": "44ef5d20f0c101fe",
   "lastOpenFiles": [
-    "tmp/pdfs/os4/previews/21_p09.jpg",
-    "tmp/pdfs/os4/previews/21_p08.jpg",
-    "tmp/pdfs/os4/previews/21_p07.jpg",
-    "tmp/pdfs/os4/previews/21_p06.jpg",
-    "tmp/pdfs/os4/previews/21_p05.jpg",
-    "tmp/pdfs/os4/previews/21_p04.jpg",
-    "tmp/pdfs/os4/previews/21_p03.jpg",
-    "tmp/pdfs/os4/previews/21_p02.jpg",
-    "tmp/pdfs/os4/previews/21_p01.jpg",
-    "tmp/pdfs/os4/previews/20_p10.jpg",
-    "tmp/pdfs/os4/previews/20_p09.jpg",
+    "tmp/pdfs/math01/summary.json",
+    "tmp/pdfs/math01/ocr.txt",
+    "tmp/pdfs/math01/evidence.json",
+    "tmp/pdfs/math01/contacts/math01_19.jpg",
+    "tmp/pdfs/math01/contacts/math01_18.jpg",
+    "tmp/pdfs/math01/contacts/math01_17.jpg",
+    "tmp/pdfs/math01/contacts/math01_16.jpg",
+    "tmp/pdfs/math01/contacts/math01_15.jpg",
+    "tmp/pdfs/math01/contacts/math01_14.jpg",
+    "tmp/pdfs/math01/contacts/math01_13.jpg",
+    "tmp/pdfs/math01/contacts/math01_12.jpg",
+    "tmp/pdfs/math01/contacts/math01_11.jpg",
+    "tmp/pdfs/math01/contacts/math01_10.jpg",
+    "tmp/pdfs/math01/contacts",
+    "tmp/pdfs/math01/pages",
+    "tmp/pdfs/math01/process_chapter.py",
+    "tmp/pdfs/math01",
+    "考研数学/张宇基础30讲笔记/12_高数第12讲_一元函数积分学的应用三.md",
+    "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
+    "考研数学/张宇基础30讲笔记/10_高数第10讲_一元函数积分学的应用一_几何应用.md",
+    "考研数学/张宇基础30讲笔记/11_高数第11讲_一元函数积分学的应用二.md",
+    "考研数学/张宇基础30讲笔记/17_高数第17讲_多元函数积分学的预备知识.md",
+    "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md",
+    "考研数学/张宇基础30讲笔记/14_高数第14讲_二重积分.md",
+    "考研数学/张宇基础30讲笔记/07_高数第7讲_一元函数微分学的应用三.md",
+    "408/408考研笔记/计算机组成原理/06-总线.md",
     "tmp/pdfs/os3/manifest.txt",
     "tmp/pdfs/os3/manifest_parts/23.txt",
     "tmp/pdfs/os3/text/23_强化_手稿_操作系统P2_计组与操作系统存储系统串讲.txt",
     "tmp/pdfs/os3/manifest_parts/22.txt",
-    "tmp/pdfs/os3/text/22_强化_操作系统P2_计组与操作系统存储系统串讲.txt",
-    "tmp/pdfs/os3/manifest_parts/21.txt",
-    "tmp/pdfs/os3/text/21_强化_手稿_操作系统P2_存储系统骚图pro.txt",
-    "tmp/pdfs/os3/manifest_parts/27.txt",
-    "tmp/pdfs/os3/text/27_强化_操作系统历年真题合集.txt",
-    "tmp/pdfs/os3/manifest_parts/20.txt",
     "考研数学/张宇基础30讲笔记/18_高数第18讲_多元函数积分学.md",
-    "考研数学/张宇基础30讲笔记/10_高数第10讲_一元函数积分学的应用一_几何应用.md",
-    "考研数学/张宇基础30讲笔记/11_高数第11讲_一元函数积分学的应用二.md",
-    "考研数学/张宇基础30讲笔记/17_高数第17讲_多元函数积分学的预备知识.md",
-    "考研数学/张宇基础30讲笔记/12_高数第12讲_一元函数积分学的应用三.md",
-    "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
-    "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md",
-    "考研数学/张宇基础30讲笔记/14_高数第14讲_二重积分.md",
     "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
     "考研数学/张宇基础30讲笔记/29_概率第5讲_大数定律与中心极限定理.md",
     "408/408考研笔记/计算机网络/04-网络层.md",
     "考研数学/张宇基础30讲笔记/16_高数第16讲_无穷级数.md",
     "408/408考研笔记/计算机网络/03-数据链路层.md",
-    "考研数学/张宇基础30讲笔记/07_高数第7讲_一元函数微分学的应用三.md",
     "考研数学/张宇基础30讲笔记/08_高数第8讲_一元函数积分学的概念与性质.md",
     "408/408考研笔记/计算机网络/02-物理层.md",
     "408/408考研笔记/计算机网络/01-计算机网络体系结构.md",
@@ -227,7 +228,6 @@
     "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
     "考研数学/张宇基础30讲笔记/02_高数第2讲_数列极限.md",
     "考研数学/张宇基础30讲笔记/06_高数第6讲_一元函数微分学的应用二.md",
-    "考研数学/张宇基础30讲笔记/00_整理校验清单.md",
-    "考研数学/张宇基础30讲笔记/00_知识链路图.md"
+    "考研数学/张宇基础30讲笔记/00_整理校验清单.md"
   ]
 }
