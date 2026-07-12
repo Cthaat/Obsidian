@@ -1,0 +1,13 @@
+{
+  "page_count": 20,
+  "contact_count": 5,
+  "ocr_line_count": 884,
+  "example_pages": {
+    "110": [
+      "1.2"
+    ],
+    "122": [
+      "1.1"
+    ]
+  }
+}
