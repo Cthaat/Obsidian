@@ -134,3 +134,16 @@ created: 2026-05-30
 [4] U.S. Department of Housing and Urban Development. "[Adjustable Rate Mortgages (ARM)](https://www.hud.gov/program_offices/housing/sfh/ins/203armt)."
 
 [5] Consumer Financial Protection Bureau. "[For an Adjustable-Rate Mortgage (ARM), What are the Index and Margin, and How Do They Work?](https://www.consumerfinance.gov/ask-cfpb/for-an-adjustable-rate-mortgage-arm-what-are-the-index-and-margin-and-how-do-they-work-en-1949/)"
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程、导航与实操。
+
+### 为何在量化/投资里重要
+保证金与强平路径决定杠杆是否致命；回测无保证金模型会严重低估风险。
+
+### 下一步读什么
+- [[资金管理与杠杆]] · [[阶段四风控卡实操]]
+- [[从模拟到小资金实盘]] · [[风险管理框架]]

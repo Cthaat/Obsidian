@@ -139,3 +139,16 @@ created: 2026-05-30
 [7] Reuters. “[Short Sellers Make VW the World’s Priciest Firm](https://www.reuters.com/article/us-volkswagen/short-sellers-make-vw-the-worlds-priciest-firm-idUSTRE49R3I920081028).”
 
 [8] U.S. Securities and Exchange Commission. "[Short Sales](https://www.sec.gov/rules/1999/10/short-sales)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+卖空引入理论上无限亏损与借券成本；回测若忽略硬逼空与费用会高估空头策略。
+
+### 下一步读什么
+- [[空头头寸_Short]] · [[多空策略]]
+- [[风险管理框架]] · [[A股交易规则实操要点]]（融券限制）

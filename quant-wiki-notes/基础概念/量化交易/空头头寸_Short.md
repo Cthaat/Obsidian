@@ -67,3 +67,16 @@ created: 2026-05-30
 ## 参考文献
 
 [1] FINRA. "[Calculating Margin for Day-Trading And Cross-Guaranteed Accounts](https://www.finra.org/rules-guidance/notices/98-102)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+空头头寸改变损益不对称；组合中性与对冲都依赖正确的空头建模。
+
+### 下一步读什么
+- [[卖空_Short Selling]] · [[市场中性_Market Neutral]]
+- [[多空策略]] · [[风险管理框架]]

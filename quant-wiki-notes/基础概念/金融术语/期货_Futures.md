@@ -109,3 +109,16 @@ created: 2026-05-30
 [7] CME Group. "[The Power of Leverage](https://www.cmegroup.com/education/courses/understanding-the-benefits-of-futures/the-power-of-leverage.html)."
 
 [8] Commodity Futures Trading Commission. "[History of the CFTC](https://www.cftc.gov/About/HistoryoftheCFTC/history_1970s.html)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+期货是杠杆、对冲与 CTA 的基础工具；保证金与到期移仓必须进入风险模型。
+
+### 下一步读什么
+- [[专项资产实操导航]] · [[量化策略实操导航]]（CTA）
+- [[资金管理与杠杆]] · [[vnpy上手实操]]

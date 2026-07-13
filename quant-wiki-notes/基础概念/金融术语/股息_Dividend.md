@@ -141,3 +141,16 @@ created: 2026-05-30
 [15] Internal Revenue Service. "[United States Income Tax Treaties - A to Z](https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z)."
 
 [16] S&P Dow Jones Indices. "[Withholding Tax Rates](https://www.spglobal.com/spdji/en/documents/additional-material/withholding-tax-index-values.pdf)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程、导航与实操。
+
+### 为何在量化/投资里重要
+股息是总回报的重要部分；高股息策略需区分可持续分红与陷阱。
+
+### 下一步读什么
+- [[公司与宏观分析实操导航]] · [[资产配置入门]]
+- 补充概念红利相关 · [[估值方法入门]]

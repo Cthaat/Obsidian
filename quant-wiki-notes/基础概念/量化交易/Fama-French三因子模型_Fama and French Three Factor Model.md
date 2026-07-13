@@ -87,3 +87,16 @@ Fama-French模型有三个因子：公司的规模、账面市值比和市场的
 [2] Eugene F. Fama and Kenneth R. French. "Multifactor Explanations of Asset Pricing Anomalies." The Journal of Finance, Volume 51, No. 1, 1996, Pages 55-84.
 
 [3] Journal of Financial Economics. "[A Five-Factor Asset Pricing Model](https://www.sciencedirect.com/science/article/abs/pii/S0304405X14002323)." Accessed Aug. 30, 2021.
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+三因子把规模与价值暴露显式化；读研报与归因时的默认参照系之一。
+
+### 下一步读什么
+- [[因子投资体系]] · [[因子投资实操导航]]
+- [[因子投资/目录]]

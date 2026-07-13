@@ -181,3 +181,16 @@ PEG 比率衡量价格/收益比率与收益增长之间的关系，以便为投
 [7] State Street Global Advisors SPDR. "[Communication Services Select Sector SPDR Fund](https://www.ssga.com/us/en/intermediary/etfs/funds/the-communication-services-select-sector-spdr-fund-xlc)."
 
 [8] State Street Global Advisors SPDR. "[The Technology Select Sector Fund](https://www.ssga.com/us/en/intermediary/etfs/funds/the-technology-select-sector-spdr-fund-xlk)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+市盈率是权益估值的通用语言；必须结合增长、质量与周期，否则「低PE」会变成价值陷阱。
+
+### 下一步读什么
+- [[估值方法入门]] · [[公司与宏观分析实操导航]]
+- [[PE]]（补充概念） · [[安全边际]]

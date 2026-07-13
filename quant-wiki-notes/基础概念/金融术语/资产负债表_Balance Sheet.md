@@ -155,3 +155,16 @@ created: 2026-05-30
 [1] Apple Investor Relations. "[Condensed Consolidated Balance Sheets (Unaudited), FY 2020 Q4](https://www.apple.com/newsroom/pdfs/FY20_Q4_Consolidated_Financial_Statements.pdf)." Page 2.
 
 [2] PwC. "[US Financial Statement Presentation Guide: 1.1 Financial Statement Presentation and Disclosure Requirements](https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/financial_statement_/financial_statement___18_US/Chapter_1_General_presentation_and_disclosure_requirements/11_financial_presentat_US.html)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+资产负债表揭示资产质量、杠杆与偿债压力；是三表勾稽与杜邦分析的底座。
+
+### 下一步读什么
+- [[三张财务报表]] · [[阶段二作业打通清单]]
+- [[公司与宏观分析实操导航]] · [[财务比率分析]]

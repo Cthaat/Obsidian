@@ -154,3 +154,16 @@ created: 2026-05-30
  [2] CME Group. "[Crude Oil](https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.html)."
 
  [3] Bank for International Settlements. "[OTC Derivatives Statistics at End-June 2021](https://www.bis.org/publ/otc_hy2111.htm)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程、导航与实操。
+
+### 为何在量化/投资里重要
+衍生品放大收益与亏损路径；未理解 payoff 与保证金前不应实盘。
+
+### 下一步读什么
+- [[专项资产实操导航]] · [[衍生品与期权进阶]]
+- [[期权策略/目录]] · [[阶段四风控卡实操]]

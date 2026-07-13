@@ -93,3 +93,16 @@ $$ \begin{aligned}&r = \frac { n \times ( \sum (X, Y) - ( \sum (X) \times \sum (
 ## 参考文献
 
 [1] DataTrek Research. "[Oil Prices/Energy Stock Correlations, Rate Expectations](https://www.datatrekresearch.com/oil-prices-energy-stock-correlations-rate-expectations/)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+相关决定分散是否有效；危机时相关升是组合风险的核心。
+
+### 下一步读什么
+- [[组合构建方法]] · [[组合与仓位实操导航]]
+- [[风险管理框架]]

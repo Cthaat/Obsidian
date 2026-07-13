@@ -109,3 +109,16 @@ created: 2026-05-30
 [3] Ford. "[Strategic Progress of Ford+ Growth Plan, Solid Financials in '21 Position Company for Connected EV Leadership in 2022, Beyond](https://media.ford.com/content/dam/fordmedia/North%20America/US/2022/02/03/financials-fy-ford-21.pdf)."
 
 [4] Factory Warranty Tools. "[Top Automakers by Revenue](https://www.factorywarrantylist.com/car-sales-by-revenue.html#:~:text=%E2%80%8B2021%20car%20sales%20revenue,up%206%25%20over%20last%20year.)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+样本不足时回测与胜率估计极不稳；解释为何要长样本与样本外。
+
+### 下一步读什么
+- [[回测方法论]] · [[研究笔记与实验工作流]]
+- [[阶段三作业打通清单]]

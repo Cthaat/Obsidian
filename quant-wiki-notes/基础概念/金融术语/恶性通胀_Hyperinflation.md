@@ -119,3 +119,16 @@ created: 2026-05-30
 [10] Federal Reserve Bank of St. Louis. "[President's Message: Volcker's Handling of the Great Inflation Taught Us Much](https://www.stlouisfed.org/publications/regional-economist/january-2005/volckers-handling-of-the-great-inflation-taught-us-much)."
 
 [11] Federal Reserve History. "[The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+极端通胀摧毁名义债权与定价锚；压力测试与配置需保留尾部情景。
+
+### 下一步读什么
+- [[宏观经济基础]] · [[公司与宏观分析实操导航]]
+- [[危机情景、黑天鹅与反脆弱投资]]

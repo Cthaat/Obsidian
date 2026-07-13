@@ -123,3 +123,16 @@ created: 2026-05-30
 [2] IBM. "[Working Together, AI & HPC Can Solve Large, Complex Problems](https://community.ibm.com/community/user/cloud/blogs/john-easton/2024/03/25/working-together-ai-hpc-can-solve-large-complex-ch?CommunityKey=74d589b7-7276-4d70-acf5-0fc26430c6c0)."
 
 [3] Virginia Polytechnic Institute, via Internet Archive Wayback Machine. "[Monte Carlo Simulation](https://web.archive.org/web/20201025115012/https://sites.google.com/a/vt.edu/monte-carlo-simulation/history)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+蒙特卡洛用于压力情景与路径依赖；假设错则模拟精致地错。
+
+### 下一步读什么
+- [[风险管理框架]] · [[阶段四风控卡实操]]
+- [[组合与仓位实操导航]]

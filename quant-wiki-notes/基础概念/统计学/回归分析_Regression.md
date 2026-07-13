@@ -101,3 +101,16 @@ Beta值表示该股票相对于市场或指数的风险，反映在CAPM中的斜
 [4] Stanton, Jeffrey M., via Taylor & Francis Online. “[Galton, Pearson, and the Peas: A Brief History of Linear Regression for Statistics Instructors](https://www.tandfonline.com/doi/full/10.1080/10691898.2001.11910537).” Journal of Statistics Education, vol. 9, no. 3, 2001.
 
 [5] CFA Institute. “[Basics of Multiple Regression and Underlying Assumptions](https://www.cfainstitute.org/en/membership/professional-development/refresher-readings/multiple-regression).”
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程与实操导航。
+
+### 为何在量化/投资里重要
+回归是因子暴露、对冲与业绩归因的数学骨架；须警惕非平稳与伪回归。
+
+### 下一步读什么
+- [[回测方法论]] · [[因子检验与评价]]
+- [[基础概念学习地图]]

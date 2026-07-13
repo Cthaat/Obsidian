@@ -166,3 +166,16 @@ created: 2026-05-30
 [7] U.S. Securities and Exchange Commission, Historical Society. "[The Institution of Experience: Self-Regulatory Organizations in the Securities Industry, 1792–2010](https://www.sechistorical.org/museum/galleries/sro/sro02b.php)."
 
 [8] Securities Industry and Financial Markets Association. "[2023 Capital Markets Fact Book](https://www.sifma.org/wp-content/uploads/2022/07/2023-SIFMA-Capital-Markets-Factbook.pdf)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程、导航与实操。
+
+### 为何在量化/投资里重要
+股票市场是权益风险溢价的主战场；需区分一级发行与二级交易。
+
+### 下一步读什么
+- [[一级市场_Primary Market]] · [[二级市场_Secondary Market]]
+- [[入门教程总览]] · [[资产配置入门]]

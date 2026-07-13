@@ -231,3 +231,16 @@ created: 2026-05-30
 [12] Yahoo Finance. "[Fitbit, Inc.](https://finance.yahoo.com/quote/5FB.DE/history?period1=1463529600&period2=1635724800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)"
 
 [13] U.S. Securities and Exchange Commission. "[Fitbit, Inc. Schedule 14A Information](https://www.sec.gov/Archives/edgar/data/1447599/000162828019014511/fitbitpreliminaryproxy.htm)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 百科化补丁：接到课程、导航与实操。
+
+### 为何在量化/投资里重要
+价值投资是价格与内在价值的纪律框架，不是低PE标签。
+
+### 下一步读什么
+- [[价值投资经典实操导航]] · [[经典必读书单]]
+- [[安全边际]] · [[公司与宏观分析实操导航]]
