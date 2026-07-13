@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/12_高数第12讲_一元函数积分学的应用三.md",
+                "file": "考研数学/张宇基础30讲笔记/14_高数第14讲_二重积分.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "12_高数第12讲_一元函数积分学的应用三"
+              "title": "14_高数第14讲_二重积分"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/12_高数第12讲_一元函数积分学的应用三.md",
+                "file": "考研数学/张宇基础30讲笔记/14_高数第14讲_二重积分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12_高数第12讲_一元函数积分学的应用三 的大纲"
+              "title": "14_高数第14讲_二重积分 的大纲"
             }
           },
           {
@@ -183,19 +183,23 @@
   },
   "active": "c758915c26055d51",
   "lastOpenFiles": [
+    "quant-wiki-notes/开源工具/工具实操总导航.md",
+    "quant-wiki-notes/开源工具/工具实操总导航.md.tmp.1280.b046a2e5dbe4",
+    "quant-wiki-notes/开源工具/目录.md",
+    "quant-wiki-notes/开源工具/目录.md.tmp.1280.7b5dc9590a65",
+    "quant-wiki-notes/全库百科化路线图.md",
+    "quant-wiki-notes/全库百科化路线图.md.tmp.1280.87ecb5fce911",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/quant-lab/README.md.tmp.1280.9de5964bdc2e",
+    "quant-wiki-notes/知识索引.md.tmp.1280.1cd787a1df34",
+    "quant-wiki-notes/使用说明.md.tmp.1280.505affd446cb",
+    "quant-wiki-notes/使用说明.md.tmp.1280.a416a502bd0e",
+    "quant-wiki-notes/入门教程/目录.md.tmp.1280.84cb36339f6a",
+    "quant-wiki-notes/入门教程/目录.md.tmp.1280.226a92f9ab6d",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/目录.md.tmp.1280.b2cda3f4a86c",
+    "考研数学/张宇基础30讲笔记/12_高数第12讲_一元函数积分学的应用三.md",
     "考研数学/张宇基础30讲笔记/14_高数第14讲_二重积分.md",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/quant-lab/scripts/run_stage0_check.py",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/quant-lab/scripts/run_stage0_check.py.tmp.1280.223eb620b83c",
     "quant-wiki-notes/入门教程/阶段零-实操百科/实操百科总索引.md",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/实操百科总索引.md.tmp.1280.32be0ccbdb6f",
     "quant-wiki-notes/入门教程/阶段零-实操百科/阶段一作业打通清单.md",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/quant-lab/scripts/__pycache__/summarize_report.cpython-310.pyc",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/quant-lab/src/__pycache__/report_utils.cpython-310.pyc",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/实验日志/目录.md.tmp.1280.d49423c59c53",
-    "quant-wiki-notes/使用说明.md.tmp.1280.9f44e3067e07",
-    "quant-wiki-notes/入门教程/目录.md.tmp.1280.9c8888ba34e8",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/目录.md.tmp.1280.a7c7b31b8dd1",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/目录.md.tmp.1280.9a46c2c1bc13",
     "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
     "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md",
     "考研数学/张宇基础30讲笔记/16_高数第16讲_无穷级数.md",
@@ -215,10 +219,6 @@
     "quant-wiki-notes/入门教程/阶段零-实操百科/实验日志/否决库.md",
     "quant-wiki-notes/入门教程/阶段零-实操百科/实验日志/周复盘模板.md",
     "quant-wiki-notes/入门教程/阶段零-实操百科/实验日志/EXP模板.md",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/实验日志/目录.md",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/动量策略实操.md",
-    "tmp/pdfs/math14/coverage.md",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/quant-lab/strategies/momentum_spec.md",
     "tmp/pdfs/math14/contacts/math01_10.jpg",
     "tmp/pdfs/math14/contacts/math01_09.jpg",
     "tmp/pdfs/math14/contacts/math01_08.jpg",

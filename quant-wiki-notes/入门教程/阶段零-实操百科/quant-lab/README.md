@@ -9,12 +9,14 @@
 - [[组合层实操]]
 - [[因子打分实操]]
 - [[模拟盘日志实操]]
+- [[阶段一作业打通清单]]
 - [[阶段三作业打通清单]]
 - [[阶段四风控卡实操]]
 - [[财务数据实操]]
 - [[研究笔记与实验工作流]]
 - [[实验日志目录]]
 - [[阶段零完成验收]]
+- [[实操百科总索引]]
 
 > 示例数字与结果均为教学用途，**不构成投资建议**。AKShare / Backtrader 接口升级后请以官方文档为准微调。
 
@@ -40,6 +42,9 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python check_env.py
+# 无网络结构自检 + 可选合成回测
+python scripts/run_stage0_check.py
+python scripts/run_stage0_check.py --with-synthetic-backtest
 ```
 
 # 一键流程
