@@ -11,10 +11,14 @@
             "id": "c758915c26055d51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "考研数学/张宇基础30讲笔记/10_高数第10讲_一元函数积分学的应用一_几何应用.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "10_高数第10讲_一元函数积分学的应用一_几何应用"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "考研数学/张宇基础30讲笔记/10_高数第10讲_一元函数积分学的应用一_几何应用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "10_高数第10讲_一元函数积分学的应用一_几何应用 的大纲"
             }
           },
           {
