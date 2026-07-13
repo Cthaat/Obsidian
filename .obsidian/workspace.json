@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28600198878f30ce",
+        "id": "f47c1feddd1b93e6",
         "type": "tabs",
         "children": [
           {
-            "id": "44ef5d20f0c101fe",
+            "id": "c758915c26055d51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01_高数第1讲_函数极限与连续"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01_高数第1讲_函数极限与连续 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -181,29 +176,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44ef5d20f0c101fe",
+  "active": "c758915c26055d51",
   "lastOpenFiles": [
-    "tmp/pdfs/math04/summary.json",
-    "tmp/pdfs/math04/ocr.txt",
-    "tmp/pdfs/math04/evidence.json",
-    "tmp/pdfs/math04/contacts/math01_05.jpg",
-    "tmp/pdfs/math04/contacts/math01_04.jpg",
-    "tmp/pdfs/math04/contacts/math01_03.jpg",
-    "tmp/pdfs/math04/contacts/math01_02.jpg",
-    "tmp/pdfs/math04/contacts/math01_01.jpg",
-    "tmp/pdfs/math04/pages/p143.jpg",
-    "tmp/pdfs/math04/pages/p142.jpg",
-    "tmp/pdfs/math04/pages/p141.jpg",
-    "tmp/pdfs/math04/pages/p140.jpg",
-    "tmp/pdfs/math04/pages/p139.jpg",
-    "tmp/pdfs/math04/contacts",
-    "tmp/pdfs/math04/pages",
-    "tmp/pdfs/math04/process_chapter.py",
-    "tmp/pdfs/math04",
-    "tmp/pdfs/math03/summary.json",
-    "tmp/pdfs/math03/process_chapter.py",
-    "tmp/pdfs/math03/pages",
-    "tmp/pdfs/math03/ocr.txt",
+    "tmp/pdfs/math09/summary.json",
+    "tmp/pdfs/math09/ocr.txt",
+    "tmp/pdfs/math09/evidence.json",
+    "tmp/pdfs/math09/contacts/math01_09.jpg",
+    "tmp/pdfs/math09/contacts/math01_08.jpg",
+    "tmp/pdfs/math09/contacts/math01_07.jpg",
+    "tmp/pdfs/math09/contacts/math01_06.jpg",
+    "tmp/pdfs/math09/contacts/math01_05.jpg",
+    "tmp/pdfs/math09/contacts/math01_04.jpg",
+    "tmp/pdfs/math09/contacts/math01_03.jpg",
+    "tmp/pdfs/math09/contacts/math01_02.jpg",
+    "tmp/pdfs/math09/contacts/math01_01.jpg",
+    "tmp/pdfs/math09/pages/p267.jpg",
+    "tmp/pdfs/math09/contacts",
+    "tmp/pdfs/math09/pages",
+    "tmp/pdfs/math09/process_chapter.py",
+    "tmp/pdfs/math09",
+    "tmp/pdfs/math08/summary.json",
+    "tmp/pdfs/math08/ocr.txt",
+    "tmp/pdfs/math08/evidence.json",
+    "tmp/pdfs/math08/contacts",
+    "考研数学/张宇基础30讲笔记/04_高数第4讲_一元函数微分学的计算.md",
+    "考研数学/张宇基础30讲笔记/05_高数第5讲_一元函数微分学的应用一_几何应用.md",
+    "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
     "考研数学/张宇基础30讲笔记/00_OCR视觉核查报告.md",
     "考研数学/张宇基础30讲笔记/00_最终整理报告.md",
     "考研数学/张宇基础30讲笔记/00_知识链路图.md",
@@ -225,9 +223,6 @@
     "考研数学/张宇基础30讲笔记/08_高数第8讲_一元函数积分学的概念与性质.md",
     "408/408考研笔记/计算机网络/02-物理层.md",
     "408/408考研笔记/计算机网络/01-计算机网络体系结构.md",
-    "考研数学/张宇基础30讲笔记/20_线代第2讲_矩阵.md",
-    "考研数学/张宇基础30讲笔记/05_高数第5讲_一元函数微分学的应用一_几何应用.md",
-    "考研数学/张宇基础30讲笔记/04_高数第4讲_一元函数微分学的计算.md",
-    "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md"
+    "考研数学/张宇基础30讲笔记/20_线代第2讲_矩阵.md"
   ]
 }
