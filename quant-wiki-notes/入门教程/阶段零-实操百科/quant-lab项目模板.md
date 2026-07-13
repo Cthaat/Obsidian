@@ -12,7 +12,7 @@ tags:
 # quant-lab项目模板
 
 > [!note] 核心问题
-> 环境装好了仍会乱：数据、Notebook、策略、报告搅在一起就无法复现。本篇给出一个**最小可复制的 quant-lab 目录与模板代码**，对应 [[Python量化环境搭建]] 与 [[研究笔记与实验工作流]]。
+> 环境装好了仍会乱：数据、Notebook、策略、报告搅在一起就无法复现。本篇说明 **quant-lab 目录约定**；仓库内已有可运行副本：`入门教程/阶段零-实操百科/quant-lab/`（含 pull / 向量化回测 / Backtrader / 财务样例脚本）。对应 [[Python量化环境搭建]]、[[Backtrader对照实操]]、[[研究笔记与实验工作流]]。
 
 ## 学习目标
 
@@ -23,6 +23,14 @@ tags:
 3. 跑通向量化双均线回测示例并导出权益曲线数据。  
 4. 理解为何 raw/processed 分离。  
 5. 用 README 让「未来的自己」能复现。  
+
+## 仓库内已落地路径
+
+```text
+quant-wiki-notes/入门教程/阶段零-实操百科/quant-lab/
+```
+
+请优先直接使用该目录（见其中 `README.md`），不必手抄代码。下文保留结构说明与关键片段，便于理解设计。
 
 ## 目录模板
 
@@ -42,12 +50,15 @@ quant-lab/
     data_loader.py
     quality.py
     backtest_simple.py
+    bt_dual_ma.py
   strategies/
     dual_ma_spec.md
   reports/
   scripts/
     pull_akshare_example.py
     run_dual_ma.py
+    run_backtrader_dual_ma.py
+    pull_financials_example.py
 ```
 
 ### .gitignore 最小

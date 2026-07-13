@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.idea/
+.vscode/
+.ipynb_checkpoints/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+reports/*
+!reports/.gitkeep
+!reports/.gitkeep
+*.png
+.DS_Store
