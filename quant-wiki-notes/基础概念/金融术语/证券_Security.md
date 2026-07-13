@@ -148,3 +148,16 @@ created: 2026-05-30
 [3] CaseText. "[Securities and Exchange Commission vs. Haffenden-Rimdar](https://casetext.com/case/securities-exch-comn-v-haffenden-rimar-2)."
 
 [4] FINRA. "[Money Market Securities and More](https://www.finra.org/investors/learn-to-invest/types-investments/bonds/money-market-securities-and-more#:~:text=Asset%2Dbacked%20securities%20are%20certificates,for%20instance%2C%20Bowie%20bonds%29.)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 扩库波次：接到合规/基金/宏观与课程。
+
+### 为何在量化/投资里重要
+证券是可交易金融契约的总称；理解证券边界是合规与资产配置的起点。
+
+### 下一步读什么
+- [[全球投管知识地图对照清单]] · [[资产配置入门]]
+- [[合规与投资者保护实操导航]]

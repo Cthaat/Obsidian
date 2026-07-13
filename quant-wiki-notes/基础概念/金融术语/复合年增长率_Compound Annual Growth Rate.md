@@ -162,3 +162,16 @@ CAGR 是投资者评估其投资随时间表现的一个有价值的指标。通
 ## 参考文献
 
 [1] Yahoo Finance. “[Amazon.com, Inc. (AMZN) Historical Data](https://finance.yahoo.com/quote/AMZN/history?period1=1473120000&period2=1609372800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true).”
+
+---
+
+## 学习接线（百科补丁）
+
+> 扩库波次：接到合规/基金/宏观与课程。
+
+### 为何在量化/投资里重要
+CAGR 便于跨区间比较，但掩盖路径与回撤；须与最大回撤同看。
+
+### 下一步读什么
+- [[复利思维]] · [[复利_Compounding]]
+- [[业绩评估与归因]] · [[阶段四风控卡实操]]

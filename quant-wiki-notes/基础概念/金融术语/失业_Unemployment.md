@@ -111,3 +111,16 @@ created: 2026-05-30
 [5] U.S. Census Bureau. "[Chapter D, Labor: Labor Force (Series D 1-682)](https://www2.census.gov/学习资源/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chD.pdf)." Page 135.
 
 [6] Federal Reserve Bank of St. Louis, FRED. “[Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE).”
+
+---
+
+## 学习接线（百科补丁）
+
+> 扩库波次。
+
+### 为何在量化/投资里重要
+就业是宏观周期与消费的核心观察；政策与风险偏好常随劳动力市场变化。
+
+### 下一步读什么
+- [[宏观经济基础]] · [[FRED宏观数据实操]]
+- [[公司与宏观分析实操导航]] · [[国内生产总值_Gross Domestic Product (GDP)]]

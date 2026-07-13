@@ -76,3 +76,16 @@ created: 2026-05-30
 [3] Hong Kong Monetary Authority. "[How Does the LERS Work?](https://www.hkma.gov.hk/eng/key-functions/money/linked-exchange-rate-system/how-does-the-lers-work)"
 
 [4] Trading Economics. "[Chinese Yuan](https://tradingeconomics.com/china/currency)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 扩库波次：接到合规/基金/宏观与课程。
+
+### 为何在量化/投资里重要
+汇率影响跨国现金流与资产比价；配置海外资产必须显式考虑。
+
+### 下一步读什么
+- [[宏观经济基础]] · [[外汇_Forex]]
+- [[资产配置入门]] · [[全库网络资源总表]]

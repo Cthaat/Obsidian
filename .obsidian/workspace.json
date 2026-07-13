@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f47c1feddd1b93e6",
+        "id": "13b35b74ca2379d9",
         "type": "tabs",
         "children": [
           {
-            "id": "c758915c26055d51",
+            "id": "a8e9541866814ada",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/14_高数第14讲_二重积分.md",
+                "file": "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "14_高数第14讲_二重积分"
+              "title": "13_高数第13讲_多元函数微分学"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/14_高数第14讲_二重积分.md",
+                "file": "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "14_高数第14讲_二重积分 的大纲"
+              "title": "13_高数第13讲_多元函数微分学 的大纲"
             }
           },
           {
@@ -181,53 +181,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c758915c26055d51",
+  "active": "a8e9541866814ada",
   "lastOpenFiles": [
-    "quant-wiki-notes/进阶专题/综合金融知识体系/金融投资全知识地图.md.tmp.1280.5504f1e34303",
-    "quant-wiki-notes/全球投管知识地图对照清单.md",
-    "quant-wiki-notes/全球投管知识地图对照清单.md.tmp.1280.f032c4ab725b",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/实操百科总索引.md.tmp.1280.7f481881d78f",
-    "quant-wiki-notes/全库使用验收看板.md.tmp.1280.bf087b84fb05",
-    "quant-wiki-notes/从零到精通学习总表.md.tmp.1280.e6e8434c04df",
-    "quant-wiki-notes/从零到精通学习总表.md.tmp.1280.a1b731097731",
-    "quant-wiki-notes/使用说明.md.tmp.1280.c334f2f03327",
-    "quant-wiki-notes/目录.md.tmp.1280.8ead9fca0e4c",
-    "quant-wiki-notes/行业洞察/概述.md.tmp.1280.d591681eefbf",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/Tushare数据上手指南.md.tmp.1280.c4e937d92ae1",
-    "quant-wiki-notes/社区资源/学习网站与社区导航.md.tmp.1280.5c4e85399126",
-    "quant-wiki-notes/全库网络资源总表.md",
-    "quant-wiki-notes/从零到精通学习总表.md",
-    "quant-wiki-notes/进阶专题/价值投资经典实操导航.md",
-    "quant-wiki-notes/进阶专题/技术分析与价格行为实操导航.md",
-    "quant-wiki-notes/进阶专题/行为金融与交易纪律实操导航.md",
-    "quant-wiki-notes/进阶专题/量化策略实操导航.md",
-    "tmp/pdfs/math16/coverage.md",
-    "quant-wiki-notes/全库使用验收看板.md",
-    "tmp/pdfs/math16/contacts/math16_14.jpg",
-    "tmp/pdfs/math16/contacts/math16_13.jpg",
-    "tmp/pdfs/math16/contacts/math16_12.jpg",
-    "tmp/pdfs/math16/contacts/math16_11.jpg",
-    "tmp/pdfs/math16/contacts/math16_10.jpg",
-    "tmp/pdfs/math16/contacts/math16_09.jpg",
-    "tmp/pdfs/math16/contacts/math16_08.jpg",
-    "tmp/pdfs/math16/contacts/math16_07.jpg",
-    "tmp/pdfs/math16/contacts/math16_06.jpg",
-    "tmp/pdfs/math16/contacts/math16_05.jpg",
-    "quant-wiki-notes/学习资源/目录.md",
-    "quant-wiki-notes/学习资源/知识库索引卫生清单.md",
-    "quant-wiki-notes/学习资源/阅读笔记模板.md",
-    "quant-wiki-notes/学习资源/经典书单分级学习路径.md",
-    "quant-wiki-notes/行业洞察/目录.md",
-    "quant-wiki-notes/量化前沿/前沿研报与论文学习导航.md",
-    "quant-wiki-notes/求职指南/求职与行业学习导航.md",
-    "quant-wiki-notes/进阶专题/机器学习交易/机器学习交易实操导航.md",
-    "quant-wiki-notes/进阶专题/专项资产实操导航.md",
-    "quant-wiki-notes/进阶专题/公司与宏观分析实操导航.md",
-    "quant-wiki-notes/进阶专题/组合与仓位实操导航.md",
-    "tmp/pdfs/math15/coverage.md",
-    "quant-wiki-notes/进阶专题/因子投资/因子投资实操导航.md",
-    "quant-wiki-notes/进阶专题/回测方法/回测与quant-lab对照清单.md",
-    "quant-wiki-notes/进阶专题/进阶工具部署与回测实操导航.md",
-    "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md"
+    "tmp/pdfs/math_appendix/contacts/contact_583_583.jpg",
+    "tmp/pdfs/math_appendix/contacts/contact_579_582.jpg",
+    "tmp/pdfs/math_appendix/contacts/contact_575_578.jpg",
+    "tmp/pdfs/math_appendix/contacts/contact_571_574.jpg",
+    "tmp/pdfs/math_appendix/contacts/contact_567_570.jpg",
+    "tmp/pdfs/math_appendix/contacts/contact_563_566.jpg",
+    "tmp/pdfs/math_appendix/contacts/contact_559_562.jpg",
+    "tmp/pdfs/math_appendix/contacts/contact_555_558.jpg",
+    "tmp/pdfs/math_appendix/contacts/contact_551_554.jpg",
+    "tmp/pdfs/math_appendix/contacts",
+    "tmp/pdfs/math_appendix/ocr.txt",
+    "tmp/pdfs/math_appendix/ocr.json",
+    "quant-wiki-notes/笔记质量复核清单.md.tmp.1280.766d1695913e",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/目录.md.tmp.1280.944e73d3ba66",
+    "tmp/pdfs/math_appendix/pages/p583.jpg",
+    "tmp/pdfs/math_appendix/pages/p582.jpg",
+    "tmp/pdfs/math_appendix/pages",
+    "tmp/pdfs/math_appendix/process_appendix.py",
+    "tmp/pdfs/math_appendix",
+    "quant-wiki-notes/进阶专题/综合金融知识体系/危机情景、黑天鹅与反脆弱投资.md.tmp.1280.c9416cf9c91f",
+    "quant-wiki-notes/全库网络资源总表.md.tmp.1280.47c26fdaec2f",
+    "quant-wiki-notes/进阶专题/危机情景与反脆弱实操导航.md",
+    "quant-wiki-notes/笔记质量复核清单.md",
+    "tmp/pdfs/math18/coverage.md",
+    "quant-wiki-notes/量化前沿/券商研报系列阅读实操.md",
+    "quant-wiki-notes/进阶专题/交易执行与微观结构实操导航.md",
+    "quant-wiki-notes/进阶专题/另类投资与全球市场实操导航.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/基金产品尽调-填空稿.md",
+    "quant-wiki-notes/进阶专题/基金与产品尽调实操.md",
+    "quant-wiki-notes/进阶专题/合规与投资者保护实操导航.md",
+    "考研数学/张宇基础30讲笔记/17_高数第17讲_多元函数积分学的预备知识.md",
+    "tmp/pdfs/math17/coverage.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/作业一致性自检表.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/模拟到小资金-门槛填空稿.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/毕业交付包-填空稿.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/风控卡-示例-v0.1.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/风控卡-A-B-填空稿.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/阶段三研究包-填空稿.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/公司分析-示例提纲-宽基ETF教学.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/投资者说明书-示例-v0.1.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/目录.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/宏观温度计-填空稿.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/公司分析-v0.1-填空稿.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/投资者说明书-v0.1-填空稿.md",
+    "quant-wiki-notes/量化前沿/研报四行摘要范例.md",
+    "quant-wiki-notes/入门教程/阶段零-实操百科/FRED宏观数据实操.md"
   ]
 }
