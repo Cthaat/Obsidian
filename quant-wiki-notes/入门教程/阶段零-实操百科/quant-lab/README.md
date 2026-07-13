@@ -6,9 +6,15 @@
 - [[Python量化环境搭建]]
 - [[Backtrader对照实操]]
 - [[动量策略实操]]
+- [[组合层实操]]
+- [[因子打分实操]]
+- [[模拟盘日志实操]]
+- [[阶段三作业打通清单]]
+- [[阶段四风控卡实操]]
 - [[财务数据实操]]
 - [[研究笔记与实验工作流]]
 - [[实验日志目录]]
+- [[阶段零完成验收]]
 
 > 示例数字与结果均为教学用途，**不构成投资建议**。AKShare / Backtrader 接口升级后请以官方文档为准微调。
 
@@ -55,7 +61,21 @@ python scripts/run_ts_momentum.py --lookback 20
 python scripts/pull_watchlist.py
 python scripts/run_cross_section_momentum.py
 
-# 6) 财务表示意拉取
+# 6) 组合层：月度等权 / 逆波动
+python scripts/run_equal_weight_rebalance.py --scheme equal --rebalance ME
+python scripts/run_equal_weight_rebalance.py --scheme inv_vol
+
+# 7) 价量双因子打分 top-k（教学，无财务 PIT）
+python scripts/run_factor_score.py --top-k 2
+
+# 8) 模拟盘 CSV 日志（非实盘下单）
+python scripts/init_paper_log.py --name dual_ma_000001
+python scripts/append_paper_signal.py --name dual_ma_000001 --symbol 000001
+
+# 9) 报告风控摘要（对已有 reports/*.json）
+python scripts/summarize_report.py reports/dual_ma_000001_5_20.json --max-dd-limit 0.25
+
+# 10) 财务表示意拉取
 python scripts/pull_financials_example.py --symbol 600519
 ```
 
@@ -68,6 +88,10 @@ python scripts/pull_financials_example.py --symbol 600519
 | run_backtrader | `reports/bt_dual_ma_*.json` |
 | ts momentum | `reports/ts_mom_*.json` |
 | xs momentum | `reports/xs_mom_*.json` |
+| portfolio | `reports/port_*.json` |
+| factor score | `reports/factor_*.json` |
+| paper log | `data/paper_logs/*.csv` |
+| summarize | 终端 flags；可选 `--json-out` |
 | financials | `data/processed/*_financials.meta.json` 与成功的表 |
 
 ## 重要限制
