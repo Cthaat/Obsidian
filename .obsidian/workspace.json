@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/10_高数第10讲_一元函数积分学的应用一_几何应用.md",
+                "file": "考研数学/张宇基础30讲笔记/18_高数第18讲_多元函数积分学.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "10_高数第10讲_一元函数积分学的应用一_几何应用"
+              "title": "18_高数第18讲_多元函数积分学"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/10_高数第10讲_一元函数积分学的应用一_几何应用.md",
+                "file": "考研数学/张宇基础30讲笔记/18_高数第18讲_多元函数积分学.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10_高数第10讲_一元函数积分学的应用一_几何应用 的大纲"
+              "title": "18_高数第18讲_多元函数积分学 的大纲"
             }
           },
           {
@@ -183,29 +183,31 @@
   },
   "active": "c758915c26055d51",
   "lastOpenFiles": [
+    "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
+    "tmp/pdfs/math13/coverage.md",
+    "tmp/pdfs/math13/summary.json",
+    "tmp/pdfs/math13/ocr.txt",
+    "tmp/pdfs/math13/evidence.json",
+    "tmp/pdfs/math13/contacts/math01_09.jpg",
+    "tmp/pdfs/math13/contacts/math01_08.jpg",
+    "tmp/pdfs/math13/contacts/math01_07.jpg",
+    "tmp/pdfs/math13/contacts/math01_06.jpg",
+    "tmp/pdfs/math13/contacts/math01_05.jpg",
+    "tmp/pdfs/math13/contacts/math01_04.jpg",
+    "tmp/pdfs/math13/contacts/math01_03.jpg",
+    "tmp/pdfs/math13/contacts/math01_02.jpg",
+    "tmp/pdfs/math13/contacts/math01_01.jpg",
+    "tmp/pdfs/math13/pages/p342.jpg",
+    "tmp/pdfs/math13/contacts",
+    "tmp/pdfs/math13/pages",
+    "tmp/pdfs/math13/process_chapter.py",
+    "tmp/pdfs/math13",
+    "考研数学/张宇基础30讲笔记/10_高数第10讲_一元函数积分学的应用一_几何应用.md",
     "tmp/pdfs/math12/coverage.md",
     "tmp/pdfs/math12/summary.json",
     "tmp/pdfs/math12/ocr.txt",
     "tmp/pdfs/math12/evidence.json",
-    "tmp/pdfs/math12/contacts/math01_03.jpg",
-    "tmp/pdfs/math12/contacts/math01_02.jpg",
-    "tmp/pdfs/math12/contacts/math01_01.jpg",
-    "tmp/pdfs/math12/pages/p308.jpg",
-    "tmp/pdfs/math12/pages/p307.jpg",
-    "tmp/pdfs/math12/pages/p306.jpg",
-    "tmp/pdfs/math12/pages/p305.jpg",
-    "tmp/pdfs/math12/pages/p304.jpg",
-    "tmp/pdfs/math12/pages/p303.jpg",
-    "tmp/pdfs/math12/pages/p302.jpg",
-    "tmp/pdfs/math12/contacts",
-    "tmp/pdfs/math12/pages",
-    "tmp/pdfs/math12/process_chapter.py",
-    "tmp/pdfs/math12",
     "tmp/pdfs/math11/coverage.md",
-    "tmp/pdfs/math11/summary.json",
-    "tmp/pdfs/math11/ocr.txt",
-    "tmp/pdfs/math11/evidence.json",
-    "考研数学/张宇基础30讲笔记/10_高数第10讲_一元函数积分学的应用一_几何应用.md",
     "tmp/pdfs/math10/coverage.md",
     "考研数学/张宇基础30讲笔记/04_高数第4讲_一元函数微分学的计算.md",
     "考研数学/张宇基础30讲笔记/05_高数第5讲_一元函数微分学的应用一_几何应用.md",
@@ -215,7 +217,6 @@
     "考研数学/张宇基础30讲笔记/00_知识链路图.md",
     "考研数学/张宇基础30讲笔记/18_高数第18讲_多元函数积分学.md",
     "考研数学/张宇基础30讲笔记/12_高数第12讲_一元函数积分学的应用三.md",
-    "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
     "考研数学/张宇基础30讲笔记/11_高数第11讲_一元函数积分学的应用二.md",
     "考研数学/张宇基础30讲笔记/17_高数第17讲_多元函数积分学的预备知识.md",
     "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md",
@@ -227,7 +228,6 @@
     "408/408考研笔记/计算机网络/04-网络层.md",
     "考研数学/张宇基础30讲笔记/16_高数第16讲_无穷级数.md",
     "408/408考研笔记/计算机网络/03-数据链路层.md",
-    "考研数学/张宇基础30讲笔记/08_高数第8讲_一元函数积分学的概念与性质.md",
-    "408/408考研笔记/计算机网络/02-物理层.md"
+    "考研数学/张宇基础30讲笔记/08_高数第8讲_一元函数积分学的概念与性质.md"
   ]
 }
