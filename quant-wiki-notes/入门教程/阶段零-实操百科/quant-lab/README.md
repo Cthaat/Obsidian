@@ -5,8 +5,10 @@
 - [[quant-lab项目模板]]
 - [[Python量化环境搭建]]
 - [[Backtrader对照实操]]
+- [[动量策略实操]]
 - [[财务数据实操]]
 - [[研究笔记与实验工作流]]
+- [[实验日志目录]]
 
 > 示例数字与结果均为教学用途，**不构成投资建议**。AKShare / Backtrader 接口升级后请以官方文档为准微调。
 
@@ -34,7 +36,7 @@ pip install -r requirements.txt
 python check_env.py
 ```
 
-## 一键流程
+# 一键流程
 
 ```powershell
 # 1) 拉日线（默认 000001 前复权 2020-2023）
@@ -46,7 +48,14 @@ python scripts/run_dual_ma.py
 # 3) Backtrader 事件驱动（需 backtrader）
 python scripts/run_backtrader_dual_ma.py
 
-# 4) 财务表示意拉取（接口因版本而异）
+# 4) 时序动量（第二策略）
+python scripts/run_ts_momentum.py --lookback 20
+
+# 5) 观察池截面动量（先 pull_watchlist）
+python scripts/pull_watchlist.py
+python scripts/run_cross_section_momentum.py
+
+# 6) 财务表示意拉取
 python scripts/pull_financials_example.py --symbol 600519
 ```
 
@@ -57,6 +66,8 @@ python scripts/pull_financials_example.py --symbol 600519
 | pull | `data/raw/*.csv`, `data/processed/*_ohlcv.csv`, `*.meta.json` |
 | run_dual_ma | `reports/dual_ma_*.csv|json` |
 | run_backtrader | `reports/bt_dual_ma_*.json` |
+| ts momentum | `reports/ts_mom_*.json` |
+| xs momentum | `reports/xs_mom_*.json` |
 | financials | `data/processed/*_financials.meta.json` 与成功的表 |
 
 ## 重要限制

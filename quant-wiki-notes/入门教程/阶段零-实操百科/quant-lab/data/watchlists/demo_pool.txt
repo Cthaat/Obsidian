@@ -1,0 +1,7 @@
+# Demo watchlist for teaching cross-sectional momentum (NOT a recommendation).
+# One 6-digit A-share code per line. Replace with your own liquid names.
+000001
+600519
+601318
+000858
+601888
