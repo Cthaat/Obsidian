@@ -72,3 +72,16 @@ created: 2026-05-30
 [5] S&P Dow Jones Indices. "[Low Volatility: A Practitioner’s Guide](https://www.spglobal.com/spdji/en/documents/education/education-low-volatility-a-practitioners-guide.pdf)." Pages 1-2.
 
 [6] Fama, Eugene F. and French, Kenneth R. "[Multifactor Explanations of Asset Pricing Anomalies](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1996.tb05202.x)." The Journal of Finance, vol. 51, no. 1, March 1996, pp. 55-84.
+
+---
+
+## 学习接线（百科补丁）
+
+> 本节为全库百科化 **P2** 补丁：把词条接到课程与实操，不改变上文词典正文。
+
+### 为何在量化/投资里重要
+把「便宜/动量/质量」等特征变成可重复暴露；是连接基本面直觉与量化组合的语言。
+
+### 下一步读什么
+- 课程：[[因子投资体系]] · [[因子打分实操]]
+- 进阶：[[因子投资/目录]]

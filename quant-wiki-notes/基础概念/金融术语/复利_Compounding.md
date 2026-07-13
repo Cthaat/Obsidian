@@ -120,3 +120,16 @@ $$ \begin{aligned}&FV=P\times e^{rt}\\&\textbf{其中:}\\&e=\text{无理数 2.71
 [3] Gilbert Strang et al. “[Calculus Volume 1: 1.5 Exponential and Logarithmic Functions](https://openstax.org/details/books/calculus-volume-1).” OpenStax, 2016.
 
 [4] Investor.gov. “[What Is Compound Interest?](https://www.investor.gov/additional-resources/information/youth/teachers-classroom-resources/what-compound-interest)”
+
+---
+
+## 学习接线（百科补丁）
+
+> 本节为全库百科化 **P2** 补丁：把词条接到课程与实操，不改变上文词典正文。
+
+### 为何在量化/投资里重要
+长期财富对收益率、成本、大亏极度敏感；是阶段一世界观的数学内核。
+
+### 下一步读什么
+- 课程：[[复利思维]] · [[阶段一作业打通清单]]
+- 练习：说明书里写期限与回撤

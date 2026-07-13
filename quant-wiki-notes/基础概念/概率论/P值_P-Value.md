@@ -79,3 +79,16 @@ p 值用于衡量观测数据的显著性。当研究人员发现两个变量之
 ## References
 
 [1] U.S. Census Bureau. “[Statistical Quality Standard E1: Analyzing Data](https://www.census.gov/about/policies/quality/standards/standarde1.html).”
+
+---
+
+## 学习接线（百科补丁）
+
+> 本节为全库百科化 **P2** 补丁：把词条接到课程与实操，不改变上文词典正文。
+
+### 为何在量化/投资里重要
+量化研究里常被滥用：多次试参后「显著」可能无效；需结合多重检验与经济意义。
+
+### 下一步读什么
+- 课程：[[回测方法论]] · [[研究笔记与实验工作流]]
+- 词条：[[假设检验_Hypothesis Testing]]

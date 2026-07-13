@@ -99,3 +99,16 @@ $$ \begin{aligned} &M = V - V_x\\ &\textbf{其中:}\\ &V = \text{最新价格}\\
 [4] Jegadeesh, Narasimhan, and Sheridan Titman. "Returns to buying winners and selling losers: Implications for stock market efficiency." The Journal of Finance, Vol. 48, No. 1. 1993. Pp. 65-91.
 
 [5] Lutey, Matt, and David Rayome. "Live Out of Sample Testing of CAN SLIM Stock Selection Strategy." Journal of Accounting and Finance, Vol. 22, No. 2. 2022. Pp. 1-7.
+
+---
+
+## 学习接线（百科补丁）
+
+> 本节为全库百科化 **P2** 补丁：把词条接到课程与实操，不改变上文词典正文。
+
+### 为何在量化/投资里重要
+趋势延续是常见可检验假设；也极易在震荡市与高换手成本下失效。
+
+### 下一步读什么
+- 课程：[[常见量化策略]] · [[动量策略实操]]
+- 代码：`run_ts_momentum.py`

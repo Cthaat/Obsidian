@@ -56,3 +56,16 @@ created: 2026-05-30
 [2] Elder Research. "[Who Invented the Null Hypothesis?](https://www.elderresearch.com/blog/who-invented-the-null-hypothesis/)"
 
 [3] Formplus. "[Hypothesis Testing: Definition, Uses, Limitations and Examples](https://www.formpl.us/blog/hypothesis-testing#:~:text=The%20most%20significant%20benefit%20of,%E2%80%9Cis%20or%20is%20not%E2%80%9D.)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 本节为全库百科化 **P2** 补丁：把词条接到课程与实操，不改变上文词典正文。
+
+### 为何在量化/投资里重要
+策略「有没有效」要放在统计框架里说；否则容易被好运气曲线说服。
+
+### 下一步读什么
+- 课程：[[回测方法论]] · [[过拟合识别与防御]]
+- 词条：[[P值_P-Value]] · [[置信区间_Confidence Interval]]

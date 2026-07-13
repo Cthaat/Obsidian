@@ -101,3 +101,16 @@ created: 2026-05-30
 [1] Corporate Finance Institute. "[What is a Market Order?](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/market-order/)" Accessed May 5, 2021.
 
 [2] U.S. Securities and Exchange Commission. "[Types of Orders](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders)." Accessed May 5, 2021.
+
+---
+
+## 学习接线（百科补丁）
+
+> 本节为全库百科化 **P2** 补丁：把词条接到课程与实操，不改变上文词典正文。
+
+### 为何在量化/投资里重要
+追求成交确定性、牺牲价格确定性；回测若假装「想要的价全成交」会高估策略。
+
+### 下一步读什么
+- 课程：[[市场微观结构与交易执行]] · [[A股交易规则实操要点]]
+- 词条：[[限价单_Limit Order]] · [[流动性_Liquidity]]
