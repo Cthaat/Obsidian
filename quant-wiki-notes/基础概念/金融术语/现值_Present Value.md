@@ -103,3 +103,16 @@ $$ \begin{aligned} &\text{现值} = \dfrac{\text{未来价值}}{(1+r)^n}\\ &\tex
 [3] Investor.gov. "[Treasury Securities](https://www.investor.gov/introduction-investing/investing-basics/glossary/treasury-securities)."
 
 [4] Calculator.net. "[Present Value Calculator](https://www.calculator.net/present-value-calculator.html?c1futurevalue=5%2C000&c1yearsv=5&c1interestratev=8.25&x=Calculate#future-money)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 网络资源扩充波次：接到课程、导航与官网。
+
+### 为何在量化/投资里重要
+现值是一切折现估值的语言；利率上行压低长久期资产价格。
+
+### 下一步读什么
+- [[估值方法入门]] · [[利率_Interest Rate]]
+- [[固定收益与利率]] · [[公司与宏观分析实操导航]]

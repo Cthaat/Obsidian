@@ -99,3 +99,16 @@ created: 2026-05-30
 [6] Congressional Research Service. "[Introduction to U.S. Economy: The Business Cycle and Growth](https://sgp.fas.org/crs/misc/IF10411.pdf)," Page 2.
 
 [7] Federal Reserve Bank of Atlanta. "[Stock Prices in the Financial Crisis](https://www.atlantafed.org/cenfis/publications/notesfromthevault/0909)."
+
+---
+
+## 学习接线（百科补丁）
+
+> 网络资源扩充波次：接到课程、导航与官网。
+
+### 为何在量化/投资里重要
+周期位置影响盈利、信用与风格；配置与行业研究需要周期语言。
+
+### 下一步读什么
+- [[宏观经济基础]] · [[公司与宏观分析实操导航]]
+- [[国内生产总值_Gross Domestic Product (GDP)]] · [[资产配置入门]]

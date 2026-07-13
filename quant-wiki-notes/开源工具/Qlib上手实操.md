@@ -65,14 +65,20 @@ graph LR
 
 ## 第一小时（文档驱动）
 
+安装文档：https://qlib.readthedocs.io/en/latest/start/installation.html  
+
 | 步骤 | 动作 |
 |---:|---|
-| 1 | 读官方 Quick Start / Installation |
-| 2 | 创建**独立**虚拟环境 |
-| 3 | `pip install pyqlib`（版本以环境兼容为准） |
-| 4 | 按文档准备示例数据（CN 数据脚本或社区源，**以当前 README 为准**） |
-| 5 | 进入 examples，尝试文档中的 `qrun ...yaml` 示例 |
-| 6 | 记录：配置文件路径、数据路径、是否跑通 |
+| 1 | 读官方 Installation + GitHub README（**以当前页的 Python 版本要求为准**） |
+| 2 | 创建**独立**虚拟环境（Conda 常用） |
+| 3 | 稳定版常见：`pip install pyqlib`；源码安装见文档（numpy/cython 等前置） |
+| 4 | 验证：`import qlib; print(qlib.__version__)` |
+| 5 | 按文档准备数据（CN/US 脚本或社区源，**命令随版本变**） |
+| 6 | 进入 examples，尝试 `qrun`/workflow 示例 |
+| 7 | 记录：配置路径、数据路径、是否跑通 |
+
+> [!tip]
+> 不同文档页对 Python 次版本支持可能不一致；若 `pip install pyqlib` 失败，优先对照 **当前** installation 页与 GitHub issues，而不是混用过时教程。
 
 > [!warning]
 > 数据下载可能较大且源会变更。失败时优先看官方 issue/文档，而不是随机换魔改脚本。

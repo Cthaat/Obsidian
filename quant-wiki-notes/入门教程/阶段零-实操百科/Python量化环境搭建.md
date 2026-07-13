@@ -298,6 +298,18 @@ vn.py 建议**单独 conda 环境**，不要和轻量研究环境搅在一起。
 | 项目根目录 |  |
 | requirements 是否入库 |  |
 
+## 官网与依赖核对（补充）
+
+| 项 | 建议 |
+|---|---|
+| Python | 3.10–3.12 常用；AKShare 文档要求 ≥3.9，常推荐 3.11.x |
+| 数据库 | `pip install akshare --upgrade`（见 [安装页](https://akshare.akfamily.xyz/installation.html)） |
+| 回测 | `pip install backtrader` 或平台研究环境 |
+| 工程自检 | quant-lab：`python scripts/run_stage0_check.py --with-synthetic-backtest` |
+| 总表 | [[全库网络资源总表]] |
+
+国内 pip 镜像示例（可选）：`-i https://pypi.tuna.tsinghua.edu.cn/simple`
+
 ## 相关概念
 
-[[从零开始的第一条实操路线]] [[数据源全景与选型]] [[回测框架选型与最小示例]] [[Python量化环境配置]] [[AKShare安装配置]]
+[[从零开始的第一条实操路线]] [[数据源全景与选型]] [[回测框架选型与最小示例]] [[Python量化环境配置]] [[AKShare安装配置]] [[全库网络资源总表]] [[全库使用验收看板]]
