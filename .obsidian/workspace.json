@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
+                "file": "考研数学/张宇基础30讲笔记/31_线代第0讲_零基础课_线性代数入门.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "19_线代第1讲_行列式"
+              "title": "31_线代第0讲_零基础课_线性代数入门"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
+                "file": "考研数学/张宇基础30讲笔记/31_线代第0讲_零基础课_线性代数入门.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "19_线代第1讲_行列式 的大纲"
+              "title": "31_线代第0讲_零基础课_线性代数入门 的大纲"
             }
           },
           {
@@ -183,6 +183,7 @@
   },
   "active": "a8e9541866814ada",
   "lastOpenFiles": [
+    "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
     "tmp/pdfs/math_linear6/ocr_manifest.json",
     "tmp/pdfs/math_linear6/ocr/p212.json",
     "tmp/pdfs/math_linear6/ocr/p212.txt",
@@ -193,7 +194,6 @@
     "tmp/pdfs/math_linear6/ocr/p209.json",
     "tmp/pdfs/math_linear6/ocr/p209.txt",
     "tmp/pdfs/math_linear6/ocr/p208.json",
-    "tmp/pdfs/math_linear6/ocr/p208.txt",
     "tmp/pdfs/math_linear6/contacts/contact_08_p212-p212.jpg",
     "tmp/pdfs/math_linear6/contacts/contact_07_p208-p211.jpg",
     "tmp/pdfs/math_linear6/contacts/contact_06_p204-p207.jpg",
@@ -207,7 +207,6 @@
     "考研数学/张宇基础30讲笔记/23_线代第5讲_特征值与特征向量.md",
     "tmp/pdfs/math_linear5/coverage.md",
     "考研数学/张宇基础30讲笔记/18A_高数附录_图形公式与变形技巧.md",
-    "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
     "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
     "tmp/pdfs/math_linear1/coverage.md",
     "tmp/pdfs/math_linear0/coverage.md",
