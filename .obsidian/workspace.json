@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
+                "file": "408/408考研笔记/计算机组成原理/04-指令系统.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "19_线代第1讲_行列式"
+              "title": "04-指令系统"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
+                "file": "408/408考研笔记/计算机组成原理/04-指令系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "19_线代第1讲_行列式 的大纲"
+              "title": "04-指令系统 的大纲"
             }
           },
           {
@@ -183,6 +183,11 @@
   },
   "active": "a8e9541866814ada",
   "lastOpenFiles": [
+    "408/408考研笔记/计算机组成原理/03-存储系统.md",
+    "408/408考研笔记/计算机组成原理/02-数据的表示和运算.md",
+    "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
+    "考研数学/张宇基础30讲笔记/28_概率第4讲_随机变量的数字特征.md",
+    "tmp/pdfs/math_probability4/coverage.md",
     "tmp/pdfs/math_probability4/contacts/contact_06.jpg",
     "tmp/pdfs/math_probability4/contacts/contact_05.jpg",
     "tmp/pdfs/math_probability4/contacts/contact_04.jpg",
@@ -201,7 +206,6 @@
     "tmp/pdfs/math_probability4/ocr/p127.json",
     "tmp/pdfs/math_probability4/pages/p127.png",
     "tmp/pdfs/math_probability4/ocr/p126.json",
-    "tmp/pdfs/math_probability4/pages/p126.png",
     "tmp/pdfs/math_probability4/ocr/p125.json",
     "tmp/pdfs/math_probability4/ocr/p124.json",
     "考研数学/张宇基础30讲笔记/27_概率第3讲_多维随机变量及其分布.md",
@@ -211,7 +215,6 @@
     "tmp/pdfs/math_probability2/coverage.md",
     "考研数学/张宇基础30讲笔记/25_概率第1讲_随机事件与概率.md",
     "tmp/pdfs/math_probability1/coverage.md",
-    "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
     "考研数学/张宇基础30讲笔记/23_线代第5讲_特征值与特征向量.md",
     "tmp/pdfs/math_linear5/coverage.md",
     "考研数学/张宇基础30讲笔记/18A_高数附录_图形公式与变形技巧.md",
@@ -225,9 +228,6 @@
     "quant-wiki-notes/量化前沿/券商研报系列阅读实操.md",
     "quant-wiki-notes/进阶专题/交易执行与微观结构实操导航.md",
     "quant-wiki-notes/进阶专题/另类投资与全球市场实操导航.md",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/基金产品尽调-填空稿.md",
-    "quant-wiki-notes/进阶专题/基金与产品尽调实操.md",
-    "quant-wiki-notes/进阶专题/合规与投资者保护实操导航.md",
-    "考研数学/张宇基础30讲笔记/17_高数第17讲_多元函数积分学的预备知识.md"
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/基金产品尽调-填空稿.md"
   ]
 }
