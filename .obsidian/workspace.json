@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/31_线代第0讲_零基础课_线性代数入门.md",
+                "file": "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "31_线代第0讲_零基础课_线性代数入门"
+              "title": "19_线代第1讲_行列式"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/31_线代第0讲_零基础课_线性代数入门.md",
+                "file": "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "31_线代第0讲_零基础课_线性代数入门 的大纲"
+              "title": "19_线代第1讲_行列式 的大纲"
             }
           },
           {
@@ -183,6 +183,7 @@
   },
   "active": "a8e9541866814ada",
   "lastOpenFiles": [
+    "考研数学/张宇基础30讲笔记/31_线代第0讲_零基础课_线性代数入门.md",
     "tmp/pdfs/math_probability3/coverage.md",
     "tmp/pdfs/math_probability3/ocr/combined.txt",
     "tmp/pdfs/math_probability3/ocr/p081.txt",
@@ -227,7 +228,6 @@
     "quant-wiki-notes/进阶专题/合规与投资者保护实操导航.md",
     "考研数学/张宇基础30讲笔记/17_高数第17讲_多元函数积分学的预备知识.md",
     "tmp/pdfs/math17/coverage.md",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/作业一致性自检表.md",
-    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/模拟到小资金-门槛填空稿.md"
+    "quant-wiki-notes/入门教程/阶段零-实操百科/作业填空/作业一致性自检表.md"
   ]
 }
