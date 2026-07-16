@@ -75,13 +75,18 @@
     "done": true,
     "cancelled": true
   },
+  "dismissedNotices": {
+    "live-preview-callout-warning": false
+  },
   "features": {
     "INTERNAL_TESTING_ENABLED_BY_DEFAULT": true
   },
   "generalSettings": {},
   "headingOpened": {
     "Core Statuses": true,
-    "Custom Statuses": true
+    "Custom Statuses": true,
+    "核心状态": true,
+    "自定义状态": true
   },
   "debugSettings": {
     "ignoreSortInstructions": false,

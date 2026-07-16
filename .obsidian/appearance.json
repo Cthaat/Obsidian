@@ -1,3 +1,6 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "",
+  "accentColor": "#82bec9",
+  "nativeMenus": true
 }
