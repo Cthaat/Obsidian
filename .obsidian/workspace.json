@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
+                "file": "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "19_线代第1讲_行列式"
+              "title": "01_高数第1讲_函数极限与连续"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
+                "file": "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "19_线代第1讲_行列式 的大纲"
+              "title": "01_高数第1讲_函数极限与连续 的大纲"
             }
           },
           {
@@ -183,6 +183,7 @@
   },
   "active": "a8e9541866814ada",
   "lastOpenFiles": [
+    "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
     "tmp/pdfs/yu_bingsen_ch2/coverage.md",
     "tmp/pdfs/yu_bingsen_ch2/summary.json",
     "tmp/pdfs/yu_bingsen_ch2/spreads/spread_099-100.jpg",
@@ -214,7 +215,6 @@
     "408/408考研笔记/计算机组成原理/04-指令系统.md",
     "408/408考研笔记/计算机组成原理/03-存储系统.md",
     "408/408考研笔记/计算机组成原理/02-数据的表示和运算.md",
-    "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
     "考研数学/张宇基础30讲笔记/28_概率第4讲_随机变量的数字特征.md",
     "tmp/pdfs/math_probability4/coverage.md",
     "考研数学/张宇基础30讲笔记/27_概率第3讲_多维随机变量及其分布.md",
