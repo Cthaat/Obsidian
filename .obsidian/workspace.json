@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "13b35b74ca2379d9",
+        "id": "cbe22945e1c5a817",
         "type": "tabs",
         "children": [
           {
-            "id": "a8e9541866814ada",
+            "id": "3c70c73b99895048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
-                "mode": "preview",
+                "file": "考研数学/错题/2026-7-18.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01_高数第1讲_函数极限与连续"
+              "title": "2026-7-18"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
+                "file": "考研数学/错题/2026-7-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01_高数第1讲_函数极限与连续 的大纲"
+              "title": "2026-7-18 的大纲"
             }
           },
           {
@@ -181,8 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8e9541866814ada",
+  "active": "3c70c73b99895048",
   "lastOpenFiles": [
+    "考研数学/错题/2026-7-18.md",
+    "未命名.base",
+    "2026-06-01.md",
+    "未命名.md",
+    "408/408考研笔记/计算机网络/05-传输层.md",
+    "考研数学/错题",
+    "未命名",
+    "408/408考研笔记/计算机组成原理/01-计算机系统概述.md",
+    "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
     "tmp/pdfs/os4_gap_audit/validate_note.py",
     "tmp/pdfs/os4_gap_audit/key_pages/TB_p293.png",
     "tmp/pdfs/os4_gap_audit/key_pages/TB_p292.png",
@@ -200,10 +209,6 @@
     "tmp/pdfs/os4_gap_audit/ocr_textbook.py",
     "tmp/pdfs/os4_gap_audit/summary.json",
     "tmp/pdfs/os4_gap_audit/text/X07_操作系统历年真题合集.txt",
-    "tmp/pdfs/os4_gap_audit/text/X06_操作系统强化【结课考试+答案】.txt",
-    "tmp/pdfs/os4_gap_audit/text/X05_操作系统强化【结课考试】.txt",
-    "tmp/pdfs/os4_gap_audit/text/X04_操作系统P4【凌乱手稿】_文件系统骚图.txt",
-    "tmp/pdfs/os4_gap_audit/text/X03_操作系统P3+P4_文件系统骚图.txt",
     "tmp/pdfs/yu_bingsen_ch6/coverage.md",
     "tmp/pdfs/yu_bingsen_ch5/coverage.md",
     "tmp/pdfs/yu_bingsen_ch4/coverage.md",
@@ -223,11 +228,6 @@
     "考研数学/张宇基础30讲笔记/28_概率第4讲_随机变量的数字特征.md",
     "tmp/pdfs/math_probability4/coverage.md",
     "考研数学/张宇基础30讲笔记/27_概率第3讲_多维随机变量及其分布.md",
-    "考研数学/张宇基础30讲笔记/31_线代第0讲_零基础课_线性代数入门.md",
-    "tmp/pdfs/math_probability3/coverage.md",
-    "考研数学/张宇基础30讲笔记/26_概率第2讲_一维随机变量及其分布.md",
-    "tmp/pdfs/math_probability2/coverage.md",
-    "考研数学/张宇基础30讲笔记/25_概率第1讲_随机事件与概率.md",
-    "tmp/pdfs/math_probability1/coverage.md"
+    "考研数学/张宇基础30讲笔记/31_线代第0讲_零基础课_线性代数入门.md"
   ]
 }
