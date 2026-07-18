@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "考研数学/张宇基础30讲笔记/02_高数第2讲_数列极限.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "02_高数第2讲_数列极限"
+            }
+          },
+          {
+            "id": "afc936ada693ca6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "考研数学/错题/2026-7-19.md",
                 "mode": "source",
                 "source": true
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/错题/2026-7-19.md",
+                "file": "考研数学/张宇基础30讲笔记/02_高数第2讲_数列极限.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-7-19 的大纲"
+              "title": "02_高数第2讲_数列极限 的大纲"
             }
           },
           {
@@ -183,8 +197,11 @@
   },
   "active": "3c70c73b99895048",
   "lastOpenFiles": [
-    "考研数学/错题/2026-7-18.md",
     "考研数学/错题/2026-7-19.md",
+    "考研数学/张宇基础30讲笔记/02_高数第2讲_数列极限.md",
+    "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
+    "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
+    "考研数学/错题/2026-7-18.md",
     "未命名.base",
     "2026-06-01.md",
     "未命名.md",
@@ -192,7 +209,6 @@
     "考研数学/错题",
     "未命名",
     "408/408考研笔记/计算机组成原理/01-计算机系统概述.md",
-    "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
     "tmp/pdfs/os4_gap_audit/validate_note.py",
     "tmp/pdfs/os4_gap_audit/key_pages/TB_p293.png",
     "tmp/pdfs/os4_gap_audit/key_pages/TB_p292.png",
@@ -226,8 +242,6 @@
     "408/408考研笔记/计算机组成原理/04-指令系统.md",
     "408/408考研笔记/计算机组成原理/03-存储系统.md",
     "408/408考研笔记/计算机组成原理/02-数据的表示和运算.md",
-    "考研数学/张宇基础30讲笔记/28_概率第4讲_随机变量的数字特征.md",
-    "tmp/pdfs/math_probability4/coverage.md",
-    "考研数学/张宇基础30讲笔记/27_概率第3讲_多维随机变量及其分布.md"
+    "考研数学/张宇基础30讲笔记/28_概率第4讲_随机变量的数字特征.md"
   ]
 }
