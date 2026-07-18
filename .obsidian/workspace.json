@@ -35,7 +35,8 @@
               "title": "2026-7-19"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/02_高数第2讲_数列极限.md",
+                "file": "考研数学/错题/2026-7-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02_高数第2讲_数列极限 的大纲"
+              "title": "2026-7-19 的大纲"
             }
           },
           {
@@ -195,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c70c73b99895048",
+  "active": "afc936ada693ca6a",
   "lastOpenFiles": [
-    "考研数学/错题/2026-7-19.md",
     "考研数学/张宇基础30讲笔记/02_高数第2讲_数列极限.md",
+    "考研数学/错题/2026-7-19.md",
     "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
     "考研数学/张宇基础30讲笔记/01_高数第1讲_函数极限与连续.md",
     "考研数学/错题/2026-7-18.md",
