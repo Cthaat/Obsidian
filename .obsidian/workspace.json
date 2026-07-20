@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
+                "file": "考研数学/张宇基础30讲笔记/04_高数第4讲_一元函数微分学的计算.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03_高数第3讲_一元函数微分学的概念"
+              "title": "04_高数第4讲_一元函数微分学的计算"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
+                "file": "考研数学/张宇基础30讲笔记/04_高数第4讲_一元函数微分学的计算.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03_高数第3讲_一元函数微分学的概念 的大纲"
+              "title": "04_高数第4讲_一元函数微分学的计算 的大纲"
             }
           },
           {
@@ -198,8 +198,12 @@
   },
   "active": "2b7c1ab98566f951",
   "lastOpenFiles": [
-    "考研数学/错题/2026-7-21.md",
     "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
+    "考研数学/错题/2026-7-21.md",
+    "docs/superpowers/plans/2026-07-20-math30-table-audit.md",
+    "docs/superpowers/plans",
+    "docs/superpowers",
+    "docs",
     "考研数学/错题/2026-7-20.md",
     "考研数学/错题/2026-7-19.md",
     "408/408考研笔记/计算机网络/05-传输层.md",
@@ -227,9 +231,6 @@
     "tmp/pdfs/os4_gap_audit/key_pages",
     "tmp/pdfs/os4_gap_audit/render_key_pages.py",
     "tmp/pdfs/os4_gap_audit/textbook_ocr.txt",
-    "tmp/pdfs/os4_gap_audit/ocr_textbook.py",
-    "tmp/pdfs/os4_gap_audit/summary.json",
-    "tmp/pdfs/os4_gap_audit/text/X07_操作系统历年真题合集.txt",
     "tmp/pdfs/yu_bingsen_ch6/coverage.md",
     "tmp/pdfs/yu_bingsen_ch5/coverage.md",
     "tmp/pdfs/yu_bingsen_ch4/coverage.md",
@@ -242,7 +243,6 @@
     "tmp/pdfs/math_probability5/coverage.md",
     "考研数学/张宇基础30讲笔记/17_高数第17讲_多元函数积分学的预备知识.md",
     "考研数学/张宇基础30讲笔记/18A_高数附录_图形公式与变形技巧.md",
-    "408/408考研笔记/计算机组成原理/04-指令系统.md",
-    "408/408考研笔记/计算机组成原理/03-存储系统.md"
+    "408/408考研笔记/计算机组成原理/04-指令系统.md"
   ]
 }
