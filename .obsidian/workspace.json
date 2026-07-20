@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "afc936ada693ca6a",
+            "id": "2b7c1ab98566f951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/错题/2026-7-19.md",
-                "mode": "source",
+                "file": "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-7-19"
+              "title": "03_高数第3讲_一元函数微分学的概念"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/错题/2026-7-21.md",
+                "file": "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-7-21 的大纲"
+              "title": "03_高数第3讲_一元函数微分学的概念 的大纲"
             }
           },
           {
@@ -195,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c70c73b99895048",
+  "active": "2b7c1ab98566f951",
   "lastOpenFiles": [
-    "考研数学/错题/2026-7-20.md",
     "考研数学/错题/2026-7-21.md",
+    "考研数学/错题/2026-7-20.md",
     "考研数学/错题/2026-7-19.md",
     "408/408考研笔记/计算机网络/05-传输层.md",
     "考研数学/张宇基础30讲笔记/20_线代第2讲_矩阵.md",
