@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/05_高数第5讲_一元函数微分学的应用一_几何应用.md",
-                "mode": "preview",
+                "file": "考研数学/错题/2026-7-21 1.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "05_高数第5讲_一元函数微分学的应用一_几何应用"
+              "title": "2026-7-21 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/错题/2026-7-21.md",
+                "file": "考研数学/错题/2026-7-21 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-7-21 的大纲"
+              "title": "2026-7-21 1 的大纲"
             }
           },
           {
@@ -195,11 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c70c73b99895048",
+  "active": "2b7c1ab98566f951",
   "lastOpenFiles": [
+    "考研数学/错题/2026-7-21.md",
+    "考研数学/错题/2026-7-21 1.md",
     "考研数学/张宇基础30讲笔记/05_高数第5讲_一元函数微分学的应用一_几何应用.md",
     "考研数学/张宇基础30讲笔记/04_高数第4讲_一元函数微分学的计算.md",
-    "考研数学/错题/2026-7-21.md",
     "408/408考研笔记/计算机网络/06-应用层.md",
     "408/408考研笔记/计算机组成原理/07-输入输出系统.md",
     "考研数学/张宇基础30讲笔记/03_高数第3讲_一元函数微分学的概念.md",
@@ -241,7 +243,6 @@
     "考研数学/张宇基础30讲笔记/19_线代第1讲_行列式.md",
     "tmp/pdfs/yu_bingsen_ch2/coverage.md",
     "tmp/pdfs/yu_bingsen_ch1/coverage.md",
-    "考研数学/张宇基础30讲笔记/30_概率第6讲_数理统计.md",
-    "tmp/pdfs/math_probability6/coverage.md"
+    "考研数学/张宇基础30讲笔记/30_概率第6讲_数理统计.md"
   ]
 }
