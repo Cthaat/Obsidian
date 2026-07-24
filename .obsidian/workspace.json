@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/错题/2026-7-24.md",
+                "file": "考研数学/错题/2026-7-25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-7-24"
+              "title": "2026-7-25"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/06_高数第6讲_一元函数微分学的应用二.md",
+                "file": "考研数学/张宇基础30讲笔记/05_高数第5讲_一元函数微分学的应用一_几何应用.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06_高数第6讲_一元函数微分学的应用二"
+              "title": "05_高数第5讲_一元函数微分学的应用一_几何应用"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/错题/2026-7-24.md",
+                "file": "考研数学/错题/2026-7-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-7-24 的大纲"
+              "title": "2026-7-25 的大纲"
             }
           },
           {
@@ -197,9 +197,10 @@
   },
   "active": "3c70c73b99895048",
   "lastOpenFiles": [
-    "考研数学/张宇基础30讲笔记/06_高数第6讲_一元函数微分学的应用二.md",
-    "考研数学/错题/2026-7-24.md",
     "考研数学/张宇基础30讲笔记/05_高数第5讲_一元函数微分学的应用一_几何应用.md",
+    "考研数学/张宇基础30讲笔记/06_高数第6讲_一元函数微分学的应用二.md",
+    "考研数学/错题/2026-7-25.md",
+    "考研数学/错题/2026-7-24.md",
     "考研数学/张宇基础30讲笔记/07_高数第7讲_一元函数微分学的应用三.md",
     "考研数学/张宇基础30讲笔记/04_高数第4讲_一元函数微分学的计算.md",
     "考研数学/张宇基础30讲笔记/18A_高数附录_图形公式与变形技巧.md",
@@ -241,7 +242,6 @@
     "tmp/pdfs/os4_gap_audit/render_key_pages.py",
     "tmp/pdfs/os4_gap_audit/textbook_ocr.txt",
     "tmp/pdfs/yu_bingsen_ch6/coverage.md",
-    "tmp/pdfs/yu_bingsen_ch5/coverage.md",
-    "tmp/pdfs/yu_bingsen_ch4/coverage.md"
+    "tmp/pdfs/yu_bingsen_ch5/coverage.md"
   ]
 }
