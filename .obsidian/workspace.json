@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/08_高数第8讲_一元函数积分学的概念与性质.md",
+                "file": "408/408考研笔记/数据结构/01-绪论.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "08_高数第8讲_一元函数积分学的概念与性质"
+              "title": "01-绪论"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/错题/2026-7-25.md",
-                "mode": "source",
+                "file": "考研数学/张宇基础30讲笔记/08_高数第8讲_一元函数积分学的概念与性质.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-7-25"
+              "title": "08_高数第8讲_一元函数积分学的概念与性质"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c70c73b99895048",
+  "active": "cd45505e3c0e3e26",
   "lastOpenFiles": [
-    "考研数学/张宇基础30讲笔记/07_高数第7讲_一元函数微分学的应用三.md",
     "考研数学/错题/2026-7-25.md",
+    "408/408考研笔记/数据结构/01-绪论.md",
+    "考研数学/张宇基础30讲笔记/08_高数第8讲_一元函数积分学的概念与性质.md",
+    "考研数学/张宇基础30讲笔记/07_高数第7讲_一元函数微分学的应用三.md",
     "考研数学/张宇基础30讲笔记/05_高数第5讲_一元函数微分学的应用一_几何应用.md",
     "考研数学/张宇基础30讲笔记/06_高数第6讲_一元函数微分学的应用二.md",
     "考研数学/错题/2026-7-24.md",
@@ -240,8 +243,6 @@
     "tmp/pdfs/os4_gap_audit/key_pages/X07_p30.png",
     "tmp/pdfs/os4_gap_audit/key_pages",
     "tmp/pdfs/os4_gap_audit/render_key_pages.py",
-    "tmp/pdfs/os4_gap_audit/textbook_ocr.txt",
-    "tmp/pdfs/yu_bingsen_ch6/coverage.md",
-    "tmp/pdfs/yu_bingsen_ch5/coverage.md"
+    "tmp/pdfs/os4_gap_audit/textbook_ocr.txt"
   ]
 }
