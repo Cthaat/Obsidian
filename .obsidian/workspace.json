@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/错题/2026-7-26.md",
+                "file": "考研数学/错题/2026-7-27.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-7-26"
+              "title": "2026-7-27"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/错题/2026-7-26.md",
+                "file": "考研数学/错题/2026-7-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-7-26 的大纲"
+              "title": "2026-7-27 的大纲"
             }
           },
           {
@@ -198,8 +198,9 @@
   },
   "active": "cd45505e3c0e3e26",
   "lastOpenFiles": [
-    "考研数学/错题/2026-7-25.md",
     "考研数学/错题/2026-7-26.md",
+    "考研数学/错题/2026-7-27.md",
+    "考研数学/错题/2026-7-25.md",
     "考研数学/错题/2026-7-24.md",
     "考研数学/张宇基础30讲笔记/08_高数第8讲_一元函数积分学的概念与性质.md",
     "408/408考研笔记/数据结构/01-绪论.md",
@@ -227,7 +228,6 @@
     "考研数学/错题/2026-7-18.md",
     "未命名.base",
     "2026-06-01.md",
-    "未命名.md",
     "考研数学/错题",
     "未命名",
     "tmp/pdfs/os4_gap_audit/validate_note.py",
