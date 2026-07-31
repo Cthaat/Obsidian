@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/错题/2026-8-1.md",
-                "mode": "source",
+                "file": "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-8-1"
+              "title": "09_高数第9讲_一元函数积分学的计算"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/错题/2026-8-1.md",
+                "file": "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-8-1 的大纲"
+              "title": "09_高数第9讲_一元函数积分学的计算 的大纲"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "cd45505e3c0e3e26",
   "lastOpenFiles": [
-    "考研数学/错题/2026-7-31.md",
     "考研数学/错题/2026-8-1.md",
+    "考研数学/错题/2026-7-31.md",
     "考研数学/错题/2026-7-30.md",
     "考研数学/错题/2026-7-29.md",
     "考研数学/错题/2026-7-28.md",
