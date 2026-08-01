@@ -28,14 +28,15 @@
               "type": "markdown",
               "state": {
                 "file": "考研数学/错题/2026-8-1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "2026-8-1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -156,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
+                "file": "考研数学/错题/2026-8-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "09_高数第9讲_一元函数积分学的计算 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -195,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd45505e3c0e3e26",
+  "active": "554503309746ad9a",
   "lastOpenFiles": [
-    "考研数学/错题/2026-8-1.md",
     "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
+    "考研数学/错题/2026-8-1.md",
     "考研数学/张宇基础30讲笔记/08_高数第8讲_一元函数积分学的概念与性质.md",
     "考研数学/错题/2026-7-31.md",
     "考研数学/错题/2026-7-30.md",
