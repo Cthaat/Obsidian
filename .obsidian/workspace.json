@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/错题/2026-8-5.md",
-                "mode": "source",
+                "file": "408/408考研笔记/数据结构/07-查找.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-8-5"
+              "title": "07-查找"
             }
           }
         ],
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/错题/2026-8-5.md",
+                "file": "408/408考研笔记/数据结构/07-查找.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,8 +200,8 @@
   },
   "active": "554503309746ad9a",
   "lastOpenFiles": [
-    "考研数学/错题/2026-8-4.md",
     "考研数学/错题/2026-8-5.md",
+    "考研数学/错题/2026-8-4.md",
     "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
     "考研数学/张宇基础30讲笔记/08_高数第8讲_一元函数积分学的概念与性质.md",
     "考研数学/张宇基础30讲笔记/04_高数第4讲_一元函数微分学的计算.md",
