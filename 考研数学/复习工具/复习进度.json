@@ -1,0 +1,5087 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "q-001",
+      "book": "30讲",
+      "chapter": "第 1 讲",
+      "question": "例 1.19",
+      "dates": [
+        "2026-7-18"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-002",
+      "book": "30讲",
+      "chapter": "第 1 讲",
+      "question": "例 1.24",
+      "dates": [
+        "2026-7-18",
+        "2026-7-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-003",
+      "book": "30讲",
+      "chapter": "第 1 讲",
+      "question": "例 1.28",
+      "dates": [
+        "2026-7-18"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-004",
+      "book": "30讲",
+      "chapter": "第 1 讲",
+      "question": "例 1.32",
+      "dates": [
+        "2026-7-18"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-005",
+      "book": "30讲",
+      "chapter": "第 2 讲",
+      "question": "例 2.5",
+      "dates": [
+        "2026-7-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending",
+        "failed",
+        "failed",
+        "failed",
+        "failed",
+        "failed",
+        "pending"
+      ]
+    },
+    {
+      "id": "q-006",
+      "book": "30讲",
+      "chapter": "第 2 讲",
+      "question": "2.7",
+      "dates": [
+        "2026-7-19",
+        "2026-7-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-007",
+      "book": "30讲",
+      "chapter": "第 2 讲",
+      "question": "例 2.8",
+      "dates": [
+        "2026-7-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-008",
+      "book": "30讲",
+      "chapter": "第 2 讲",
+      "question": "2.8",
+      "dates": [
+        "2026-7-19",
+        "2026-7-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-009",
+      "book": "30讲",
+      "chapter": "第 2 讲",
+      "question": "例 2.9",
+      "dates": [
+        "2026-7-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-010",
+      "book": "30讲",
+      "chapter": "第 2 讲",
+      "question": "例 2.10",
+      "dates": [
+        "2026-7-19",
+        "2026-7-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-011",
+      "book": "30讲",
+      "chapter": "第 2 讲",
+      "question": "例 2.11",
+      "dates": [
+        "2026-7-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-012",
+      "book": "30讲",
+      "chapter": "第 2 讲",
+      "question": "例 2.12",
+      "dates": [
+        "2026-7-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-013",
+      "book": "30讲",
+      "chapter": "第 2 讲",
+      "question": "例 2.14",
+      "dates": [
+        "2026-7-19",
+        "2026-7-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-014",
+      "book": "30讲",
+      "chapter": "第 2 讲",
+      "question": "例 2.15",
+      "dates": [
+        "2026-7-19",
+        "2026-7-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-015",
+      "book": "30讲",
+      "chapter": "第 3 讲",
+      "question": "例 3.3",
+      "dates": [
+        "2026-7-21",
+        "2026-7-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-016",
+      "book": "30讲",
+      "chapter": "第 3 讲",
+      "question": "例 3.5",
+      "dates": [
+        "2026-7-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-017",
+      "book": "30讲",
+      "chapter": "第 3 讲",
+      "question": "3.6",
+      "dates": [
+        "2026-7-21",
+        "2026-7-22",
+        "2026-7-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-018",
+      "book": "30讲",
+      "chapter": "第 3 讲",
+      "question": "例 3.7",
+      "dates": [
+        "2026-7-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-019",
+      "book": "30讲",
+      "chapter": "第 3 讲",
+      "question": "3.8",
+      "dates": [
+        "2026-7-21",
+        "2026-7-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-020",
+      "book": "30讲",
+      "chapter": "第 3 讲",
+      "question": "3.9",
+      "dates": [
+        "2026-7-21",
+        "2026-7-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-021",
+      "book": "30讲",
+      "chapter": "第 3 讲",
+      "question": "例 3.11",
+      "dates": [
+        "2026-7-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-022",
+      "book": "30讲",
+      "chapter": "第 4 讲",
+      "question": "例 4.3",
+      "dates": [
+        "2026-7-21",
+        "2026-7-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-023",
+      "book": "30讲",
+      "chapter": "第 4 讲",
+      "question": "例 4.7",
+      "dates": [
+        "2026-7-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-024",
+      "book": "30讲",
+      "chapter": "第 5 讲",
+      "question": "例 5.1",
+      "dates": [
+        "2026-7-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-025",
+      "book": "30讲",
+      "chapter": "第 5 讲",
+      "question": "例 5.3",
+      "dates": [
+        "2026-7-23",
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-026",
+      "book": "30讲",
+      "chapter": "第 5 讲",
+      "question": "5.5",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-027",
+      "book": "30讲",
+      "chapter": "第 5 讲",
+      "question": "例 5.7",
+      "dates": [
+        "2026-7-23",
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-028",
+      "book": "30讲",
+      "chapter": "第 5 讲",
+      "question": "5.7",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-029",
+      "book": "30讲",
+      "chapter": "第 5 讲",
+      "question": "例 5.9",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-030",
+      "book": "30讲",
+      "chapter": "第 5 讲",
+      "question": "例 5.10",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-031",
+      "book": "30讲",
+      "chapter": "第 5 讲",
+      "question": "例 5.15",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-032",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "6.3",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-033",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "例 6.4",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-034",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "6.4",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-035",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "例 6.5",
+      "dates": [
+        "2026-7-24",
+        "2026-7-25"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-036",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "6.5",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-037",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "例 6.6",
+      "dates": [
+        "2026-7-24",
+        "2026-7-25",
+        "2026-7-26"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-038",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "6.6",
+      "dates": [
+        "2026-7-24",
+        "2026-7-25",
+        "2026-7-26"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-039",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "例 6.7",
+      "dates": [
+        "2026-7-24",
+        "2026-7-25",
+        "2026-7-26"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-040",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "6.7",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-041",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "6.8",
+      "dates": [
+        "2026-7-24",
+        "2026-7-25"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-042",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "例 6.10",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-043",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "例 6.13",
+      "dates": [
+        "2026-7-24",
+        "2026-7-25"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-044",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "例 6.14",
+      "dates": [
+        "2026-7-24"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-045",
+      "book": "30讲",
+      "chapter": "第 6 讲",
+      "question": "例 6.16",
+      "dates": [
+        "2026-7-24",
+        "2026-7-25"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-046",
+      "book": "30讲",
+      "chapter": "第 7 讲",
+      "question": "7.3",
+      "dates": [
+        "2026-7-25"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-047",
+      "book": "30讲",
+      "chapter": "第 8 讲",
+      "question": "例 8.14",
+      "dates": [
+        "2026-8-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-048",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "例 9.2",
+      "dates": [
+        "2026-8-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-049",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "9.2",
+      "dates": [
+        "2026-8-3"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-050",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "例 9.6",
+      "dates": [
+        "2026-8-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-051",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "例 9.10",
+      "dates": [
+        "2026-8-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-052",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "例 9.12",
+      "dates": [
+        "2026-8-1",
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-053",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "例 9.14",
+      "dates": [
+        "2026-8-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-054",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "例 9.15",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-055",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "例 9.19",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-056",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "例 9.20",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-057",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "例 9.21",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-058",
+      "book": "30讲",
+      "chapter": "第 9 讲",
+      "question": "例 9.22",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-059",
+      "book": "1000题基础篇",
+      "chapter": "第 1 章",
+      "question": "1.2",
+      "dates": [
+        "2026-7-27"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-060",
+      "book": "1000题基础篇",
+      "chapter": "第 1 章",
+      "question": "1.4",
+      "dates": [
+        "2026-7-27"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-061",
+      "book": "1000题基础篇",
+      "chapter": "第 1 章",
+      "question": "1.6",
+      "dates": [
+        "2026-7-27"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-062",
+      "book": "1000题基础篇",
+      "chapter": "第 1 章",
+      "question": "1.11",
+      "dates": [
+        "2026-7-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-063",
+      "book": "1000题基础篇",
+      "chapter": "第 1 章",
+      "question": "1.17",
+      "dates": [
+        "2026-7-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-064",
+      "book": "1000题基础篇",
+      "chapter": "第 1 章",
+      "question": "1.18",
+      "dates": [
+        "2026-7-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-065",
+      "book": "1000题基础篇",
+      "chapter": "第 1 章",
+      "question": "1.20",
+      "dates": [
+        "2026-7-28",
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-066",
+      "book": "1000题基础篇",
+      "chapter": "第 1 章",
+      "question": "1.21",
+      "dates": [
+        "2026-7-28",
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-067",
+      "book": "1000题基础篇",
+      "chapter": "第 2 章",
+      "question": "2.1",
+      "dates": [
+        "2026-7-28",
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-068",
+      "book": "1000题基础篇",
+      "chapter": "第 3 章",
+      "question": "3.2",
+      "dates": [
+        "2026-7-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-069",
+      "book": "1000题基础篇",
+      "chapter": "第 3 章",
+      "question": "3.3",
+      "dates": [
+        "2026-7-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-070",
+      "book": "1000题基础篇",
+      "chapter": "第 3 章",
+      "question": "3.4",
+      "dates": [
+        "2026-7-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-071",
+      "book": "1000题基础篇",
+      "chapter": "第 3 章",
+      "question": "3.5",
+      "dates": [
+        "2026-7-28",
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-072",
+      "book": "1000题基础篇",
+      "chapter": "第 3 章",
+      "question": "3.6",
+      "dates": [
+        "2026-7-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-073",
+      "book": "1000题基础篇",
+      "chapter": "第 3 章",
+      "question": "3.11",
+      "dates": [
+        "2026-7-28",
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-074",
+      "book": "1000题基础篇",
+      "chapter": "第 3 章",
+      "question": "3.12",
+      "dates": [
+        "2026-7-28",
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-075",
+      "book": "1000题基础篇",
+      "chapter": "第 3 章",
+      "question": "3.13",
+      "dates": [
+        "2026-7-28",
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-076",
+      "book": "1000题基础篇",
+      "chapter": "第 4 章",
+      "question": "4.4",
+      "dates": [
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-077",
+      "book": "1000题基础篇",
+      "chapter": "第 4 章",
+      "question": "4.8",
+      "dates": [
+        "2026-7-29",
+        "2026-7-30",
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-078",
+      "book": "1000题基础篇",
+      "chapter": "第 4 章",
+      "question": "4.11",
+      "dates": [
+        "2026-7-29",
+        "2026-7-30",
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-079",
+      "book": "1000题基础篇",
+      "chapter": "第 4 章",
+      "question": "4.12",
+      "dates": [
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-080",
+      "book": "1000题基础篇",
+      "chapter": "第 4 章",
+      "question": "4.17",
+      "dates": [
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-081",
+      "book": "1000题基础篇",
+      "chapter": "第 4 章",
+      "question": "4.18",
+      "dates": [
+        "2026-7-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-082",
+      "book": "1000题基础篇",
+      "chapter": "第 5 章",
+      "question": "5.2",
+      "dates": [
+        "2026-7-29",
+        "2026-7-30",
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-083",
+      "book": "1000题基础篇",
+      "chapter": "第 5 章",
+      "question": "5.7",
+      "dates": [
+        "2026-7-30",
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-084",
+      "book": "1000题基础篇",
+      "chapter": "第 5 章",
+      "question": "5.16",
+      "dates": [
+        "2026-7-30",
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-085",
+      "book": "1000题基础篇",
+      "chapter": "第 5 章",
+      "question": "5.19",
+      "dates": [
+        "2026-7-30",
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-086",
+      "book": "1000题基础篇",
+      "chapter": "第 5 章",
+      "question": "5.20",
+      "dates": [
+        "2026-7-30"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-087",
+      "book": "1000题基础篇",
+      "chapter": "第 5 章",
+      "question": "5.23",
+      "dates": [
+        "2026-7-30"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-088",
+      "book": "1000题基础篇",
+      "chapter": "第 5 章",
+      "question": "5.24",
+      "dates": [
+        "2026-7-30"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-089",
+      "book": "1000题基础篇",
+      "chapter": "第 6 章",
+      "question": "6.3",
+      "dates": [
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-090",
+      "book": "1000题基础篇",
+      "chapter": "第 6 章",
+      "question": "6.5",
+      "dates": [
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-091",
+      "book": "1000题基础篇",
+      "chapter": "第 6 章",
+      "question": "6.18",
+      "dates": [
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-092",
+      "book": "1000题基础篇",
+      "chapter": "第 6 章",
+      "question": "6.21",
+      "dates": [
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-093",
+      "book": "1000题基础篇",
+      "chapter": "第 6 章",
+      "question": "6.22",
+      "dates": [
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-094",
+      "book": "1000题基础篇",
+      "chapter": "第 7 章",
+      "question": "7.1",
+      "dates": [
+        "2026-7-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-095",
+      "book": "1000题基础篇",
+      "chapter": "第 7 章",
+      "question": "7.5",
+      "dates": [
+        "2026-7-31",
+        "2026-8-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-096",
+      "book": "1000题基础篇",
+      "chapter": "第 8 章",
+      "question": "8.1",
+      "dates": [
+        "2026-8-2",
+        "2026-8-3"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-097",
+      "book": "1000题基础篇",
+      "chapter": "第 8 章",
+      "question": "8.4",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-098",
+      "book": "1000题基础篇",
+      "chapter": "第 8 章",
+      "question": "8.7",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-099",
+      "book": "1000题基础篇",
+      "chapter": "第 8 章",
+      "question": "8.8",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-100",
+      "book": "1000题基础篇",
+      "chapter": "第 8 章",
+      "question": "8.10",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-101",
+      "book": "1000题基础篇",
+      "chapter": "第 8 章",
+      "question": "8.12",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-102",
+      "book": "1000题基础篇",
+      "chapter": "第 8 章",
+      "question": "8.14",
+      "dates": [
+        "2026-8-2",
+        "2026-8-3"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-103",
+      "book": "1000题基础篇",
+      "chapter": "第 8 章",
+      "question": "8.18",
+      "dates": [
+        "2026-8-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-104",
+      "book": "1000题基础篇",
+      "chapter": "第 8 章",
+      "question": "8.21",
+      "dates": [
+        "2026-8-2",
+        "2026-8-3",
+        "2026-8-4"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-105",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.1.3",
+      "dates": [
+        "2026-8-3"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-106",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.1.4",
+      "dates": [
+        "2026-8-3"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-107",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.1.23",
+      "dates": [
+        "2026-8-3",
+        "2026-8-4"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-108",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.1.24",
+      "dates": [
+        "2026-8-3",
+        "2026-8-4"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-109",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.2",
+      "dates": [
+        "2026-8-3"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-110",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.3",
+      "dates": [
+        "2026-8-3"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-111",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.10",
+      "dates": [
+        "2026-8-3"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-112",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.12",
+      "dates": [
+        "2026-8-3"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-113",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.15",
+      "dates": [
+        "2026-8-4"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-114",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.17",
+      "dates": [
+        "2026-8-4"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-115",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.20",
+      "dates": [
+        "2026-8-4",
+        "2026-8-5"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-116",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.23",
+      "dates": [
+        "2026-8-4"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-117",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.24",
+      "dates": [
+        "2026-8-4",
+        "2026-8-5"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-118",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.25",
+      "dates": [
+        "2026-8-4",
+        "2026-8-5"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-119",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.26",
+      "dates": [
+        "2026-8-4"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-120",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.29",
+      "dates": [
+        "2026-8-4"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-121",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.30",
+      "dates": [
+        "2026-8-4",
+        "2026-8-5"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-122",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.33",
+      "dates": [
+        "2026-8-4",
+        "2026-8-5"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-123",
+      "book": "1000题基础篇",
+      "chapter": "第 9 章",
+      "question": "9.34",
+      "dates": [
+        "2026-8-4"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-124",
+      "book": "1000题基础篇",
+      "chapter": "第 10 章",
+      "question": "10.3",
+      "dates": [
+        "2026-8-5"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-125",
+      "book": "1000题基础篇",
+      "chapter": "第 10 章",
+      "question": "10.5",
+      "dates": [
+        "2026-8-5",
+        "2026-8-6"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-126",
+      "book": "1000题基础篇",
+      "chapter": "第 10 章",
+      "question": "10.6",
+      "dates": [
+        "2026-8-5",
+        "2026-8-6"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-127",
+      "book": "1000题基础篇",
+      "chapter": "第 10 章",
+      "question": "10.7",
+      "dates": [
+        "2026-8-5"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-128",
+      "book": "1000题基础篇",
+      "chapter": "第 10 章",
+      "question": "10.8",
+      "dates": [
+        "2026-8-5",
+        "2026-8-6"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-129",
+      "book": "1000题基础篇",
+      "chapter": "第 10 章",
+      "question": "10.9",
+      "dates": [
+        "2026-8-5",
+        "2026-8-6"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-130",
+      "book": "1000题基础篇",
+      "chapter": "第 10 章",
+      "question": "10.11",
+      "dates": [
+        "2026-8-5"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-131",
+      "book": "1000题基础篇",
+      "chapter": "第 10 章",
+      "question": "10.16",
+      "dates": [
+        "2026-8-5",
+        "2026-8-6"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-132",
+      "book": "1000题基础篇",
+      "chapter": "第 10 章",
+      "question": "10.17",
+      "dates": [
+        "2026-8-5"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-133",
+      "book": "1000题基础篇",
+      "chapter": "第 11 章",
+      "question": "11.2",
+      "dates": [
+        "2026-8-6",
+        "2026-8-8"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-134",
+      "book": "1000题基础篇",
+      "chapter": "第 11 章",
+      "question": "11.5",
+      "dates": [
+        "2026-8-6",
+        "2026-8-8"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-135",
+      "book": "1000题基础篇",
+      "chapter": "第 11 章",
+      "question": "11.6",
+      "dates": [
+        "2026-8-6",
+        "2026-8-8"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-136",
+      "book": "1000题基础篇",
+      "chapter": "第 11 章",
+      "question": "11.7",
+      "dates": [
+        "2026-8-6",
+        "2026-8-8"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-137",
+      "book": "1000题基础篇",
+      "chapter": "第 11 章",
+      "question": "11.8",
+      "dates": [
+        "2026-8-6",
+        "2026-8-8"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-138",
+      "book": "1000题基础篇",
+      "chapter": "第 11 章",
+      "question": "11.9",
+      "dates": [
+        "2026-8-8",
+        "2026-8-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-139",
+      "book": "1000题基础篇",
+      "chapter": "第 11 章",
+      "question": "11.10 *5",
+      "dates": [
+        "2026-8-8",
+        "2026-8-9"
+      ],
+      "hint": "原文 *5，含义待核对",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-140",
+      "book": "1000题基础篇",
+      "chapter": "第 11 章",
+      "question": "11.11",
+      "dates": [
+        "2026-8-8",
+        "2026-8-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-141",
+      "book": "1000题基础篇",
+      "chapter": "范围记录待核对",
+      "question": "12章",
+      "dates": [
+        "2026-8-9"
+      ],
+      "hint": "范围记录，核对具体题目后复习",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-142",
+      "book": "1000题基础篇",
+      "chapter": "第 12 章",
+      "question": "12.1",
+      "dates": [
+        "2026-8-10",
+        "2026-8-14",
+        "2026-8-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-143",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.5",
+      "dates": [
+        "2026-8-10",
+        "2026-8-14",
+        "2026-8-19",
+        "2026-8-20",
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-144",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.6",
+      "dates": [
+        "2026-8-10",
+        "2026-8-14",
+        "2026-8-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-145",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.7",
+      "dates": [
+        "2026-8-14",
+        "2026-8-19",
+        "2026-8-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-146",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.8",
+      "dates": [
+        "2026-8-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-147",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.9",
+      "dates": [
+        "2026-8-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-148",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.10",
+      "dates": [
+        "2026-8-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-149",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.11",
+      "dates": [
+        "2026-8-19",
+        "2026-8-20",
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-150",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.14",
+      "dates": [
+        "2026-8-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-151",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.15",
+      "dates": [
+        "2026-8-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-152",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.16",
+      "dates": [
+        "2026-8-19",
+        "2026-8-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-153",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.17",
+      "dates": [
+        "2026-8-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-154",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.18",
+      "dates": [
+        "2026-8-19",
+        "2026-8-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-155",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.22",
+      "dates": [
+        "2026-8-19",
+        "2026-8-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-156",
+      "book": "1000题基础篇",
+      "chapter": "第 13 章",
+      "question": "13.24",
+      "dates": [
+        "2026-8-19"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-157",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.3",
+      "dates": [
+        "2026-8-20",
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-158",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.5",
+      "dates": [
+        "2026-8-20",
+        "2026-8-21",
+        "2026-8-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-159",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.6",
+      "dates": [
+        "2026-8-20",
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-160",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.8",
+      "dates": [
+        "2026-8-20",
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-161",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.9",
+      "dates": [
+        "2026-8-20",
+        "2026-8-21",
+        "2026-8-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-162",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.10",
+      "dates": [
+        "2026-8-21",
+        "2026-8-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-163",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.12",
+      "dates": [
+        "2026-8-21",
+        "2026-8-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-164",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.13",
+      "dates": [
+        "2026-8-21",
+        "2026-8-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-165",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.14",
+      "dates": [
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-166",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.15",
+      "dates": [
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-167",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.16",
+      "dates": [
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-168",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.18",
+      "dates": [
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-169",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.19",
+      "dates": [
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-170",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.20",
+      "dates": [
+        "2026-8-21",
+        "2026-8-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-171",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.22",
+      "dates": [
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-172",
+      "book": "1000题基础篇",
+      "chapter": "第 14 章",
+      "question": "14.24",
+      "dates": [
+        "2026-8-21"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-173",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.2",
+      "dates": [
+        "2026-8-22",
+        "2026-8-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-174",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.3",
+      "dates": [
+        "2026-8-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-175",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.4",
+      "dates": [
+        "2026-8-22",
+        "2026-8-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-176",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.5",
+      "dates": [
+        "2026-8-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-177",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.6",
+      "dates": [
+        "2026-8-22",
+        "2026-8-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-178",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.9",
+      "dates": [
+        "2026-8-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-179",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.10",
+      "dates": [
+        "2026-8-22",
+        "2026-8-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-180",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.11",
+      "dates": [
+        "2026-8-22",
+        "2026-8-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-181",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.13",
+      "dates": [
+        "2026-8-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-182",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.16",
+      "dates": [
+        "2026-8-22",
+        "2026-8-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-183",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.17",
+      "dates": [
+        "2026-8-22",
+        "2026-8-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-184",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.19",
+      "dates": [
+        "2026-8-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-185",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.20",
+      "dates": [
+        "2026-8-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-186",
+      "book": "1000题基础篇",
+      "chapter": "第 15 章",
+      "question": "15.21",
+      "dates": [
+        "2026-8-23",
+        "2026-8-24",
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-187",
+      "book": "1000题基础篇",
+      "chapter": "第 16 章",
+      "question": "16.1",
+      "dates": [
+        "2026-8-23",
+        "2026-8-24",
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-188",
+      "book": "1000题基础篇",
+      "chapter": "第 16 章",
+      "question": "16.2",
+      "dates": [
+        "2026-8-23",
+        "2026-8-24",
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-189",
+      "book": "1000题基础篇",
+      "chapter": "第 16 章",
+      "question": "16.3",
+      "dates": [
+        "2026-8-23",
+        "2026-8-24",
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-190",
+      "book": "1000题基础篇",
+      "chapter": "第 16 章",
+      "question": "16.4",
+      "dates": [
+        "2026-8-23",
+        "2026-8-24",
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-191",
+      "book": "1000题基础篇",
+      "chapter": "第 16 章",
+      "question": "16.5",
+      "dates": [
+        "2026-8-23",
+        "2026-8-24",
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-192",
+      "book": "1000题基础篇",
+      "chapter": "第 16 章",
+      "question": "16.6",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-193",
+      "book": "1000题基础篇",
+      "chapter": "第 16 章",
+      "question": "16.7",
+      "dates": [
+        "2026-8-23",
+        "2026-8-24",
+        "2026-8-25",
+        "2026-8-28",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-194",
+      "book": "1000题基础篇",
+      "chapter": "第 16 章",
+      "question": "16.13",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-195",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.3",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28",
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-196",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.4",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-197",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.5",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28",
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-198",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.6",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-199",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.8",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28",
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-200",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.9",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28",
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-201",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.11",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28",
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-202",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.12",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-203",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.13",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-204",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.14",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28",
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-205",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.18",
+      "dates": [
+        "2026-8-25",
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-206",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.19",
+      "dates": [
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-207",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.20",
+      "dates": [
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-208",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.21",
+      "dates": [
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-209",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.22",
+      "dates": [
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-210",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.25",
+      "dates": [
+        "2026-8-28",
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-211",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.28",
+      "dates": [
+        "2026-8-28",
+        "2026-8-29",
+        "2026-8-30",
+        "2026-8-31",
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-212",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.30",
+      "dates": [
+        "2026-8-28",
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-213",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.32",
+      "dates": [
+        "2026-8-28",
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-214",
+      "book": "1000题强化篇",
+      "chapter": "第 1 章",
+      "question": "1.38",
+      "dates": [
+        "2026-8-28"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-215",
+      "book": "1000题强化篇",
+      "chapter": "第 2 章",
+      "question": "2.3",
+      "dates": [
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-216",
+      "book": "1000题强化篇",
+      "chapter": "第 2 章",
+      "question": "2.4",
+      "dates": [
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-217",
+      "book": "1000题强化篇",
+      "chapter": "第 2 章",
+      "question": "2.5",
+      "dates": [
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-218",
+      "book": "1000题强化篇",
+      "chapter": "第 2 章",
+      "question": "2.7",
+      "dates": [
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-219",
+      "book": "1000题强化篇",
+      "chapter": "第 2 章",
+      "question": "2.8",
+      "dates": [
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-220",
+      "book": "1000题强化篇",
+      "chapter": "第 2 章",
+      "question": "2.10",
+      "dates": [
+        "2026-8-29"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-221",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.1",
+      "dates": [
+        "2026-8-31",
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-222",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.2",
+      "dates": [
+        "2026-8-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-223",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.3",
+      "dates": [
+        "2026-8-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-224",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.4",
+      "dates": [
+        "2026-8-31",
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-225",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.5",
+      "dates": [
+        "2026-8-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-226",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.6",
+      "dates": [
+        "2026-8-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-227",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.7",
+      "dates": [
+        "2026-8-31",
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-228",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.8",
+      "dates": [
+        "2026-8-31",
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-229",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.9",
+      "dates": [
+        "2026-8-31",
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-230",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.11",
+      "dates": [
+        "2026-8-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-231",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.20",
+      "dates": [
+        "2026-8-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-232",
+      "book": "1000题强化篇",
+      "chapter": "第 3 章",
+      "question": "3.22",
+      "dates": [
+        "2026-8-31"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-233",
+      "book": "1000题强化篇",
+      "chapter": "第 4 章",
+      "question": "4.10",
+      "dates": [
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-234",
+      "book": "1000题强化篇",
+      "chapter": "第 4 章",
+      "question": "4.13",
+      "dates": [
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-235",
+      "book": "1000题强化篇",
+      "chapter": "第 4 章",
+      "question": "4.14",
+      "dates": [
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-236",
+      "book": "1000题强化篇",
+      "chapter": "第 4 章",
+      "question": "4.15",
+      "dates": [
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-237",
+      "book": "1000题强化篇",
+      "chapter": "第 4 章",
+      "question": "4.16",
+      "dates": [
+        "2026-9-1"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-238",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.6",
+      "dates": [
+        "2026-9-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-239",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.8",
+      "dates": [
+        "2026-9-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-240",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.12",
+      "dates": [
+        "2026-9-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-241",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.14",
+      "dates": [
+        "2026-9-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-242",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.16",
+      "dates": [
+        "2026-9-2",
+        "2026-9-3",
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-243",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.17",
+      "dates": [
+        "2026-9-2",
+        "2026-9-3",
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-244",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.18",
+      "dates": [
+        "2026-9-2",
+        "2026-9-3",
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-245",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.19",
+      "dates": [
+        "2026-9-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-246",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.24",
+      "dates": [
+        "2026-9-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-247",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.25",
+      "dates": [
+        "2026-9-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-248",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.26",
+      "dates": [
+        "2026-9-2",
+        "2026-9-3",
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-249",
+      "book": "1000题强化篇",
+      "chapter": "第 5 章",
+      "question": "5.30",
+      "dates": [
+        "2026-9-2"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-250",
+      "book": "1000题强化篇",
+      "chapter": "第 6 章",
+      "question": "6.2",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-251",
+      "book": "1000题强化篇",
+      "chapter": "第 6 章",
+      "question": "6.4",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-252",
+      "book": "1000题强化篇",
+      "chapter": "第 6 章",
+      "question": "6.5",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-253",
+      "book": "1000题强化篇",
+      "chapter": "第 6 章",
+      "question": "6.7",
+      "dates": [
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-254",
+      "book": "1000题强化篇",
+      "chapter": "第 6 章",
+      "question": "6.8",
+      "dates": [
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-255",
+      "book": "1000题强化篇",
+      "chapter": "第 6 章",
+      "question": "6.10",
+      "dates": [
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-256",
+      "book": "1000题强化篇",
+      "chapter": "第 7 章",
+      "question": "7.3",
+      "dates": [
+        "2026-9-12",
+        "2026-9-13"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-257",
+      "book": "1000题强化篇",
+      "chapter": "第 8 章",
+      "question": "8.1",
+      "dates": [
+        "2026-9-12"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-258",
+      "book": "1000题强化篇",
+      "chapter": "第 8 章",
+      "question": "8.6",
+      "dates": [
+        "2026-9-12"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-259",
+      "book": "1000题强化篇",
+      "chapter": "第 8 章",
+      "question": "8.9",
+      "dates": [
+        "2026-9-12"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-260",
+      "book": "1000题强化篇",
+      "chapter": "第 8 章",
+      "question": "8.11",
+      "dates": [
+        "2026-9-12"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-261",
+      "book": "1000题强化篇",
+      "chapter": "第 8 章",
+      "question": "8.14",
+      "dates": [
+        "2026-9-12"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-262",
+      "book": "1000题强化篇",
+      "chapter": "第 8 章",
+      "question": "8.17",
+      "dates": [
+        "2026-9-12"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-263",
+      "book": "1000题强化篇",
+      "chapter": "第 8 章",
+      "question": "8.18",
+      "dates": [
+        "2026-9-12"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-264",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.4",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-265",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.6",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-266",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.10",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-267",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.12",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-268",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.14",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-269",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.16",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-270",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.17",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-271",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.19",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-272",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.22",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-273",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.23",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-274",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.26",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-275",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.27",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-276",
+      "book": "1000题强化篇",
+      "chapter": "第 9 章",
+      "question": "9.28",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-277",
+      "book": "1000题强化篇",
+      "chapter": "第 14 章",
+      "question": "14.4",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-278",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.4",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-279",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.7",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-280",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.8",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-281",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.9",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-282",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.10",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-283",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.14",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-284",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.16",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-285",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.17",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-286",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.18",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-287",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.19",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-288",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.20",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-289",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.23",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-290",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.24",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-291",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.27",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-292",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.36",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-293",
+      "book": "1000题强化篇",
+      "chapter": "第 16 章",
+      "question": "16.40",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-294",
+      "book": "880基础",
+      "chapter": "第 1 章",
+      "question": "1.1.8",
+      "dates": [
+        "2026-9-3",
+        "2026-9-4",
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-295",
+      "book": "880基础",
+      "chapter": "第 1 章",
+      "question": "1.1.12",
+      "dates": [
+        "2026-9-3",
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-296",
+      "book": "880基础",
+      "chapter": "第 1 章",
+      "question": "1.2.2",
+      "dates": [
+        "2026-9-3",
+        "2026-9-4",
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-297",
+      "book": "880基础",
+      "chapter": "第 1 章",
+      "question": "1.3.1",
+      "dates": [
+        "2026-9-3",
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-298",
+      "book": "880基础",
+      "chapter": "第 1 章",
+      "question": "1.3.2.2",
+      "dates": [
+        "2026-9-3",
+        "2026-9-4",
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-299",
+      "book": "880基础",
+      "chapter": "第 1 章",
+      "question": "1.3.2.3",
+      "dates": [
+        "2026-9-3",
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-300",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.1.4",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-301",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.1.6",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-302",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.1.10",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-303",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.1.15",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-304",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.1.16",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-305",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.2.1",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-306",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.2.5",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-307",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.2.10",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-308",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.2.15",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-309",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.2.16",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-310",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.2.17",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-311",
+      "book": "880基础",
+      "chapter": "第 2 章",
+      "question": "2.3.2",
+      "dates": [
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-312",
+      "book": "880基础",
+      "chapter": "第 16 章",
+      "question": "16.2.5",
+      "dates": [
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-313",
+      "book": "880基础",
+      "chapter": "第 17 章",
+      "question": "17.1.6",
+      "dates": [
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-314",
+      "book": "880基础",
+      "chapter": "第 17 章",
+      "question": "17.2.4",
+      "dates": [
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-315",
+      "book": "880基础",
+      "chapter": "第 17 章",
+      "question": "17.2.5",
+      "dates": [
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-316",
+      "book": "880基础",
+      "chapter": "第 17 章",
+      "question": "17.3.2",
+      "dates": [
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-317",
+      "book": "880基础",
+      "chapter": "第 17 章",
+      "question": "17.3.3",
+      "dates": [
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-318",
+      "book": "880基础",
+      "chapter": "第 17 章",
+      "question": "17.3.6",
+      "dates": [
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-319",
+      "book": "880基础",
+      "chapter": "第 18 章",
+      "question": "18.2.2",
+      "dates": [
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-320",
+      "book": "880基础",
+      "chapter": "第 18 章",
+      "question": "18.3.5",
+      "dates": [
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-321",
+      "book": "880基础",
+      "chapter": "第 18 章",
+      "question": "18.3.6",
+      "dates": [
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-322",
+      "book": "880基础",
+      "chapter": "第 18 章",
+      "question": "18.3.9",
+      "dates": [
+        "2026-9-9",
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-323",
+      "book": "880基础",
+      "chapter": "第 18 章",
+      "question": "18.3.10",
+      "dates": [
+        "2026-9-9"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-324",
+      "book": "880基础",
+      "chapter": "第 19 章",
+      "question": "19.1.4",
+      "dates": [
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-325",
+      "book": "880基础",
+      "chapter": "第 19 章",
+      "question": "19.1.7",
+      "dates": [
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-326",
+      "book": "880基础",
+      "chapter": "第 19 章",
+      "question": "19.2.1",
+      "dates": [
+        "2026-9-11"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-327",
+      "book": "880基础",
+      "chapter": "第 19 章",
+      "question": "19.2.4",
+      "dates": [
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-328",
+      "book": "880基础",
+      "chapter": "第 19 章",
+      "question": "19.2.5",
+      "dates": [
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-329",
+      "book": "880基础",
+      "chapter": "第 19 章",
+      "question": "19.3.3",
+      "dates": [
+        "2026-9-10",
+        "2026-9-11"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-330",
+      "book": "880基础",
+      "chapter": "第 19 章",
+      "question": "19.3.4",
+      "dates": [
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-331",
+      "book": "880基础",
+      "chapter": "第 19 章",
+      "question": "19.3.5",
+      "dates": [
+        "2026-9-10"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-332",
+      "book": "880基础",
+      "chapter": "第 20 章",
+      "question": "20.2.1",
+      "dates": [
+        "2026-9-11"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-333",
+      "book": "880基础",
+      "chapter": "第 20 章",
+      "question": "20.2.2",
+      "dates": [
+        "2026-9-11"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-334",
+      "book": "880基础",
+      "chapter": "第 20 章",
+      "question": "20.2.4",
+      "dates": [
+        "2026-9-11"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-335",
+      "book": "880基础",
+      "chapter": "第 20 章",
+      "question": "20.3.1",
+      "dates": [
+        "2026-9-11"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-336",
+      "book": "880基础",
+      "chapter": "第 20 章",
+      "question": "20.3.2",
+      "dates": [
+        "2026-9-11",
+        "2026-9-12"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-337",
+      "book": "880基础",
+      "chapter": "第 21 章",
+      "question": "21.2.4",
+      "dates": [
+        "2026-9-13"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-338",
+      "book": "880基础",
+      "chapter": "第 21 章",
+      "question": "21.2.5",
+      "dates": [
+        "2026-9-13"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-339",
+      "book": "880基础",
+      "chapter": "第 22 章",
+      "question": "22.1.2",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-340",
+      "book": "880基础",
+      "chapter": "第 22 章",
+      "question": "22.1.3",
+      "dates": [
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-341",
+      "book": "880基础",
+      "chapter": "第 22 章",
+      "question": "22.3.4",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-342",
+      "book": "880基础",
+      "chapter": "第 22 章",
+      "question": "22.3.5",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-343",
+      "book": "880基础",
+      "chapter": "第 22 章",
+      "question": "22.3.8",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-344",
+      "book": "880基础",
+      "chapter": "第 22 章",
+      "question": "22.3.10",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-345",
+      "book": "880基础",
+      "chapter": "第 22 章",
+      "question": "22.3.13",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-346",
+      "book": "880基础",
+      "chapter": "第 22 章",
+      "question": "22.3.14",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-347",
+      "book": "880基础",
+      "chapter": "第 22 章",
+      "question": "22.3.15",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-348",
+      "book": "880基础",
+      "chapter": "第 22 章",
+      "question": "22.3.16",
+      "dates": [
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-349",
+      "book": "880综合",
+      "chapter": "第 1 章",
+      "question": "1.1.2",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-350",
+      "book": "880综合",
+      "chapter": "第 1 章",
+      "question": "1.1.3",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-351",
+      "book": "880综合",
+      "chapter": "第 1 章",
+      "question": "1.1.4",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-352",
+      "book": "880综合",
+      "chapter": "第 1 章",
+      "question": "1.1.6",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-353",
+      "book": "880综合",
+      "chapter": "第 1 章",
+      "question": "1.1.10",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-354",
+      "book": "880综合",
+      "chapter": "第 1 章",
+      "question": "1.1.12",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-355",
+      "book": "880综合",
+      "chapter": "第 1 章",
+      "question": "1.1.14",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-356",
+      "book": "880综合",
+      "chapter": "第 1 章",
+      "question": "1.2.4",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-357",
+      "book": "880综合",
+      "chapter": "第 1 章",
+      "question": "1.2.5",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-358",
+      "book": "880综合",
+      "chapter": "第 1 章",
+      "question": "1.2.6",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-359",
+      "book": "880综合",
+      "chapter": "范围记录待核对",
+      "question": "1.3.all",
+      "dates": [
+        "2026-9-4",
+        "2026-9-9",
+        "2026-9-10",
+        "2026-9-11",
+        "2026-9-12",
+        "2026-9-13",
+        "2026-9-14",
+        "2026-9-16",
+        "2026-9-20"
+      ],
+      "hint": "范围记录，核对具体题目后复习",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-360",
+      "book": "三大计算",
+      "chapter": "页码清单",
+      "question": "P27",
+      "dates": [
+        "2026-7-21",
+        "2026-7-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-361",
+      "book": "三大计算",
+      "chapter": "页码清单",
+      "question": "P28",
+      "dates": [
+        "2026-7-21",
+        "2026-7-22",
+        "2026-7-23"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-362",
+      "book": "三大计算",
+      "chapter": "页码清单",
+      "question": "P29",
+      "dates": [
+        "2026-7-21",
+        "2026-7-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    },
+    {
+      "id": "q-363",
+      "book": "三大计算",
+      "chapter": "页码清单",
+      "question": "P30",
+      "dates": [
+        "2026-7-21",
+        "2026-7-22"
+      ],
+      "hint": "",
+      "rounds": [
+        "pending"
+      ]
+    }
+  ],
+  "updatedAt": "2026-09-30T00:11:38.174Z"
+}
