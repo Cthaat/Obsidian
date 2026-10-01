@@ -7,6 +7,7 @@
 .exam-review .exam-review-fail:hover { color: var(--text-error); background: var(--background-modifier-hover); }
 .exam-review .exam-review-fail:disabled { color: var(--text-error); opacity: .75; }
 .exam-review .exam-review-passed { color: var(--text-muted); text-decoration: line-through; }
+.exam-review .exam-review-date { font-size: .8em; color: var(--text-muted); white-space: nowrap; }
 .exam-review .exam-review-details { font-size: .78em; color: var(--text-muted); }
 .exam-review .exam-review-details summary { cursor: pointer; }
 .exam-review .exam-review-details[open] { flex-basis: 100%; margin-left: 1.7em; }

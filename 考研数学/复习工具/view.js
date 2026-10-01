@@ -13,6 +13,14 @@ function roundName(index) {
     return ["二刷", "三刷", "四刷", "五刷", "六刷"][index] ?? `第 ${index + 2} 刷`;
 }
 
+function completionDate() {
+    const parts = new Intl.DateTimeFormat("en-US", {
+        timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit"
+    }).formatToParts(new Date());
+    const value = type => parts.find(part => part.type === type).value;
+    return `${value("year")}-${value("month")}-${value("day")}`;
+}
+
 async function save(id, index, outcome) {
     if (busy.has(id)) return;
     busy.add(id);
@@ -26,6 +34,11 @@ async function save(id, index, outcome) {
             if (item.rounds.slice(0, index).some(value => value !== "failed")) {
                 throw new Error("前一轮状态已变，请重新操作。");
             }
+            const previousOutcome = item.rounds[index];
+            item.completionDates ??= [];
+            item.completionDates[index] = outcome === "passed"
+                ? (previousOutcome === "passed" && item.completionDates[index]) || completionDate()
+                : null;
             item.rounds[index] = outcome;
             if (outcome === "failed" && index === item.rounds.length - 1) item.rounds.push("pending");
             latest.updatedAt = new Date().toISOString();
@@ -58,6 +71,13 @@ function renderItem(item) {
         const title = label.createEl("span", { text: index === 0 ? item.question : roundName(index) });
         if (outcome === "passed") title.addClass("exam-review-passed");
         checkbox.addEventListener("change", () => save(item.id, index, checkbox.checked ? "passed" : "pending"));
+        if (outcome === "passed") {
+            const date = item.completionDates?.[index];
+            const stamp = row.createEl("span", {
+                text: date || "日期未记录", cls: "exam-review-date"
+            });
+            stamp.title = date ? `${roundName(index)}完成日期` : "此前的勾选没有保存时间，无法还原完成日期。";
+        }
         if (outcome !== "passed") {
             const failed = row.createEl("button", { text: outcome === "failed" ? "没做对 · 待重刷" : "没做对", cls: "exam-review-fail" });
             failed.type = "button";

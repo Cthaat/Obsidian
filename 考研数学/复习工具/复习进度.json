@@ -800,7 +800,13 @@
       ],
       "hint": "",
       "rounds": [
+        "passed",
+        "pending",
         "pending"
+      ],
+      "completionDates": [
+        "2026-10-01",
+        null
       ]
     },
     {
@@ -813,7 +819,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-01"
       ]
     },
     {
@@ -826,7 +835,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-01"
       ]
     },
     {
@@ -839,7 +851,15 @@
       ],
       "hint": "",
       "rounds": [
+        "failed",
+        "pending",
+        "failed",
         "pending"
+      ],
+      "completionDates": [
+        null,
+        null,
+        null
       ]
     },
     {
@@ -852,7 +872,11 @@
       ],
       "hint": "",
       "rounds": [
+        "failed",
         "pending"
+      ],
+      "completionDates": [
+        null
       ]
     },
     {
@@ -865,7 +889,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-01"
       ]
     },
     {
@@ -879,7 +906,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-01"
       ]
     },
     {
@@ -893,7 +923,11 @@
       ],
       "hint": "",
       "rounds": [
+        "failed",
         "pending"
+      ],
+      "completionDates": [
+        null
       ]
     },
     {
@@ -907,7 +941,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-01"
       ]
     },
     {
@@ -920,7 +957,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-01"
       ]
     },
     {
@@ -933,7 +973,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-01"
       ]
     },
     {
@@ -946,7 +989,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-01"
       ]
     },
     {
@@ -960,7 +1006,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-01"
       ]
     },
     {
@@ -5087,5 +5136,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-01T08:42:42.632Z"
+  "updatedAt": "2026-10-01T09:24:46.203Z"
 }
