@@ -1022,7 +1022,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-02"
       ]
     },
     {
@@ -1036,7 +1039,11 @@
       ],
       "hint": "",
       "rounds": [
+        "failed",
         "pending"
+      ],
+      "completionDates": [
+        null
       ]
     },
     {
@@ -1050,7 +1057,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-02"
       ]
     },
     {
@@ -1064,7 +1074,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-02"
       ]
     },
     {
@@ -1077,7 +1090,11 @@
       ],
       "hint": "",
       "rounds": [
+        "failed",
         "pending"
+      ],
+      "completionDates": [
+        null
       ]
     },
     {
@@ -1092,7 +1109,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-02"
       ]
     },
     {
@@ -1107,7 +1127,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-02"
       ]
     },
     {
@@ -1120,7 +1143,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-02"
       ]
     },
     {
@@ -1133,7 +1159,11 @@
       ],
       "hint": "",
       "rounds": [
+        "failed",
         "pending"
+      ],
+      "completionDates": [
+        null
       ]
     },
     {
@@ -5136,5 +5166,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-01T09:24:46.203Z"
+  "updatedAt": "2026-10-02T03:46:58.486Z"
 }
