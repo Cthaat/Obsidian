@@ -1549,7 +1549,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-02"
       ]
     },
     {
@@ -1564,7 +1567,11 @@
       ],
       "hint": "",
       "rounds": [
+        "failed",
         "pending"
+      ],
+      "completionDates": [
+        null
       ]
     },
     {
@@ -5245,5 +5252,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-02T08:40:50.381Z"
+  "updatedAt": "2026-10-02T08:47:34.839Z"
 }
