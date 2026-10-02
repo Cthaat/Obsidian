@@ -48,6 +48,20 @@
               "icon": "lucide-file",
               "title": "00 考研数学错题二刷总清单"
             }
+          },
+          {
+            "id": "cfe38f026eaff2c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "15_高数第15讲_微分方程"
+            }
           }
         ],
         "currentTab": 2
@@ -212,12 +226,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7eeddc03d1b0e25",
+  "active": "915513bab2a01779",
   "lastOpenFiles": [
+    "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md",
+    "考研数学/错题/00 考研数学错题二刷总清单.md",
     "tmp/review-date-check.js",
     "考研数学/错题/2026-7-18.md",
     "考研数学/张宇基础30讲笔记/18_高数第18讲_多元函数积分学.md",
-    "考研数学/错题/00 考研数学错题二刷总清单.md",
     "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
     "考研数学/张宇基础30讲笔记/06_高数第6讲_一元函数微分学的应用二.md",
     "考研数学/张宇基础30讲笔记/13_高数第13讲_多元函数微分学.md",
@@ -245,12 +260,10 @@
     "考研数学/错题/2026-7-29.md",
     "考研数学/错题/2026-7-26.md",
     "考研数学/错题/2026-7-24.md",
-    "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md",
     "408/数据结构强化/数据结构期末考试.pdf",
     "docs/superpowers/plans",
     "docs/superpowers",
     "docs",
-    "未命名.base",
     "tmp/pdfs/os4_gap_audit/key_pages/TB_p293.png",
     "tmp/pdfs/os4_gap_audit/key_pages/TB_p292.png",
     "tmp/pdfs/os4_gap_audit/key_pages/TB_p291.png",
