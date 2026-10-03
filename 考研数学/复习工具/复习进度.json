@@ -2163,7 +2163,10 @@
       ],
       "hint": "范围记录，核对具体题目后复习",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-03"
       ]
     },
     {
@@ -2178,7 +2181,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-03"
       ]
     },
     {
@@ -5343,5 +5349,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-03T06:23:04.904Z"
+  "updatedAt": "2026-10-03T06:41:15.026Z"
 }
