@@ -63,8 +63,7 @@
               "title": "15_高数第15讲_微分方程"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/错题/00 考研数学错题二刷总清单.md",
+                "file": "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "915513bab2a01779",
+  "active": "cd45505e3c0e3e26",
   "lastOpenFiles": [
-    "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
     "考研数学/错题/00 考研数学错题二刷总清单.md",
+    "考研数学/张宇基础30讲笔记/09_高数第9讲_一元函数积分学的计算.md",
     "考研数学/张宇基础30讲笔记/15_高数第15讲_微分方程.md",
     "tmp/review-date-check.js",
     "考研数学/错题/2026-7-18.md",
