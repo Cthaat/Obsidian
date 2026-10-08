@@ -2826,7 +2826,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-08"
       ]
     },
     {
@@ -2839,7 +2842,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-08"
       ]
     },
     {
@@ -2853,7 +2859,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-08"
       ]
     },
     {
@@ -2867,7 +2876,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-08"
       ]
     },
     {
@@ -2880,7 +2892,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-08"
       ]
     },
     {
@@ -2893,7 +2908,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-08"
       ]
     },
     {
@@ -5468,5 +5486,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-08T05:31:29.982Z"
+  "updatedAt": "2026-10-08T05:55:38.531Z"
 }
