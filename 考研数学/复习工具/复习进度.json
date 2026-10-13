@@ -4370,7 +4370,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-13"
       ]
     },
     {
@@ -4384,7 +4387,10 @@
       ],
       "hint": "",
       "rounds": [
-        "pending"
+        "passed"
+      ],
+      "completionDates": [
+        "2026-10-13"
       ]
     },
     {
@@ -5747,5 +5753,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-13T01:07:36.879Z"
+  "updatedAt": "2026-10-13T01:16:25.387Z"
 }
